@@ -389,3 +389,12 @@ class JobDataCollector:
         else:
             print(f"⚠️ No se pudo generar el reporte para {job_title_es} en {country}")
             return None
+# Generación de reporte de cursos Coursera --------------------------------
+    def generate_coursera_report(self):
+        """Generar reporte de cursos de Coursera para palabras clave específicas"""
+        all_coursera_courses = {}
+        for keyword in self.coursera_keywords:
+            courses = self.search_coursera_courses(keyword)
+            all_coursera_courses[keyword] = courses
+            time.sleep(1) # Pausa entre llamadas a la API para evitar bloqueos
+
