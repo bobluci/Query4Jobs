@@ -71,3 +71,46 @@
                 <div class="results-summary">
                     <div class="summary-card">
                         <h3 id="totalJobs">0</h3>
+<!-- Visualización de estadísticas -->
+                        <p>Empleos Encontrados</p>
+                    </div>
+                    <div class="summary-card">
+                        <h3 id="avgSalary">$0</h3>
+                        <p>Salario Promedio</p>
+                    </div>
+                    <div class="summary-card">
+                        <h3 id="topTech">-</h3>
+                        <p>Tecnología Principal</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="charts-container">
+                <div class="chart-section">
+                    <h3>📊 Distribución Salarial</h3>
+                    <canvas id="salaryChart"></canvas>
+                </div>
+
+                <div class="chart-section">
+                    <h3>💻 Tecnologías Más Demandadas</h3>
+                    <canvas id="techChart"></canvas>
+                </div>
+
+                <div class="chart-section">
+                    <h3>📈 Experiencia Requerida</h3>
+                    <canvas id="experienceChart"></canvas>
+                </div>
+
+                <div class="chart-section">
+                    <h3>🏢 Distribución por Fuente</h3>
+                    <canvas id="sourceChart"></canvas>
+                </div>
+            </div>
+
+            <div class="jobs-list">
+                <h3>📋 Muestra de Empleos Encontrados</h3>
+                <div id="jobsList" class="jobs-container">
+                    <!-- Los empleos se cargarán aquí dinámicamente -->
+                </div>
+            </div>
+        </div>
