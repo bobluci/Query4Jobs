@@ -168,3 +168,113 @@ body {
   font-size: 0.9rem;
   opacity: 0.9;
 }
+
+.charts-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.chart-section {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.chart-section h3 {
+  color: #4a5568;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.chart-section canvas {
+  max-height: 300px;
+}
+
+.jobs-list {
+  margin-top: 2rem;
+}
+
+.jobs-list h3 {
+  color: #4a5568;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.jobs-container {
+  display: grid;
+  gap: 1rem;
+}
+
+.job-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #667eea;
+}
+
+.job-card h4 {
+  color: #4a5568;
+  margin-bottom: 0.5rem;
+}
+
+.job-card .job-company {
+  color: #667eea;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.job-card .job-location {
+  color: #718096;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.job-card .job-salary {
+  color: #38a169;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.job-card .job-source {
+  background: #e2e8f0;
+  color: #4a5568;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  display: inline-block;
+}
+
+.error-section {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 2rem;
+  border-radius: 15px;
+  margin-bottom: 2rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.error-message {
+  color: #e53e3e;
+}
+
+.error-message h3 {
+  margin-bottom: 1rem;
+}
+
+.retry-btn {
+  background: #e53e3e;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.retry-btn:hover {
+  background: #c53030;
+}
