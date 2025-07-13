@@ -376,3 +376,48 @@ async function loadCourseraCourses() {
     displayCourseraCourses({ Python: [], SQL: [], R: [] }) // Objeto vacío para evitar errores
   }
 }
+// Visualización de cursos de Coursera
+function displayCourseraCourses(coursesData) {
+  const pythonContainer = document.getElementById("pythonCourses")
+  const sqlContainer = document.getElementById("sqlCourses")
+  const rContainer = document.getElementById("rCourses")
+
+  // Limpiar contenedores antes de añadir nuevos cursos
+  pythonContainer.innerHTML = ""
+  sqlContainer.innerHTML = ""
+  rContainer.innerHTML = ""
+
+  if (coursesData.Python && coursesData.Python.length > 0) {
+    coursesData.Python.forEach((course) => {
+      pythonContainer.appendChild(createCourseCard(course))
+    })
+  } else {
+    pythonContainer.innerHTML = "<p>No se encontraron cursos de Python.</p>"
+  }
+
+  if (coursesData.SQL && coursesData.SQL.length > 0) {
+    coursesData.SQL.forEach((course) => {
+      sqlContainer.appendChild(createCourseCard(course))
+    })
+  } else {
+    sqlContainer.innerHTML = "<p>No se encontraron cursos de SQL.</p>"
+  }
+
+  if (coursesData.R && coursesData.R.length > 0) {
+    coursesData.R.forEach((course) => {
+      rContainer.appendChild(createCourseCard(course))
+    })
+  } else {
+    rContainer.innerHTML = "<p>No se encontraron cursos de R.</p>"
+  }
+}
+
+function createCourseCard(course) {
+  const card = document.createElement("div")
+  card.className = "course-card"
+  card.innerHTML = `
+        <h4><a href="${course.link}" target="_blank" rel="noopener noreferrer">${course.title}</a></h4>
+        <p>${course.snippet || "No hay descripción disponible."}</p>
+    `
+  return card
+}
