@@ -145,3 +145,33 @@ class JobDataCollector:
         except Exception as e:
             print(f"Error conectando a Jooble ({country_code}): {e}")
             return None
+# Búsqueda de cursos de Coursera--------------------------------
+    def search_coursera_courses(self, keyword, num_results=5):
+        """Buscar cursos de Coursera usando SerpAPI"""
+        print(f"Buscando cursos de Coursera para: {keyword}")
+        params = {
+            "api_key": self.serpapi_api_key,
+            "engine": "google",
+            "q": f"{keyword} courses site:coursera.org", # Buscar en Coursera.org
+            "num": num_results, # Número de resultados por página
+            "hl": "es", # Idioma de los resultados (español)
+            "gl": "us" # Ubicación geográfica para la búsqueda (genérico)
+        }
+        try:
+            search = GoogleSearch(params)
+            results = search.get_dict()
+            courses = []
+            if "organic_results" in results:
+                for result in results["organic_results"]:
+                    # Filtrar para asegurar que sean enlaces de cursos de Coursera
+                    if "coursera.org/learn/" in result.get("link", "") or "coursera.org/specializations/" in result.get("link", ""):
+                        courses.append({
+                            "title": result.get("title"),
+                            "link": result.get("link"),
+                            "snippet": result.get("snippet"),
+                            "source": "Coursera"
+                        })
+            return courses
+        except Exception as e:
+            print(f"Error buscando cursos de Coursera para {keyword}: {e}")
+            return []
