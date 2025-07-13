@@ -68,9 +68,9 @@
 
 ## 👥 Integrantes del equipo
 
-- **Zavaleta Mamani Juan**
-- **Carbajal Falcón Lucía**
-- **Ojeda Machuca Laura**
+- **Zavaleta Mamani Juan** - **StarShopping19**
+- **Carbajal Falcón Lucía** - **bobluci**
+- **Ojeda Machuca Laura** - **lauri2304**
 
 ---
 
