@@ -297,3 +297,45 @@ class JobDataCollector:
                     experience_years.append(exp)
         
         time.sleep(1)
+# Análisis de datos de empleo JOOBLE------------------------------------        
+        # Buscar en Jooble
+        jooble_data = self.search_jooble_jobs(translated_job_title, country_codes["jooble"])
+        if jooble_data and "jobs" in jooble_data:
+            for job in jooble_data["jobs"]:
+                job_info = {
+                    "title": job.get("title", ""),
+                    "description": job.get("snippet", ""),
+                    "salary_min": None,
+                    "salary_max": None,
+                    "company": job.get("company", ""),
+                    "location": job.get("location", ""),
+                    "source": "Jooble"
+                }
+                all_jobs.append(job_info)
+                
+                full_text = f"{job_info['title']} {job_info['description']}"
+                text_salaries = self.extract_salary_from_text(full_text)
+                if text_salaries:
+                    salaries.extend(text_salaries)
+                
+                technologies.extend(self.extract_technologies_from_text(full_text))
+                
+                exp = self.extract_experience_from_text(full_text)
+                if exp:
+                    experience_years.append(exp)
+        
+        tech_counter = Counter(technologies)
+        
+        analysis = {
+            "job_title": job_title_es,
+            "country": country,
+            "currency_symbol": currency_info["symbol"],
+            "currency_code": currency_info["code"],
+            "total_jobs": len(all_jobs),
+            "salary_stats": self.calculate_salary_stats(salaries),
+            "top_technologies": dict(tech_counter.most_common(10)),
+            "experience_stats": self.calculate_experience_stats(experience_years),
+            "jobs_sample": all_jobs[:10]
+        }
+        
+        return analysis
