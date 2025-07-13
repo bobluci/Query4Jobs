@@ -4,6 +4,18 @@
 
 ---
 
+## 🌐 Sitio Web del Proyecto
+
+Puedes acceder al sitio web oficial del proyecto **Query4Jobs** a través del siguiente enlace:
+
+[https://bobluci.github.io/Query4Jobs/](https://bobluci.github.io/Query4Jobs/)
+
+Este portal presenta de forma interactiva el análisis de empleos relacionados con Estadística y Ciencia de Datos, incluyendo visualizaciones dinámicas, filtros por país y puesto, y un panel de formación con cursos destacados en Coursera.
+
+El sitio ha sido optimizado para ofrecer una navegación fluida, presentación clara de resultados y gráficos generados en tiempo real a partir de fuentes internacionales.
+
+---
+
 ## 💡 Objetivos del proyecto
 
 - Facilitar el análisis del mercado laboral en campos estadísticos y relacionados con ciencia de datos.
