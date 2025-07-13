@@ -355,3 +355,37 @@ class JobDataCollector:
             "std_dev": statistics.stdev(salaries) if len(salaries) > 1 else 0
         }
     
+# Estadísticas de experiencia-----------------------------------
+    def calculate_experience_stats(self, experience_years):
+        """Calcular estadísticas de experiencia"""
+        if not experience_years:
+            return {"count": 0, "min": 0, "max": 0, "mean": 0, "median": 0, "distribution": {}, "message": "No hay datos de experiencia disponibles"}
+            
+        exp_counter = Counter(experience_years)
+        return {
+            "count": len(experience_years),
+            "min": min(experience_years),
+            "max": max(experience_years),
+            "mean": statistics.mean(experience_years),
+            "median": statistics.median(experience_years),
+            "distribution": dict(exp_counter)
+        }
+
+    def generate_report(self, job_title_es, country):
+        """Generar reporte completo para un puesto y país"""
+        analysis = self.analyze_job_data(job_title_es, country)
+        
+        if analysis:
+            # Guardar en archivo JSON dentro del directorio de salida
+            filename = os.path.join(self.data_output_dir, f"data_{job_title_es.replace(' ', '_')}_{country.replace(' ', '_')}.json")
+            try:
+                with open(filename, 'w', encoding='utf-8') as f:
+                    json.dump(analysis, f, ensure_ascii=False, indent=2)
+                print(f"✅ Reporte de empleo guardado en: {filename}")
+                return analysis
+            except Exception as e:
+                print(f"❌ Error al guardar el reporte de empleo en {filename}: {e}")
+                return None
+        else:
+            print(f"⚠️ No se pudo generar el reporte para {job_title_es} en {country}")
+            return None
