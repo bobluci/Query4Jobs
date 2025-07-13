@@ -349,3 +349,30 @@ window.debugSearch = () => {
   const country = document.getElementById("country").value
   console.log("Puesto:", jobPosition, "País:", country)
 }
+// --- Funciones para cursos de Coursera ---
+async function loadCourseraCourses() {
+  try {
+    const response = await fetch("data/coursera_courses.json")
+    let coursesData
+    if (response.ok) {
+      coursesData = await response.json()
+    } else {
+      console.warn(
+        "No se pudo cargar data/coursera_courses.json. Asegúrate de haber ejecutado 'python data_collector.py' y de estar sirviendo la aplicación con un servidor web local.",
+      )
+      // Si no se puede cargar, se mostrará un mensaje de "No se encontraron cursos"
+      coursesData = { Python: [], SQL: [], R: [] } // Objeto vacío para evitar errores en displayCourseraCourses
+    }
+    displayCourseraCourses(coursesData)
+  } catch (error) {
+    console.error("Error al cargar los cursos de Coursera:", error)
+    showError(
+      `Error al cargar los cursos de Coursera. Esto puede deberse a la política de seguridad del navegador (CORS) al abrir el archivo directamente.
+      Por favor, asegúrate de:
+      1. Haber ejecutado 'python data_collector.py' para generar los archivos JSON.
+      2. Estar ejecutando la aplicación a través de un servidor web local (ej. http://localhost:8000), no directamente desde el archivo.
+      (Detalles técnicos en la consola del navegador)`,
+    )
+    displayCourseraCourses({ Python: [], SQL: [], R: [] }) // Objeto vacío para evitar errores
+  }
+}
