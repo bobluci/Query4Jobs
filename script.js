@@ -72,3 +72,38 @@ async function loadRealData(jobPosition, country) {
     return null
   }
 }
+
+// Las funciones displayResults, createCharts, createSalaryChart, createTechChart,
+// createExperienceChart, createSourceChart, displayJobsList, showLoading,
+// hideLoading, showResults, hideResults, showError, hideError, debugSearch
+// permanecen sin cambios.
+
+// Visualización de resultados
+function displayResults(data) {
+  currentData = data
+
+  // Actualizar resumen
+  document.getElementById("resultsTitle").textContent = `Análisis: ${data.job_title} en ${data.country}`
+
+  // Mostrar el total de empleos
+  document.getElementById("totalJobs").textContent = data.total_jobs
+
+  // Mostrar el salario promedio con símbolo y código de moneda
+  if (data.salary_stats.count > 0) {
+    document.getElementById("avgSalary").textContent =
+      `${data.currency_symbol}${data.salary_stats.mean.toLocaleString()} ${data.currency_code}`
+  } else {
+    document.getElementById("avgSalary").textContent = "N/A"
+  }
+
+  const topTech = Object.keys(data.top_technologies)[0] || "N/A"
+  document.getElementById("topTech").textContent = topTech
+
+  // Crear gráficos
+  createCharts(data)
+
+  // Mostrar lista de empleos
+  displayJobsList(data.jobs_sample, data.currency_symbol, data.currency_code)
+
+  showResults()
+}
