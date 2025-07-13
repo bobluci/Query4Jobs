@@ -21,3 +21,46 @@
   - México 🇲🇽
   - Alemania 🇩🇪
   - Francia 🇫🇷
+
+### 📊 Visualización de resultados
+- Estadísticas generales:
+  - Total de empleos encontrados
+  - Salario promedio
+  - Tecnología más mencionada
+
+- Gráficos dinámicos generados con Chart.js:
+  - 📉 Distribución salarial
+  - 💻 Tecnologías más demandadas
+  - 📈 Experiencia requerida
+  - 🏢 Fuentes de publicación
+
+### 📚 Panel Coursera
+- Muestra cursos populares para potenciar el perfil en:
+  - Python
+  - SQL
+  - R  
+*Datos obtenidos mediante integración con SerpAPI.*
+
+---
+
+## 🖼️ Componentes visuales
+
+- Formulario con validación
+- Indicador de carga animado
+- Panel de resultados ocultable
+- Sección de errores personalizada
+- Lista dinámica de empleos
+- Panel de formación con categorías de cursos
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+| Componente     | Tecnología                  |
+|----------------|-----------------------------|
+| Frontend       | HTML, CSS, JavaScript       |
+| Visualización  | Chart.js                    |
+| Backend        | Python                      |
+| Datos externos | Jooble, Adzuna, SerpAPI     |
+
+---
