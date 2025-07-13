@@ -408,3 +408,21 @@ class JobDataCollector:
         except Exception as e:
             print(f"❌ Error al guardar el reporte de cursos de Coursera en {filename}: {e}")
             return None
+def main():
+    """Función principal para ejecutar el recolector de datos"""
+    collector = JobDataCollector()
+    
+    print("=== Query4Jobs - Recolector de Datos ===")
+    print("\nPuestos disponibles:")
+    for i, job in enumerate(collector.job_positions, 1):
+        print(f"{i}. {job}")
+    
+    print("\nPaíses disponibles:")
+    for i, country in enumerate(collector.countries.keys(), 1):
+        print(f"{i}. {country}")
+    
+    print("\n--- Generando reportes de empleos para todos los puestos y países ---")
+    for job_pos in collector.job_positions:
+        for country_name in collector.countries.keys():
+            collector.generate_report(job_pos, country_name)
+            time.sleep(2) # Pausa para evitar saturar las APIs y para mejor visualización en consola
