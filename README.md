@@ -64,3 +64,28 @@
 | Datos externos | Jooble, Adzuna, SerpAPI     |
 
 ---
+
+
+## 👥 Integrantes del equipo
+
+- **Zavaleta Mamani Juan** - **StarShopping19**
+- **Carbajal Falcón Lucía** - **bobluci**
+- **Ojeda Machuca Laura** - **lauri2304**
+
+---
+
+## 📁 Salida de datos
+
+Los reportes generados se almacenan en formato `.json`, organizados por puesto y país para su reutilización o análisis externo.
+
+---
+
+## 📌 Créditos de fuentes
+
+- [Jooble](https://www.jooble.org/)
+- [Adzuna](https://www.adzuna.com/)
+- [Coursera](https://www.coursera.org/) (vía [SerpAPI](https://serpapi.com/))
+
+---
+
+> Hecho con dedicación por estudiantes de la carrera de Estadística Informática - Universidad Nacional Agraria La Molina ✨
