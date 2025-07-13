@@ -65,6 +65,19 @@
 
 ---
 
+## ⚠️ Dificultades Técnicas
+
+Durante el desarrollo de **Query4Jobs**, se enfrentaron diversos retos técnicos que influyeron en las decisiones de diseño y alcance del proyecto.
+
+- **Limitaciones para incorporar datos laborales nacionales (Perú):**  
+  Aunque inicialmente se consideró incluir empleos del mercado peruano, no fue posible debido a la escasa disponibilidad de APIs públicas confiables. El acceso a plataformas importantes como LinkedIn resulta engorroso o restringido por políticas, lo que imposibilitó su integración. Además, técnicas de web scraping en portales locales se vieron limitadas por estructuras dinámicas o bloqueos automáticos que impidieron la extracción de datos de forma eficiente.
+
+- **Restricciones de uso en servicios API:**  
+  Algunas de las APIs utilizadas en el proyecto presentan un número limitado de consultas por clave (apikey), lo que condicionó la profundidad de exploración y obligó a priorizar búsquedas específicas para optimizar recursos sin exceder los límites permitidos.
+
+Estas dificultades marcaron el alcance del sistema y condujeron a centrarse en fuentes internacionales más accesibles desde el punto de vista técnico, manteniendo así la utilidad del análisis para usuarios interesados en empleos globales en Estadística y Ciencia de Datos.
+
+---
 
 ## 👥 Integrantes del equipo
 
