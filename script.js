@@ -107,3 +107,178 @@ function displayResults(data) {
 
   showResults()
 }
+
+// Generación de gráficos
+function createCharts(data) {
+  // Destruir gráficos existentes
+  Object.values(charts).forEach((chart) => {
+    if (chart) chart.destroy()
+  })
+
+  // Gráfico de salarios
+  if (data.salary_stats.count > 0) {
+    createSalaryChart(data.salary_stats, data.currency_symbol, data.currency_code)
+  }
+
+  // Gráfico de tecnologías
+  createTechChart(data.top_technologies)
+
+  // Gráfico de experiencia
+  if (data.experience_stats.count > 0) {
+    createExperienceChart(data.experience_stats)
+  }
+
+  // Gráfico de fuentes
+  createSourceChart(data.jobs_sample)
+}
+
+function createSalaryChart(salaryStats, currencySymbol, currencyCode) {
+  const ctx = document.getElementById("salaryChart").getContext("2d")
+
+  charts.salary = new Chart(ctx, {
+    type: "bar",
+    data: {
+      labels: ["Mínimo", "Promedio", "Mediana", "Máximo"],
+      datasets: [
+        {
+          label: `Salario (${currencyCode})`,
+          data: [salaryStats.min, salaryStats.mean, salaryStats.median, salaryStats.max],
+          backgroundColor: [
+            "rgba(255, 99, 132, 0.8)",
+            "rgba(54, 162, 235, 0.8)",
+            "rgba(255, 205, 86, 0.8)",
+            "rgba(75, 192, 192, 0.8)",
+          ],
+          borderColor: [
+            "rgba(255, 99, 132, 1)",
+            "rgba(54, 162, 235, 1)",
+            "rgba(255, 205, 86, 1)",
+            "rgba(75, 192, 192, 1)",
+          ],
+          borderWidth: 2,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+        y: {
+          beginAtZero: true,
+          ticks: {
+            callback: (value) => `${currencySymbol}${value.toLocaleString()}`,
+          },
+        },
+      },
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: (context) => `${context.dataset.label}: ${currencySymbol}${context.parsed.y.toLocaleString()}`,
+          },
+        },
+      },
+    },
+  })
+}
+
+function createTechChart(technologies) {
+  const ctx = document.getElementById("techChart").getContext("2d")
+
+  const labels = Object.keys(technologies).slice(0, 8)
+  const data = Object.values(technologies).slice(0, 8)
+
+  charts.tech = new Chart(ctx, {
+    type: "bar",
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          label: "Menciones",
+          data: data,
+          backgroundColor: "rgba(102, 126, 234, 0.8)",
+          borderColor: "rgba(102, 126, 234, 1)",
+          borderWidth: 2,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      indexAxis: "y", // Esto hace que sea horizontal
+      scales: {
+        x: {
+          beginAtZero: true,
+        },
+      },
+    },
+  })
+}
+
+function createExperienceChart(experienceStats) {
+  const ctx = document.getElementById("experienceChart").getContext("2d")
+
+  const labels = Object.keys(experienceStats.distribution).map((year) => `${year} años`)
+  const data = Object.values(experienceStats.distribution)
+
+  charts.experience = new Chart(ctx, {
+    type: "doughnut",
+    data: {
+      labels: labels,
+      datasets: [
+        {
+          data: data,
+          backgroundColor: [
+            "rgba(255, 99, 132, 0.8)",
+            "rgba(54, 162, 235, 0.8)",
+            "rgba(255, 205, 86, 0.8)",
+            "rgba(75, 192, 192, 0.8)",
+            "rgba(153, 102, 255, 0.8)",
+            "rgba(255, 159, 64, 0.8)",
+          ],
+          borderWidth: 2,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: "bottom",
+        },
+      },
+    },
+  })
+}
+
+function createSourceChart(jobsSample) {
+  const ctx = document.getElementById("sourceChart").getContext("2d")
+
+  const sources = {}
+  jobsSample.forEach((job) => {
+    sources[job.source] = (sources[job.source] || 0) + 1
+  })
+
+  charts.source = new Chart(ctx, {
+    type: "pie",
+    data: {
+      labels: Object.keys(sources),
+      datasets: [
+        {
+          data: Object.values(sources),
+          backgroundColor: ["rgba(102, 126, 234, 0.8)", "rgba(118, 75, 162, 0.8)", "rgba(255, 99, 132, 0.8)"],
+          borderWidth: 2,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: "bottom",
+        },
+      },
+    },
+  })
+}
