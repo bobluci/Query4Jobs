@@ -309,3 +309,43 @@ function displayJobsList(jobs, currencySymbol, currencyCode) {
     container.appendChild(jobCard)
   })
 }
+
+function showLoading() {
+  document.getElementById("loadingSection").style.display = "block"
+  document.getElementById("resultsSection").style.display = "none" // Ocultar resultados al cargar
+  document.getElementById("errorSection").style.display = "none" // Ocultar errores al cargar
+}
+
+function hideLoading() {
+  document.getElementById("loadingSection").style.display = "none"
+}
+
+function showResults() {
+  document.getElementById("resultsSection").style.display = "block"
+}
+
+function hideResults() {
+  document.getElementById("resultsSection").style.display = "none"
+}
+
+function showError(message) {
+  document.getElementById("errorText").textContent = message
+  document.getElementById("errorSection").style.display = "block"
+  document.getElementById("loadingSection").style.display = "none" // Ocultar carga al mostrar error
+  document.getElementById("resultsSection").style.display = "none" // Ocultar resultados al mostrar error
+}
+
+function hideError() {
+  document.getElementById("errorSection").style.display = "none"
+}
+
+// Función para ocultar error (llamada desde HTML)
+window.hideError = hideError
+
+// Función de debugging
+window.debugSearch = () => {
+  console.log("Función de búsqueda ejecutándose...")
+  const jobPosition = document.getElementById("jobPosition").value
+  const country = document.getElementById("country").value
+  console.log("Puesto:", jobPosition, "País:", country)
+}
