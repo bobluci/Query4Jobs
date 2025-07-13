@@ -1,0 +1,74 @@
+{
+  "job_title": "Analista actuarial",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 5,
+  "salary_stats": {
+    "count": 6,
+    "min": 486,
+    "max": 70000,
+    "mean": 43714.666666666664,
+    "median": 60000.0,
+    "std_dev": 33875.21486081921
+  },
+  "top_technologies": {
+    "R": 2
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "ANALYSTE ACTUARIEL",
+      "description": "Expectra, leader en France de l'intérim spécialisé et du recrutement en CDI de cadres et agents de maîtrise. Les consultants du Département Comptabilité & Finance vous proposent des opportunités de carrière. Nous recherchons pour le compte de notre client organisme de retraite complémentaire un analyste actuariel Rattaché(e) à la direction du contrôle de gestion et des études, vos principales missions seront : Refonte du modèle actuariel, Codage du modèle en R (migration depuis Visual Basic), A…",
+      "salary_min": 70000,
+      "salary_max": 70000,
+      "company": "Expectra",
+      "location": "1er Arrondissement, Paris",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Alternance - Analyste Développeur Actuariel - Data & Si H/F",
+      "description": "Pourquoi avons-nous besoin de Toi ? Dans le cadre de ton alternance au sein du service Actuariat Produit de MALAKOFF HUMANIS, tu contribueras à la cartographie des bases de données utilisées par l'équipe, et participeras à la mise en place ou à la fiabilisation des maquettes de calculs actuariels (rentes viagères, calcul de fiscalité, avances) dans le domaine de l'Épargne. Ces missions visent à garantir la fiabilité des calculs tout en optimisant les processus d'extraction et d'analyse des donn…",
+      "salary_min": 486,
+      "salary_max": 1802,
+      "company": "Malakoff Humanis",
+      "location": "Bouches-du-Rhône, Provence-Alpes-Côte d'Azur",
+      "source": "Adzuna"
+    },
+    {
+      "title": "BUSINESS ANALYST MATLAB H/F",
+      "description": "Dans ce cadre, vous intégrez le service YAB SI Modélisation, Investissement et clientèle Patrimoniale qui recherche un Business Analyste pour renforcer l'équipe Si comptabilité des actifs Missions Business Analyst sur le domaine Modélisation actuarielle (NEMO) Il/elle a la charge des projets d'évolution des modèles du siège et des filiales : mise à disposition des outils IFRS 17, travaux d'assistance auprès des filiales italiennes et espagnoles, développement et maintien de l'outil d'automatisa…",
+      "salary_min": 50000,
+      "salary_max": 70000,
+      "company": "CNP Assurances",
+      "location": "Angers-Est, Angers",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Analyst H/F",
+      "description": "Informations générales Entité de rattachement Le groupe CNP Assurances est un acteur de référence de l'assurance de personnes (vie, retraite, emprunteur, prévoyance, santé, services de qualité, …), en France, en Europe et en Amérique Latine. En quelques chiffres, CNP Assurances réalise un chiffre d'affaires de 36 milliards d'euros avec un résultat net de plus de 1,9 milliards d'euros pour l'année 2022. Rejoindre CNP, c'est intégrer une entreprise solide constituée de plus de 3000 collaborateurs…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CNP Assurances",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "description": "&nbsp;...Fluency in English (professional working level required)\r\n\r\n\r\n Coders Connect is partnering with Sanofi to hire multiple   Data <b>Analysts </b>   for their growing   R&D Accelerator    unit in Paris. These are hybrid roles working on impactful, data-driven products that support...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Coders Connect",
+      "location": "France",
+      "source": "Jooble"
+    }
+  ]
+}

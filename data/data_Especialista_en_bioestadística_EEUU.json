@@ -1,0 +1,119 @@
+{
+  "job_title": "Especialista en bioestadística",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 34,
+  "salary_stats": {
+    "count": 8,
+    "min": 48623.14,
+    "max": 174721.02,
+    "mean": 127567.775,
+    "median": 143463.47,
+    "std_dev": 50695.44880738337
+  },
+  "top_technologies": {
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Research & Teaching Specialist III (Epidemiology/Biostatistics)",
+      "description": "Posting Summary Rutgers, the State University of New Jersey, is seeking a Research & Teaching Specialist III (Epidemiology/Biostatistics) for the Department of Medicine within New Jersey Medical School. Under the direction of the Principal Investigator and Principal Research Associate, provides specialized substantive analytic support for the procurement and analysis of outcomes data in a ~10,000-person linked cohort, begun in the 1980’s and backed by a biospecimen repository, of persons with a…",
+      "salary_min": 48623.14,
+      "salary_max": 48623.14,
+      "company": "Rutgers University",
+      "location": "Newark, Essex County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Associate Director Biostatistics, Cell Therapy Immunology",
+      "description": "Are you ready to push the boundaries of science and transform the lives of patients living with cancer? As an Associate Director in Biostatistics for Cell Therapy Immunology, youll provide technical leadership and collaborate with cross-functional teams to drive innovation in drug development. Join us in our mission to eliminate cancer as a cause of death and make bold moves that truly improve patient outcomes. Accountabilities: Project manage a group of staff ensuring delivery of statistical c…",
+      "salary_min": 139336.14,
+      "salary_max": 139336.14,
+      "company": "AstraZeneca",
+      "location": "South Waltham, Middlesex County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Associate Director Biostatistics, Cell Therapy Immunology",
+      "description": "Associate Director Biostatistics, Cell Therapy Immunology Are you ready to push the boundaries of science and transform the lives of patients living with cancer? As an Associate Director in Biostatistics for Cell Therapy Immunology, you'll provide technical leadership and collaborate with cross-functional teams to drive innovation in drug development. Join us in our mission to eliminate cancer as a cause of death and make bold moves that truly improve patient outcomes. Accountabilities: Project…",
+      "salary_min": 147590.8,
+      "salary_max": 147590.8,
+      "company": "AstraZeneca",
+      "location": "Waltham, Middlesex County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Director Clinical Research",
+      "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 114,000 colleagues serve people in more than 160 countries. Director, Clinical Research Our business purpose is to lead and shape the treatment of patients with structural heart disease via driving innovation,…",
+      "salary_min": 174721.02,
+      "salary_max": 174721.02,
+      "company": "Abbott",
+      "location": "Holy, Santa Clara County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Biostatistics Leader - Immunology",
+      "description": "&nbsp;...The Position \r\n We advance science so that we all have more time with the people we love. \r\n\r\n The Opportunity \r\n\r\n As the <b>Biostatistics </b>Leader - Immunology, you will provide strategic leadership and oversight across all Biostatisticians within Immunology, ensuring a cohesive...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "F. Hoffmann-La Roche Ltd",
+      "location": "South San Francisco, CA",
+      "source": "Jooble"
+    },
+    {
+      "title": "Data Standard Analyst - Biostatistics Team",
+      "description": "&nbsp;...corporate activities are growing rapidly, and we are currently seeking a full-time, office-based Data Standard Analyst to join our <b>Biostatistics </b>team. This position will work on a team to accomplish tasks and projects that are instrumental to the company’s success. If you...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Medpace",
+      "location": "Cincinnati, OH",
+      "source": "Jooble"
+    },
+    {
+      "title": "Flow Cytometry Specialist I",
+      "description": "Flow Cytometry <b>Specialist </b>I\r\nAdvanced Technology Cores, Baylor College of Medicine, Texas, USA\r\nSummary\r\nThe Cytometry and Cell Sorting...&nbsp;&nbsp;...operation of instrumentation.\r\n~Mass cytometry.\r\n~Antigen Retrieval.\r\n~R programming.\r\n~Image analysis.\r\n~<b>Biostatistics.</b>...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Baylor College of Medicine",
+      "location": "Texas",
+      "source": "Jooble"
+    },
+    {
+      "title": "Pharmacovigilance (PV) Specialist",
+      "description": "&nbsp;...overcome barriers, together. \r\n Opportunity Overview \r\n As a PV <b>Specialist,</b> you will have a critical role in shaping the...&nbsp;&nbsp;...processes (Regulatory, Clinical Operations, Data Management, and <b>Biostatistics)</b>. \r\n~ Demonstrable organizational and workflow prioritization...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Rhythm Pharmaceuticals",
+      "location": "Boston, MA",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Specialist, Translational Immunology Data Science",
+      "description": "&nbsp;...documentation of codes, pipelines, and analyses. \r\n Qualifications: \r\n Education: \r\n~ Ph.D. in Computational Biology, Bioinformatics, <b>Biostatistics,</b> Computer Science or a related field and a minimum of 2 years of postdoctoral or industry research experience in data science or...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Merck & Co.",
+      "location": "San Diego, CA",
+      "source": "Jooble"
+    },
+    {
+      "title": "Sr. Specialist, Project Management - Value & Implementation (VIPM) - Hybrid",
+      "description": "&nbsp;...Professionals. \r\n Position Description/Summary \r\n The GPAM Senior <b>Specialist,</b> Value & Implementation Project Manager (VIPM), is a core...&nbsp;&nbsp;...(e.g., Medical Affairs, Outcomes Research, Market Access, <b>Biostatistics </b>and Research Decision Sciences, Commercial, and other areas)...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Merck",
+      "location": "United States",
+      "source": "Jooble"
+    }
+  ]
+}

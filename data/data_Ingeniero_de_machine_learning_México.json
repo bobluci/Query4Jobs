@@ -1,0 +1,123 @@
+{
+  "job_title": "Ingeniero de machine learning",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 30,
+  "salary_stats": {
+    "count": 4,
+    "min": 120000.0,
+    "max": 360000,
+    "mean": 223500.0,
+    "median": 207000.0,
+    "std_dev": 110131.73929435601
+  },
+  "top_technologies": {
+    "GCP": 3,
+    "Python": 1,
+    "Power BI": 1,
+    "Git": 1,
+    "SQL": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Analista de Datos - Power Bi, Python",
+      "description": "Vacante: Analista de Datos - Transformación Educativa Buscamos un Analista de Datos apasionado por las habilidades en programación y análisis avanzado. Tu labor será aprovechar al máximo la información y generar inteligencia valiosa para nuestra institución en línea con nuestros principios de innovación y calidad. Tecnologías requeridas. Power bi Phyton Macros Bases de Machine learning (Deseable) Ingeniero Industrial (Deseable) Responsabilidades clave: Emplear lenguajes de programación como Pow…",
+      "salary_min": 264000,
+      "salary_max": 360000,
+      "company": "Pentafon Contact Center & BPO",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "AI/ML Engineer",
+      "description": "&nbsp;...driving environments \r\n•    Engineer solutions using few-shot <b>learning </b>and prompt-based techniques to rapidly adapt models to new tasks...&nbsp;&nbsp;...of generative Al, including probability theory, statistics, and <b>machine </b>learning. \r\n•    Develop and deploy generative Al models,...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Delivery Director exp.AI/ML",
+      "description": "&nbsp;...Delivery Director exp.AI/ML to join our team in Mexico City, Ciudad <b>de </b>México (MX-CMX), Mexico (MX). \r\n The candidate must be able to...&nbsp;&nbsp;...to support the overall mission. \r\n\r\n~ Assist in streamlining <b>Machine Learning </b>(ML) DevOps for efficiencies across the Enterprise. \r\n\r\n~...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "description": "&nbsp;...Preferred Qualifications \r\n Expertise in breaking down cloud-native monolithic high-volume applications. \r\n Experience implementing <b>machine learning </b>or artificial intelligence solutions (optional). \r\n Centric Software provides equal employment opportunities to all qualified...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CENTRIC SOFTWARE INC",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Oracle CPQ Developer",
+      "description": " Req ID: 321002\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Oracle CPQ Developer to...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Full Stack developer .NET + Angular (REMOTE)",
+      "description": "&nbsp;...organization, apply now. \r\n We are currently seeking a Full Stack developer .NET + Angular (REMOTE) to join our team in CDMX, Ciudad <b>de </b>México (MX-CMX), Mexico (MX). \r\n Job Description: Full Stack .Net Developer + Angular \r\n REMOTE Position \r\n Position's General Duties...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Software Development Specialist",
+      "description": "&nbsp;...forward-thinking organization, apply now. \r\n We are currently seeking a Software Development Specialist to join our team in CDMX, Ciudad <b>de </b>México (MX-CMX), Mexico (MX). \r\n Job Title: Production Support Engineer \r\n Experience: 4–6 years \r\n Work Type: Full-time | remote...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Software Development Senior Specialist",
+      "description": "&nbsp;...Software Development Senior Specialist to join our team in Monterrey, Nuevo León (MX-NLE), Mexico (MX). \r\n Programador con habilidades <b>de </b>haber creado aplicaciones completas Móviles, con extenso conocimiento de Backend, así como tencnologías Flutter, IOS, Android....&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Delivery Director",
+      "description": "&nbsp;...adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Delivery Director to join our team in Mexico, Ciudad <b>de </b>México (MX-CMX), Mexico (MX). \r\n The Delivery Manager/ Test Manager will collaborate with development, sales, account management,...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Testing Engineering Senior Analyst",
+      "description": "&nbsp;...-thinking organization, apply now. \r\n We are currently seeking a Testing Engineering Senior Analyst to join our team in CDMX, Ciudad <b>de </b>México (MX-CMX), Mexico (MX). \r\n-Leads sophisticated defect detection, problem solving and troubleshooting with complex software. \r\n-...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    }
+  ]
+}

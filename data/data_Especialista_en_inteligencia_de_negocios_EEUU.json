@@ -1,0 +1,126 @@
+{
+  "job_title": "Especialista en inteligencia de negocios",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 55677.53,
+    "max": 226800,
+    "mean": 94874.8212,
+    "median": 89613.66500000001,
+    "std_dev": 28739.43167229533
+  },
+  "top_technologies": {
+    "Tableau": 5,
+    "SQL": 4,
+    "Python": 3,
+    "Power BI": 2,
+    "GCP": 2,
+    "R": 1,
+    "Hadoop": 1
+  },
+  "experience_stats": {
+    "count": 1,
+    "min": 5,
+    "max": 5,
+    "mean": 5,
+    "median": 5,
+    "distribution": {
+      "5": 1
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Business Intelligence Specialist",
+      "description": "MUST BE LOCAL TO THE GREATER ST. LOUIS METROPOLITAN AREA DIRECT HIRE As BI Specialist you will be a strategic partner who collaborates closely with business stakeholders to uncover the true story behind the data. Requirements 3 years of experience in Business Intelligence roles, with strong skills in data visualization, report development, and data warehousing. Proficiency in Tableau, SQL Server Reporting Services (SSRS), and SQL. Experience in managing and maintaining a Data Warehouse and deve…",
+      "salary_min": 56609.9,
+      "salary_max": 56609.9,
+      "company": "The Timberline Group",
+      "location": "Saint Louis, Saint Louis County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Specialist",
+      "description": "Are you searching for an opportunity to take your career to the next level? Ignite Digital Services is a fast-growing digital transformation company serving the national security sector. Our small business applies data science, program management and technical domain expertise to help clients implement data-driven approaches that maximize operational efficiencies. We’ve redefined what it means to be a leader in our industry by creating and maintaining effective and rewarding working relationshi…",
+      "salary_min": 95339.86,
+      "salary_max": 95339.86,
+      "company": "Ignite Digital Services",
+      "location": "San Diego, San Diego County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Specialist",
+      "description": "Position Title: Business Intelligence Specialist Department: Marketing and Communications Supervisor: Senior Director, Marketing and Business Intelligence Classification: Regular, Full-Time, Non-Exempt Location: Burbank, CA (Hybrid) Compensation: $33.50-$38.50/ hourly Work with a Purpose! PBS SoCal is looking for a Business Intelligence professional to become the driving force behind our data driven- strategies. In this important role you will leverage cutting edge tools and techniques to provi…",
+      "salary_min": 69680,
+      "salary_max": 80080,
+      "company": "Public Media Group Of Southern California",
+      "location": "Magnolia Park, Los Angeles County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Specialist",
+      "description": "Provides consultation and ad hoc analyses to clinical and operational leaders and teams. Dives deep into their data in order to support local objectives and Dartmouth Health priorities using programming, analysis, data visualization and communication skills. Develops subject matter expertise and strong relationships. Collaborates with people across the organization and fosters a culture of data-driven decision making and data literacy. This is the most senior position in the Healthcare Data Pro…",
+      "salary_min": 80092.88,
+      "salary_max": 80092.88,
+      "company": "Dartmouth Health",
+      "location": "Lebanon, Grafton County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Specialist",
+      "description": "Overview Provides consultation and ad hoc analyses to clinical and operational leaders and teams. Dives deep into their data in order to support local objectives and Dartmouth Health priorities using programming, analysis, data visualization and communication skills. Develops subject matter expertise and strong relationships. Collaborates with people across the organization and fosters a culture of data-driven decision making and data literacy. This is the most senior position in the Healthcare…",
+      "salary_min": 76520.62,
+      "salary_max": 76520.62,
+      "company": "Dartmouth Health",
+      "location": "West Lebanon, Grafton County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data and Business Intelligence Specialist",
+      "description": "The Claims Conference is looking for a Data and Business Intelligence Specialist to join the IT team in our New York office. We are looking for a candidate who is detail-oriented and has strong work experience in Tableau and SQL. Note: this is a hybrid position with a minimum of two days in the office. Headquartered in New York with additional offices in Israel and Germany, the Claims Conference is a global, non-profit organization committed to providing a small measure of justice to Holocaust …",
+      "salary_min": 110000,
+      "salary_max": 115000,
+      "company": "Claims Conference",
+      "location": "New York City, New York",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Finance & Business Intelligence Specialist",
+      "description": "The Finance & Business Intelligence Specialist is a hybrid, junior-to-mid level role supporting both the Financial Planning & Analysis (FP&A) and Business Intelligence teams. This position is designed for early-career professionals seeking to build expertise at the intersection of finance, data analytics, and strategic decision-making. This role will help bridge the gap between technical capabilities and business needs, providing cross-departmental support while developing strong business acume…",
+      "salary_min": 79879.06,
+      "salary_max": 79879.06,
+      "company": "Dechert",
+      "location": "Philadelphia, Philadelphia County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Clinical Systems & Business Intelligence Specialist",
+      "description": "We have an opening at our Tulsa office. This is an in-office position. The role of a Clinical Systems & Business Intelligence Specialist requires the c ompletion of a Bachelor’s degree or equivalent in Healthcare, Business Intelligence, Information Systems, or related field. Background in mental health settings and previous experience in clinical systems management, business intelligence or a similar role preferred. Two years of experience as a data analyst or in data management, including deve…",
+      "salary_min": 60000,
+      "salary_max": 60000,
+      "company": "Counseling & Recovery Services, Llc",
+      "location": "Jenks, Tulsa County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Specialist (Consultant)- 363186",
+      "description": "Job Title: Consultant ( Business Intelligence Specialist) Key Responsibilities - Engage in data design, data modeling, and data architecture. - Will create visualization dashboards for reporting. Develop ETL processes for data pipelines. - Will use Python, Looker Studio, Tableau, Power BI and SQL. Requirements - Will provide services to client located throughout the U.S. - Must have a Bachelor's degree in Computer Science or Engineering which included at least 5 years of overall progressive exp…",
+      "salary_min": 80099.22,
+      "salary_max": 80099.22,
+      "company": "ManpowerGroup",
+      "location": "West Milwaukee, Milwaukee County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Business Intelligence (BI) Specialist",
+      "description": "OUR STORY TechInsights is the information platform for the semiconductor industry. Regarded as the most trusted source of actionable, in-depth intelligence related to semiconductor innovation and surrounding markets, TechInsights’ content informs decision makers and professionals whose success depends on accurate knowledge of the semiconductor industry—past, present, or future. Over 650 companies and 125,000 users access the TechInsights Platform, the world’s largest vertically integrated colle…",
+      "salary_min": 106837.3,
+      "salary_max": 106837.3,
+      "company": "TechInsights",
+      "location": "Greenwood Village, Arapahoe County",
+      "source": "Adzuna"
+    }
+  ]
+}

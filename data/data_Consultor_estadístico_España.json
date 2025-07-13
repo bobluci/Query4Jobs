@@ -1,0 +1,120 @@
+{
+  "job_title": "Consultor estadístico",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 17,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "Python": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Model Risk Audit Analyst",
+      "description": "Model Risk Audit Analyst Country: Spain AUDITORIA INTERNA está buscando un/a Model Risk Audit Analyst para nuestras oficinas en BOADILLA DEL MONTE (HEADQUARTERS) POR QUÉ DEBERÍAS CONSIDERAR ESTA OPORTUNIDAD En Santander (www.santander.com) somos actores principales en la transformación del sector financiero. ¿Quieres unirte a nuestro equipo? Auditoría Interna es una función permanente e independiente de cualquier otra función o unidad que tiene como misión proporcionar al Consejo de Administrac…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Banco Santander",
+      "location": "Boadilla del Monte, Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Gestor/a en equipo de modelos de riesgo de crédito (MAD/BCN)",
+      "description": "CAIXABANK CaixaBank es un grupo financiero, líder del mercado español, integrado por negocio bancario, actividad aseguradora e inversiones en bancos internacionales y en empresas líderes del sector servicios. La esencia y rasgo diferencial del Grupo es su implicación y firme compromiso con la sociedad. CaixaBank apuesta por el desarrollo de la actividad bancaria basada en los valores corporativos de calidad, confianza y compromiso social. CaixaBank tiene la mayor base de clientes en España, con…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Caixabank Digital Hub",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Gestor/a de capital económico y modelos para titulizaciones",
+      "description": "CAIXABANK CaixaBank es un grupo financiero, líder del mercado español, integrado por negocio bancario, actividad aseguradora e inversiones en bancos internacionales y en empresas líderes del sector servicios. La esencia y rasgo diferencial del Grupo es su implicación y firme compromiso con la sociedad. CaixaBank apuesta por el desarrollo de la actividad bancaria basada en los valores corporativos de calidad, confianza y compromiso social. CaixaBank tiene la mayor base de clientes en España, con…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Caixabank Digital Hub",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Product Support Agent",
+      "description": " Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey. \r\n ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "UR COORDINATOR",
+      "description": " Responsibilities \r\n\r\n The Utilization Review Coordinator (URC) is responsible for initial clinical review. URC may approve requests for admissions, procedures, and services that meet clinical review criteria, but must refer requests that do not meet clinical review criteria...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "First Health Care of Puerto Rico",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Specialist Customer Marketing",
+      "description": "Hasbro SA, based in Delemont Switzerland, manufactures and sells Hasbro toy and games products around the world. Hasbro European Trading BV ('HET') is Hasbro SA’s distributor in Europe, which sells to Hasbro SA’s customers in all major European countries. Hasbro International...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Hasbro",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "DIRECTOR OF CALL CENTER",
+      "description": " Responsibilities \r\n\r\n The leader has been entrusted with the responsibility of overseeing all clinical operations related to the call center.  It is essential that all employees maintain professional communication with members and community providers. This position is ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "First Health Care of Puerto Rico",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Associate Director Retail Generics and OTC sales",
+      "description": " Who we are \r\n Teva Pharmaceuticals is a global biopharmaceutical leader with a unique approach to innovation and access. For over 120 years, we’ve been committed to improving health and making high-quality medicines accessible to patients around the world. With a presence...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Teva Pharmaceutical Industries Ltd.",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Associate Director KAMs Hospital Sales",
+      "description": " Who we are \r\n Teva Pharmaceutical is a unique global biopharmaceutical leader, operating across the full spectrum of innovation to reliably deliver medicines to patients worldwide. For over 120 years, Teva has remained committed to improving health. Today, with a global...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Teva Pharmaceutical Industries Ltd.",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Mechanical Engineer",
+      "description": " Responsibilities for this Position \r\n\r\n Location:  Madrid, ES, 28033\r\n Flexible Work Arrangement:  Hybrid \r\n Career Level:  Professional \r\n Requisition Id: 2586\r\n Since 1967, Jet Aviation has been crafting flight in its smoothest form. From one hangar in Basel, Switzerland...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Jet Aviation",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    }
+  ]
+}

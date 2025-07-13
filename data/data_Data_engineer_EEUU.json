@@ -1,0 +1,130 @@
+{
+  "job_title": "Data engineer",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 72800,
+    "max": 256285.7,
+    "mean": 133829.3486,
+    "median": 124891.41,
+    "std_dev": 40159.647024927646
+  },
+  "top_technologies": {
+    "Python": 16,
+    "SQL": 12,
+    "AWS": 7,
+    "Azure": 6,
+    "Spark": 4,
+    "GCP": 3,
+    "Hadoop": 2,
+    "Power BI": 1,
+    "PostgreSQL": 1,
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 3,
+    "min": 1,
+    "max": 10,
+    "mean": 7,
+    "median": 10,
+    "distribution": {
+      "1": 1,
+      "10": 2
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Data Engineer",
+      "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: Top Secret SCI  Polygraph Clearance Level Must Be Able to Obtain: Top Secret SCI  Polygraph Public Trust/Other Required: None Job Family: Data Science Job Qualifications: Skills: Data Pipelines, Data Science, Data Solutions, Design, Technical Solutions Certifications: None Experience: 10  years of related experience US Citizenship Required: Yes Job Description: Data Engineer Sr Advisor Deliver insights to help our clients turn…",
+      "salary_min": 141670.94,
+      "salary_max": 141670.94,
+      "company": "General Dynamics Information Technology",
+      "location": "Harmans, Anne Arundel County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "description": "Type of Requisition: Pipeline Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: None Job Family: Data Science Job Qualifications: Skills: AWS Analytics, Data Analysis, Information Technology Infrastructure Library (ITIL), Microsoft Azure Certifications: None Experience: 5  years of related experience US Citizenship Required: No Job Description: GDIT is seeking Senior Data Engineers to support its Technology Shared Services (TS…",
+      "salary_min": 131235.92,
+      "salary_max": 131235.92,
+      "company": "General Dynamics Information Technology",
+      "location": "Bossier City, Bossier Parish",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineering Project Lead",
+      "description": "We are looking for the right people - people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world's largest providers of products and services to the global energy industry. About the Role: We are seeking a Data Engineering Lead to oversee a product-aligned \"pod\" of 3-4 data engineers. This ro…",
+      "salary_min": 153354.84,
+      "salary_max": 153354.84,
+      "company": "Halliburton",
+      "location": "Houston, Harris County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Engineer, Electrical Data Center",
+      "description": "WHO WE ARE As the nation's largest producer of clean, carbon-free energy, Constellation is focused on our purpose: accelerating the transition to a carbon-free future. We have been the leader in clean energy production for more than a decade, and we are cultivating a workplace where our employees can grow, thrive, and contribute. Our culture and employee experience make it clear: We are powered by passion and purpose. Together, we're creating healthier communities and a cleaner planet, and our …",
+      "salary_min": 179675.8,
+      "salary_max": 179675.8,
+      "company": "Constellation Energy",
+      "location": "Kennett Square, Chester County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Data Engineer",
+      "description": "Cargill’s size and scale allows us to make a positive impact in the world. Our purpose is to nourish the world in a safe, responsible and sustainable way.Cargill is a family company providing food, ingredients, agricultural solutions and industrial products that are vital for living. We connect farmers with markets so they can prosper. We connect customers with ingredients so they can make meals people love. And we connect families with daily essentials — from eggs to edible oils, salt to skinc…",
+      "salary_min": 256285.7,
+      "salary_max": 256285.7,
+      "company": "Cargill",
+      "location": "Wayzata, Hennepin County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Director, Data Engineering (Hybrid - Atlanta, Georgia)",
+      "description": "Cargill’s size and scale allows us to make a positive impact in the world. Our purpose is to nourish the world in a safe, responsible and sustainable way. We are a family company providing food, ingredients, agricultural solutions and industrial products that are vital for living. We connect farmers with markets so they can prosper. We connect customers with ingredients so they can make meals people love. And we connect families with daily essentials — from eggs to edible oils, salt to skincare…",
+      "salary_min": 197570.83,
+      "salary_max": 197570.83,
+      "company": "Cargill",
+      "location": "Atlanta, Fulton County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer - Data Engineering",
+      "description": "The main goal of the DE team in 2024-25 is to build robust golden data sets to power our business goals of creating more insights based products. Making data-driven decisions is key to Plaid's culture. To support that, we need to scale our data systems while maintaining correct and complete data. We provide tooling and guidance to teams across engineering, product, and business and help them explore our data quickly and safely to get the data insights they need, which ultimately helps Plaid ser…",
+      "salary_min": 200026.17,
+      "salary_max": 200026.17,
+      "company": "Plaid",
+      "location": "San Francisco, California",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer/Senior Data Engineer/Lead Data Engineer",
+      "description": "Job Title: Data Engineer/Senior Data Engineer/Lead Data Engineer Location: San Diego, San Mateo, Remote FLSA Status: Exempt ClearNote Health is a precision oncology company developing non-invasive diagnostic tests that detect cancer early—when it’s most treatable. We are seeking a Lead Data Engineer to play a pivotal role in shaping and operating the data infrastructure that powers both our scientific discovery and commercial execution. In this high-impact role, you’ll be responsible for archit…",
+      "salary_min": 129005.04,
+      "salary_max": 129005.04,
+      "company": "ClearNote Health",
+      "location": "San Diego, San Diego County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer/Senior Data Engineer/Lead Data Engineer",
+      "description": "Job Description Job Description Job Title: Data Engineer/Senior Data Engineer/Lead Data EngineerLocation: San Diego, San Mateo, Remote FLSA Status: Exempt ClearNote Health is a precision oncology company developing non-invasive diagnostic tests that detect cancer early—when it’s most treatable. We are seeking a Lead Data Engineer to play a pivotal role in shaping and operating the data infrastructure that powers both our scientific discovery and commercial execution. In this high-impact role, y…",
+      "salary_min": 124397.51,
+      "salary_max": 124397.51,
+      "company": "ClearNote Health",
+      "location": "San Diego, San Diego County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer, Financial Data Engineering",
+      "description": "Description At American Express, our culture is built on a 175-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. As part of Team Amex, you'll experience this powerful backing with comprehensive support for your holistic well-being and many opportunities to learn new skills, develop as a leader, and grow your career. Here, your voice and ideas matter, your work makes an impact, and together, you wi…",
+      "salary_min": 147035.16,
+      "salary_max": 147035.16,
+      "company": "American Express",
+      "location": "Phoenix, Maricopa County",
+      "source": "Adzuna"
+    }
+  ]
+}

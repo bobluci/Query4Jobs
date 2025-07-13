@@ -1,0 +1,62 @@
+{
+  "Python": [
+    {
+      "title": "Crash Course on Python by Google",
+      "link": "https://www.coursera.org/learn/python-crash-course",
+      "snippet": "This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to ...",
+      "source": "Coursera"
+    },
+    {
+      "title": "Programming for Everybody (Getting Started with Python)",
+      "link": "https://www.coursera.org/learn/python",
+      "snippet": "Offered by University of Michigan. This course aims to teach everyone the basics of programming computers using Python. We cover the basics .",
+      "source": "Coursera"
+    },
+    {
+      "title": "Python for Everybody Specialization",
+      "link": "https://www.coursera.org/specializations/python",
+      "snippet": "Programming for Everybody (Getting Started with Python). Course 1 · 18 hours ; Python Data Structures. Course 2 · 19 hours ; Using Python to Access Web Data. Course ...",
+      "source": "Coursera"
+    },
+    {
+      "title": "Programming in Python",
+      "link": "https://www.coursera.org/learn/programming-in-python",
+      "snippet": "In this course, you will be introduced to foundational programming skills with basic Python Syntax. You'll learn how to use code to solve problems.",
+      "source": "Coursera"
+    }
+  ],
+  "SQL": [
+    {
+      "title": "SQL for Data Science",
+      "link": "https://www.coursera.org/learn/sql-for-data-science",
+      "snippet": "This course is designed to give you a primer in the fundamentals of SQL and working with data so that you can begin analyzing it for data science purposes. You ...",
+      "source": "Coursera"
+    },
+    {
+      "title": "SQL: A Practical Introduction for Querying Databases",
+      "link": "https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases",
+      "snippet": "The purpose of this course is to help you learn and apply foundational and intermediate knowledge of the SQL language, and become familiar with many relational ...",
+      "source": "Coursera"
+    },
+    {
+      "title": "Introduction to Structured Query Language (SQL)",
+      "link": "https://www.coursera.org/learn/intro-sql",
+      "snippet": "What you'll learn · Learn about the basic syntax of the SQL language, as well as database design with multiple tables, foreign keys, and the JOIN operation.",
+      "source": "Coursera"
+    }
+  ],
+  "R": [
+    {
+      "title": "R Programming by Johns Hopkins University",
+      "link": "https://www.coursera.org/learn/r-programming",
+      "snippet": "The course covers practical issues in statistical computing which includes programming in R, reading data into R, accessing R packages, writing R functions ...",
+      "source": "Coursera"
+    },
+    {
+      "title": "Data Analysis with R Programming by Google",
+      "link": "https://www.coursera.org/learn/data-analysis-r",
+      "snippet": "Learn how to use R for data analysis in this course from Google. Explore key techniques for cleaning, analyzing, and visualizing data to support informed ...",
+      "source": "Coursera"
+    }
+  ]
+}

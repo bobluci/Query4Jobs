@@ -1,0 +1,132 @@
+{
+  "job_title": "Científico de datos",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 38,
+    "min": 4800,
+    "max": 960000,
+    "mean": 242084.2105263158,
+    "median": 9600.0,
+    "std_dev": 326906.8025933268
+  },
+  "top_technologies": {
+    "Python": 8,
+    "TensorFlow": 3,
+    "Scikit-learn": 2,
+    "R": 2,
+    "SQL": 2,
+    "Spark": 2,
+    "Excel": 2,
+    "AWS": 2,
+    "Jupyter": 1,
+    "Azure": 1
+  },
+  "experience_stats": {
+    "count": 4,
+    "min": 2,
+    "max": 5,
+    "mean": 3.5,
+    "median": 3.5,
+    "distribution": {
+      "4": 1,
+      "3": 1,
+      "5": 1,
+      "2": 1
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Científico de datos",
+      "description": "Be a part of Stefanini ! At Stefanini we are more than 30,000 geniuses, connected from more than 40 countries, we co-create a better future. ¡Apply Data Scientist ! Requirements: 2 years of experience as Data Scientist Programming skills in Python and knowledge of ML libraries such as TensorFlow, PyTorch, Scikit-Learn, Jupyter Notebook. Strong foundation in statistics, particularly in ML models, ML algorithms. ML Operations and automated ML pipelines Proficient in performing exploratory analysi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Stefanini LATAM",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de Datos Jr",
+      "description": "En /bluetab seguimos con el desarrollo de negocio. Nuestros equipos están en pleno crecimiento Nos alejamos del concepto de consultoría tradicional, ¿Sabes por qué?: Contratamos para nosotros. Somos fieles a nuestra cultura y queremos compartir contigo nuestra filosofía de trabajo cooperativo, en equipo y de formación continua. Siempre podemos aprender más. Confiamos en la gente y que es posible trabajar bajo pasión, y que sientas en nuestro apoyo tanto en lo profesional como en lo personal. Ni…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Bluetab América, an IBM Company",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de datos",
+      "description": "· Rol: Científico de Datos (Data Science) · Descripción del puesto:  4 años de experiencia como Científico de Datos Dominio de Desarrollo con Python , PySpark Experiencia en Azure Machine Learning Experiencia en desarrollo de procesos ETL Experiencia en desarrollo de analíticos Conocimiento de bibliotecas de ML: TensorFlow, PyTorch, Scikit-Learn, etc. Sólidas bases en modelos de ML y métricas para evaluar la efectividad Experiencia sólida en desarrollo de software aplicando algoritmos de ML. Ex…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Softtek",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de datos",
+      "description": "En Bluetab, seguimos en crecimiento y estamos en busca de personas como tú, que comparten nuestra pasión por la tecnología. Nos destacamos por ser diferentes a la consultoría tradicional. Aquí, creemos en contratarte para formar parte de nuestra familia. Valoramos la colaboración, el trabajo en equipo y el aprendizaje constante. Para nosotros, cada miembro es esencial, no sólo un número en una lista. Somos un equipo unido y horizontal, y queremos que así siga siendo. Recuerda, ningún marinero s…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Bluetab América, an IBM Company",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de datos",
+      "description": "Nuestra compañía Sobre BBVA Desde nuestra fundación en 1857 nuestra prioridad es el cliente, concebimos a la tecnología como una ventaja competitiva clave, trabajamos con pasión, siempre guiados por nuestros valores: el cliente es lo primero, pensamos en grande y somos un solo equipo. Actualmente somos más de 125,749 colaboradores, quienes, día con día, luchamos por “poner al alcance de todos las oportunidades de la nueva era” a más de 75 millones de clientes. Somos la institución con mayor inf…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Data Scientist - Sales & BI - Global Markets",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Cientifico de datos Jr",
+      "description": "¿Quieres desarrollar tu carrera profesional? BBVA es una empresa global con más de 160 años de historia que opera en más de 25 países en los que damos servicio a más de 80 millones de clientes. Somos más de 121.000 profesionales que trabajamos en equipos multidisciplinares y de perfiles tan diversos como financieros, expertos jurídicos, científicos de datos, desarrolladores, ingenieros o diseñadores. ¿Qué estamos buscando? Uno de los puestos clave para el alcance de nuestras metas es el de Mode…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BBVA",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Cientifico de datos Python Cualquier parte de México",
+      "description": "SOFTTEK Softtek es una compañía global que ayuda a las organizaciones a cerrar la brecha digital. Con presencia en Norteamérica, Latinoamérica, Europa y Asia, Softtek proporciona a empresas Global 2000 soluciones de TI que crean valor a través de la tecnología. Buscamos Cientifico de datos Python Científico de Datos especializado en el desarrollo de soluciones analíticas predictivas y puesta en producción de las mismas. Evaluará la viabilidad, riesgos y buen funcionamiento de la soluc…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SOFTTEK",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist II (Científico de Datos II)",
+      "description": "Overview We are seeking a skilled and experienced Data Scientist II to join our growing analytics team. This role is ideal for someone with a strong foundation in data science who has demonstrated success independently executing complex analytics projects and developing production-grade machine learning solutions. As a Data Scientist II, you will take a lead role in designing analytical approaches, delivering impactful insights, mentoring junior team members, and contributing strategically to c…",
+      "salary_min": 4800,
+      "salary_max": 7200,
+      "company": "Cotiviti",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de Datos",
+      "description": "Con una destacada trayectoria de más de 96 años, Arca Continental es la segunda embotelladora de Coca-Cola más grande de América Latina y una de las más importantes del mundo, con presencia en México, Argentina, Ecuador, Perú y Estados Unidos. Arca Continental cuenta con un portafolio de empresas y productos como lo es Yomp!, dedicada a ofrecer soluciones tecnológicas a las tiendas de la esquina con la finalidad de empoderarlas, tecnificarlas y apoyarlas en su crecimiento. Está en búsqueda de: …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Yomp",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico De Datos",
+      "description": "Description Acerca de: Desarrollar y guiar proyectos en temas de analítica, así como guiar a su equipo de trabajo enfocado al negocio para apoyar los procesos de toma de decisiones del Grupo. Responsabilidades: ● Asesorar al negocio sobre el potencial de los datos, proporcionando nuevas ideas sobre la misión de la empresa utilizando la analítica como motor de proyectos que generen nueva monetización. ●Dar guía de negocio y de aspectos analíticos a su primera línea de colaboradores para la soluc…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Coppel Enterprise",
+      "location": "México",
+      "source": "Adzuna"
+    }
+  ]
+}

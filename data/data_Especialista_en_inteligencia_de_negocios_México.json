@@ -1,0 +1,118 @@
+{
+  "job_title": "Especialista en inteligencia de negocios",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 22,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Especialista Senior en Inteligencia de negocios",
+      "description": "UPAX Es una empresa dedicada a trabajar para las marcas, negocios y personas a través de investigación, estrategia, creatividad, tecnología y ejecución con el único objetivo de crear éxito para nuestros clientes. Estamos en búsqueda de Especialista Senior en Inteligencia de negocios Objetivo del puesto: Responsable de desarrollar y mantener soluciones de inteligencia de negocios que permitan una toma de decisiones informada en Grupo Upax. Este puesto existe para asegurar que los datos sean acce…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Grupo Salinas",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Desktop Support Associate-Field Tech",
+      "description": "&nbsp;...forward-thinking organization, apply now. \r\n We are currently seeking a Desktop Support Associate-Field Tech to join our team in Ciudad <b>de </b>México, Ciudad de México (MX-CMX), Mexico (MX). \r\n Performs basic trouble-shooting, parts replacement, systems upgrades, deployment...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Delivery Analyst - FieldTech",
+      "description": "&nbsp;...forward-thinking organization, apply now. \r\n We are currently seeking a Delivery Analyst - FieldTech to join our team in CDMX, Ciudad <b>de </b>México (MX-CMX), Mexico (MX). \r\n Responsibilities: \r\n\r\n Provide 1st and 2nd level help desk support, customer service and assistance...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Offshore Safety Specialist",
+      "description": " Safety Management Systems, one of the largest providers of Health, Safety, Environmental, and Medical services to the Upstream, Midstream, Refinery and Petrochemical markets, is currently seeking Offshore Safety Specialists for drilling/completions/construction/pipeline...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Safety Management Systems",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Offshore Construction Safety Specialist",
+      "description": " Safety Management Systems is one of the largest providers of Health, Safety, Environmental, Medical and Training services to the Upstream, Midstream, Refinery and Petrochemical markets. \n We are currently looking for a Construction Safety Specialist with Gulf of Mexico...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Safety Management Systems",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "SYSTEMS INTEGRATION SPECIALIST",
+      "description": "Elite Corporate Solutions is currently recruiting a Systems Integration Specialist on behalf of a leading U.S.-based organization. This role is vital for designing and implementing efficient integration solutions that streamline financial and business workflows. We are ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Elite Corporate Solutions",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Offshore P&A Safety Specialist",
+      "description": " JOB SUMMARY:  Responsible for coordinating and implementing our customer’s HSE Management Systems; including but not limited to, working with contractors and customers on document preparation, audits and investigations, incident investigations, delivery of HSE training...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Safety Management Systems",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Offshore Drilling HSE Specialist",
+      "description": " Safety Management Systems is seeking Offshore Drilling HSE Specialists to provide HSE support for projects in the Gulf of Mexico. \n The HSE Consultant will work with the company and contractor's site management team to develop and implement the project and site safety ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Safety Management Systems",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Database Management Specialist",
+      "description": " Req ID: 315573\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Database Management Specialist...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Helpdesk Associate",
+      "description": " Req ID: 329803\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Helpdesk Associate to join...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "job_title": "Analista de investigación de mercado",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 35000,
+    "max": 117834.94,
+    "mean": 83549.7122,
+    "median": 88500.4,
+    "std_dev": 17217.142615886027
+  },
+  "top_technologies": {
+    "R": 1,
+    "SPSS": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Market Research Analyst",
+      "description": "About Us We are a leading e-commerce company in the lighting industry, dedicated to providing high-quality lighting solutions to customers across various platforms. Our team is young, dynamic, and full of energy, always striving for innovation and excellence. We are looking for talented individuals to join us and be part of our exciting journey. Job Highlights Salary: $25-$40 per hour (negotiable based on experience). Benefits: Group health insurance (medical, dental, vision, life), paid vacati…",
+      "salary_min": 52000,
+      "salary_max": 83200,
+      "company": "Leonlite",
+      "location": "Mira Loma, Riverside County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "OEC Group Market Research Analyst Rosedale, NY - Full Time Summary OEC Logistics, Inc. seeks Market Research Analyst. Essential Duties and Responsibilities Research demand for freight and customs services by analyzing international, national, and local market segments; Gather data on competitors and analyze their costs/prices, profitability and marketing methods; Implement the development and analysis of data to identify new business development opportunities; Design formats for effective data …",
+      "salary_min": 60174,
+      "salary_max": 62681,
+      "company": "OEC Group",
+      "location": "Rosedale, Queens",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "Carnivore Style – Your 1 Resource On All Things Meat-Related – is looking for a Market Research Analyst! Join us – salary ranges from $6,500 to $8,500 per month, plus other perks and benefits. If you want to know more about what we do (and what you will be doing), visit our website\\’s Careers page and check out our online community of meat lovers! Job Summary: In this role, you will conduct market research and analysis for our products and services. You will be responsible for collecting and an…",
+      "salary_min": 78000,
+      "salary_max": 102000,
+      "company": "Carnivore Style",
+      "location": "Atlantic Beach, Duval County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "Market Research Analyst Location: Stamford, CT (Onsite, Monday–Friday) Type: Full-Time Compensation: Competitive, Commensurate with Experience Use your stats skills to uncover what drives people—and help shape the brands they love. At Fletcher Knight, we blend strategy, creativity, and data to drive transformational growth for some of the world’s leading consumer and B2B brands. We’re looking for a brand-curious Market Research Analyst to join our growing team. Whether you're early in your care…",
+      "salary_min": 105886.37,
+      "salary_max": 105886.37,
+      "company": "Fletcher Knight",
+      "location": "Stamford, Fairfield County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "Are you looking to step into a new career? Industrial Info Resources, the leading market intelligence firm in the US, is on the lookout for an energetic Market Research Analyst to join our research team. About Us Founded in 1983, Industrial Info Resources stands at the forefront of market intelligence, providing unparalleled insights across all 12 industry sectors. Our global clientele relies on our “best in class” services to make data-driven decisions that shape the future of their businesses…",
+      "salary_min": 55220.64,
+      "salary_max": 55220.64,
+      "company": "Industrial Info Resources",
+      "location": "Sugar Land, Fort Bend County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "The Market Research Analyst role will involve providing valuable insights to support management and division leadership in their decision-making processes related to product designs and pricing by utilizing market trends and analytical data to enhance business decisions. Responsibilities: Possess the ability to independently analyze qualitative data, identify trends, assess strategies, and evaluate competition, with the goal of enhancing competitiveness. Gathers and interprets market research d…",
+      "salary_min": 71535.01,
+      "salary_max": 71535.01,
+      "company": "DRB Group",
+      "location": "Rockville, Montgomery County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "Description Job Summary As a Market Research Analyst, you will be responsible for collecting, analyzing, and interpreting complex data sets from various sources to inform business strategy and operations. You will focus on social intelligence monitoring, construction project data analysis, and market research operations to provide valuable insights to stakeholders across the organization. Key Responsibilities Develop and implement comprehensive social intelligence monitoring systems to track in…",
+      "salary_min": 99664.74,
+      "salary_max": 99664.74,
+      "company": "Victaulic",
+      "location": "Easton, Northampton County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "At Kelly® Science, Engineering, Technology & Telecom (SETT), we’re passionate about helping you find a job that works for you. We’re hiring a Market Research Specialist for 6 months contract in Summit, NJ . Market Research Analyst (Specialist/Coordinator) Summit, New Jersey (onsite, 1 day hybrid) 6 months contract (potential extension) The Market Research Specialist/Coordinator will work within the R&D Translational Science team as part of an end-to-end R&D organization to support existing prod…",
+      "salary_min": 78817.55,
+      "salary_max": 78817.55,
+      "company": "Kelly Science, Engineering, Technology & Telecom",
+      "location": "Summit, Union County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "$1000 Signing Bonus effective 1/20/2024 Note: All full-time positions include the option of $0 out-of-pocket premium cost for Employee Only PPO AND exceptionally low premiums for all other PPO coverage levels Hours: 8:00am-4:30pm M onday-Friday, this is a Hybrid role and will require coming to the office with a designated schedule Hiring Range - $31.17/hr. - $38.97/hr. Summary of Position The Market Research Analyst conducts member research, analyzes member preferences and performs competitive …",
+      "salary_min": 53469.14,
+      "salary_max": 53469.14,
+      "company": "Tower",
+      "location": "Laurel, Prince George's County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Market Research Analyst",
+      "description": "Hi there! We're WebFX, a full-service digital marketing agency based in the US. We've been 9x named the Best Place To Work in Pennsylvania, and we'd love to meet you! We are a fast-growing company that has doubled in size over the past 5 years, with talented team members now based around the globe (and representing 18 different countries!). While we are growing at a rapid rate, we are committed to growing strategically and sustainably, and that starts with growing our team of the BestCoworkers …",
+      "salary_min": 37440.49,
+      "salary_max": 37440.49,
+      "company": "webfx.com",
+      "location": "Harrisburg, Dauphin County",
+      "source": "Adzuna"
+    }
+  ]
+}

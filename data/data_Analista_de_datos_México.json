@@ -1,0 +1,125 @@
+{
+  "job_title": "Analista de datos",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 48,
+    "min": 100800,
+    "max": 444000,
+    "mean": 230150,
+    "median": 222000.0,
+    "std_dev": 87140.78118011596
+  },
+  "top_technologies": {
+    "Excel": 26,
+    "Power BI": 12,
+    "SQL": 8,
+    "Tableau": 4,
+    "Python": 3,
+    "R": 2,
+    "SAS": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Analista de datos",
+      "description": "Mantener el control de las vigencias de los certificados aplicables a las embarcaciones y oficina de BME Shipping II a fin de solicitar a las áreas responsables la regulación y mantenimiento de estos. Controlar las vigencias de los certificados aplicables a las embarcaciones y oficina en materia de seguridad marítima. Subir al AX las requisiciones enviadas por los capitanes (03 meses de anticipación a su vencimiento) de los certificados Estatutarios, clase, PBIP, RSC, ISM, Licencia estación de …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Blue Marine",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Datos",
+      "description": "SOLICITAMOS ANALISTA DE DATOS PARA EL DEPARTAMENTO DE ATENCIÓN A CLIENTES Requisitos Licenciatura finalizada Experiencia en Excel análisis de datos Funciones Elaboración de reportes Seguimiento a los centros de atención a clientes Análisis de fallas reportadas por los suscriptores Comunicación con áreas internas Brindamos Sueldo 11,900 mensuales brutos Prestaciones de ley Fondo de ahorro Seguro de vida Horario Lunes a Viernes de 0830 a.m. 0630 p.m. Bolsa de trabajo México ofrecemos pues…",
+      "salary_min": 142800,
+      "salary_max": 142800,
+      "company": "Megacable",
+      "location": "Puebla",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "Empresa dedicada a la mensajería y paquetería busca tu talento como ANALISTA DE DATOS REQUISITOS Escolaridad Ingeniería en Computación, Sistemas o afín Experiencia mínima de 6 meses . PERFIL Realizar bases de datos SQL Habilidad para crear análisis de datos, informes y reportes Capacidad resumen de información, atención al detalle y proactividad Administración de proyectos Actualizar y mantener base de datos simples o estructuradas en Excel y otras plataformas. Asegurar la calidad, in…",
+      "salary_min": 138000,
+      "salary_max": 138000,
+      "company": "Talento am pm",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "Estamos buscando tu talento En Grupo Bachoco somos una empresa mexicana líder en la industria multiproteína y multinegocios, con más de 70 años de experiencia ofreciendo productos de la más alta calidad. Forma parte de nuestro equipo como Analista de información TEMPORAL Requisitos Carrera económicas administrativa Actuaria, contabilidad, finanzas, administración Contar con experiencia en puestos similares Excel intermedio avanzado Análisis financiero Capacidades analíticas Proactivid…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Grupo Bachoco",
+      "location": "Puebla",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Datos",
+      "description": "Analista de Datos Requisitos Escolaridad Licenciatura en Actuaría, Ingeniería Industrial, Economía, Administración, Finanzas, o afín. Dominio avanzado de Excel tablas dinámicas, fórmulas, gráficos. Conocimiento en herramientas de BI Manejo de bases de datos y uso de ERP Net suite deseable Habilidad para crear reportes claros y presentaciones ejecutivas. Conocimientos básicos en indicadores financieros y comerciales. Pensamiento analítico y crítico. Atención al detalle y enfoque a re…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Importante empresa del sector",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "Requisitos 100 presencial Disponibilidad para viajar Licenciatura en Matemáticas Economía Estadística Informática Sistemas y Tecnologías de la información Certificaciones en análisis de datos Opcional Microsoft Data Analyst Associate Google Data Analytics Professional Certificate SAS Certified Specialist Habilidades Técnicas Análisis de Datos Conocimiento avanzado de herramientas como Excel, SQL y software de visualización de datos Power BI, Tableau. Manejo de lenguajes de programacio…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Instituto Universitario del Centro de México",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "Presentación de la empresa y cargo A quién buscamos Experiencia mínima de 2 años en análisis de datos, procesamiento de datos y gestión de bases de datos. Conocimientos en herramientas de análisis de datos como Excel, Power BI, Tableau, etc. Conocimientos en lenguajes de programación como Python, R y SQL. Estudios completos en Ingeniería en Sistemas, Estadística, Matemáticas, Ciencias de Datos o afines. Cuáles serán tus funciones Recolectar, procesar y gestionar datos de diferentes…",
+      "salary_min": 360000,
+      "salary_max": 360000,
+      "company": "Reclutapro Pandapé",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Datos",
+      "description": "En GEELY LOMAS SAN LUIS, estamos en búsqueda de una Analista de Datos con enfoque en auditoría y validación, que nos ayude a asegurar la integridad y precisión de la información clave para la toma de decisiones. Responsabilidades Principales Auditar bases de datos relacionadas con ventas, inventarios y operaciones internas. Validar información respecto a nuestros clientes generada por la fuerza de ventas. Generar reportes de calidad de datos y análisis de discrepancias. Colaborar con dif…",
+      "salary_min": 100800,
+      "salary_max": 100800,
+      "company": "GEELY",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Datos",
+      "description": "Requisitos Licenciatura en Administración, Economía, Marketing, Negocios Internacionales o áreas afines. Experiencia de 2 años en Análisis de datos, seguimiento a KPIs, elaboración de reportes ejecutivos. Conocimientos de Microsoft Office. Funciones Seguimiento a KPIS del área comercial. Análisis de datos y KPIS. Elaboración de Dashboards o tableros de control. Ofrecemos Sueldo 100 nominal. Prestaciones de Ley Seguro de vida. Horario de Lunes a Viernes de 900 a 1800 hrs. Lugar de traba…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Importante empresa del sector",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Datos",
+      "description": "Actividades Recolección, análisis e interpretación de datos operativos y administrativos Apoyo en procesos administrativos relacionados con control y validación de información Apoyo en tareas de mejora continua y automatización de reportes Coordinación con otras áreas para el levantamiento y seguimiento de información Requisitos Pensamiento analítico y orientación a resultados Atención al detalle y capacidad de organización Comunicación efectiva y claridad para presentar datos Cap…",
+      "salary_min": 106800,
+      "salary_max": 106800,
+      "company": "Lavandería Fase 2, S. de R.L. de C.V.",
+      "location": "México",
+      "source": "Adzuna"
+    }
+  ]
+}

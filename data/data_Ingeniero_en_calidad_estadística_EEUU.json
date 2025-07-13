@@ -1,0 +1,117 @@
+{
+  "job_title": "Ingeniero en calidad estadística",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 51581.27,
+    "max": 205000,
+    "mean": 98756.8622,
+    "median": 93972.595,
+    "std_dev": 31451.390495633954
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Quality Engineer - Statistical/Data Analysis (Senior or Subject Matter Expert)",
+      "description": "Quality Engineer - Statistical/Data Analysis (Senior or Subject Matter Expert) Company: The Boeing Company Boeing Defense, Space & Security (BDS) is seeking a Quality Engineer - Statistical/Data Analysis (Senior or Subject Matter Expert) to support the Phantom Works Program in Mesa, Arizona . This position works a 9/80 schedule! Successful candidates will have a strong background in statistical and data analysis, process control and the ability to utilize statistical data to make technical deci…",
+      "salary_min": 135150,
+      "salary_max": 182850,
+      "company": "Boeing",
+      "location": "Mesa, Maricopa County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Industrial Engineer (Multiple Positions)",
+      "description": "Job Duties: Support tracking of key performance indicators & initiate process improvements throughout the operation using statistics, quality engineering tools, and metrics. Participate in the ongoing design, configuration and reporting for the Labor Management System. Create and maintain end-user and training documentation; and participate in training activities for Industrial Engineering and end-users. Participate actively in the LMS Community, propose and advocate for improvements to the LMS…",
+      "salary_min": 93958.84,
+      "salary_max": 93958.84,
+      "company": "Wayfair LLC",
+      "location": "Boston, Suffolk County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Supplier Quality Engineer",
+      "description": "At doTERRA we encourage all employees to seek out opportunities that will expand their skill set. We strive to help achieve personal career goals by providing opportunities of growth and movement throughout the company. Job Description: Responsible for supporting all aspects of Supplier Quality Management in line with dōTERRA’s Quality Management System and Quality Policy, and to ensure our products and services are fit for purpose and meet customer expectations. Work with suppliers to develop,…",
+      "salary_min": 101466.4,
+      "salary_max": 101466.4,
+      "company": "doTERRA International",
+      "location": "Pleasant Grove, Utah County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Director of Lean/Six Sigma",
+      "description": "Education, Certifications, Experience : Experience in the General Electric and Pratt/Whitney supply chain Minimum of a 4-year technical degree in science, statistics, engineering, or quality Six Sigma Green Belt through an accredited organization, Black Belt or Master Black Belt preferred 10 years’ experience in an industrial manufacturing environment, preferably aerospace, with an excellent track record of business results and increasingly higher levels of responsibility in line operations or …",
+      "salary_min": 110088.44,
+      "salary_max": 110088.44,
+      "company": "ezone staffing LLC",
+      "location": "Sylmar, Los Angeles County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Inspection & Packaging Supervisor, 3rd Shift",
+      "description": "Description INCOG BioPharma is seeking an individual with subject matter expert (SME) capabilities in the inspection and/or packaging of sterile drug products. The primary purpose of this role is to provide strong compliance and Visual Inspection start-up process support as well as technical leadership in the creation and deployment of the visual inspection program within INCOG BioPharma Operations. This role will be responsible for developing and leading the inspection team and ensuring indust…",
+      "salary_min": 101367.84,
+      "salary_max": 101367.84,
+      "company": "INCOG BioPharma Services",
+      "location": "Fishers, Hamilton County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Quality Engineer",
+      "description": "Lincoln Electric is the world leader in the engineering, design, and manufacturing of advanced arc welding solutions, automated joining, assembly and cutting systems, plasma and oxy-fuel cutting equipment, and has a leading global position in brazing and soldering alloys. Lincoln is recognized as the Welding Expert™ for its leading materials science, software development, automation engineering, and application expertise, which advance customers' fabrication capabilities to help them build a be…",
+      "salary_min": 80903.7,
+      "salary_max": 80903.7,
+      "company": "Lincoln Electric",
+      "location": "Cleveland, Cuyahoga County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Product Quality Engineer",
+      "description": "WHO WE ARE Lockheed Martin is a global leader in aerospace, defense, and technology solutions, dedicated to pushing the boundaries of innovation and shaping the future of the industry. With a rich legacy of excellence and a commitment to delivering advanced capabilities to our customers, we are proud to be at the forefront of cutting-edge technology and engineering. WHAT WE'RE DOING At Lockheed Martin, we're revolutionizing the aerospace and defense sector through groundbreaking technology, adv…",
+      "salary_min": 77000,
+      "salary_max": 133400,
+      "company": "Lockheed Martin",
+      "location": "Owego, Tioga County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Product Quality Engineer",
+      "description": "Description: WHO WE ARE Lockheed Martin is a global leader in aerospace, defense, and technology solutions, dedicated to pushing the boundaries of innovation and shaping the future of the industry. With a rich legacy of excellence and a commitment to delivering advanced capabilities to our customers, we are proud to be at the forefront of cutting-edge technology and engineering. WHAT WE'RE DOING At Lockheed Martin, we're revolutionizing the aerospace and defense sector through groundbreaking te…",
+      "salary_min": 95518.97,
+      "salary_max": 95518.97,
+      "company": "Lockheed Martin",
+      "location": "Owego, Tioga County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Material Quality Control Inspector",
+      "description": "Location: Onsite Los Angeles, CA Material Quality Control Inspector As a Material Quality Control Inspector, you will play a pivotal role in developing, implementing, and managing comprehensive quality assurance processes and systems. You will work closely with cross-functional teams, including Manufacturing, Research & Development, and Compliance, to ensure that our products meet the highest standards of quality and reliability. This role requires a high level of technical expertise, strategic…",
+      "salary_min": 60000,
+      "salary_max": 65000,
+      "company": "SprintRay",
+      "location": "Los Angeles, Los Angeles County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Quality Resident Engineer - 2nd Shift",
+      "description": "Adient is a global leader in automotive seating. With approximately 75,000 employees in 33 countries, Adient operates 208 manufacturing/assembly plants worldwide. We produce and deliver automotive seating for all major OEMs. From complete seating systems to individual components, our expertise spans every step of the automotive seat-making process. Our integrated, in-house skills allow us to take our products from research and design to engineering and manufacturing - and into more than 20 mill…",
+      "salary_min": 98239.71,
+      "salary_max": 98239.71,
+      "company": "Adient",
+      "location": "Georgetown, Scott County",
+      "source": "Adzuna"
+    }
+  ]
+}

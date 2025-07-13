@@ -1,0 +1,121 @@
+{
+  "job_title": "Ingeniero en calidad estadística",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 15,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "Azure": 1,
+    "Excel": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Ingénieur d'études statistiques et actuarielles H/F",
+      "description": "La Direction Modèles Internes Groupe assume la responsabilité faîtière de la DRG pour l'ensemble de la LMR en matière de développement et de suivi des modèles internes de risque de crédit et de risque opérationnel. Elle est chargée directement de la conception, du développement et du suivi de certains modèles de mesure de risques et globalement d'assurer une coordination des travaux de l'ensemble des équipes de modélisation situées dans les équipes risques des entités CACIB, LCL, CA Italia, CAP…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Crédit Agricole SA",
+      "location": "Montrouge, Antony",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Gouvernance de la Donnée H/F - Alternance",
+      "description": "Le poste : Dans le cadre du déploiement de son plan stratégique Impact 26, Harmonie Mutuelle a fait du développement et du déploiement de sa stratégie Data et IA une priorité. Récemment, Harmonie Mutuelle a décidé de renforcer son organisation pour atteindre un nouveau palier de maturité sur les Data et l’IA avec la mise en place d’une équipe métier transverse Data & IA, rattachée à la Direction Stratégie, Transformation et Risques. Cette équipe Data & IA, composée de 3 personnes, doit notammen…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Harmonie Mutuelle",
+      "location": "15ème Arrondissement, Paris",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Gouvernance de la Donnée H/F - Alternance",
+      "description": "Le poste : Dans le cadre du déploiement de son plan stratégique Impact 26, Harmonie Mutuelle a fait du développement et du déploiement de sa stratégie Data et IA une priorité. Récemment, Harmonie Mutuelle a décidé de renforcer son organisation pour atteindre un nouveau palier de maturité sur les Data et l’IA avec la mise en place d’une équipe métier transverse Data & IA, rattachée à la Direction Stratégie, Transformation et Risques. Cette équipe Data & IA, composée de 3 personnes, doit notammen…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Harmonie Mutuelle",
+      "location": "Ille-et-Vilaine, Bretagne",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Manager Opérationnel Service Client",
+      "description": "Description Bleu est une entreprise de services cloud, française, indépendante, fondée par Capgemini et Orange. Notre proposition : offrir la suite de collaboration et de productivité Microsoft 365, ainsi que les services Microsoft Azure, dans un cloud français sécurisé, ayant vocation à obtenir la qualification SecNumCloud 3.2 de l’ANSSI. Nous rejoindre, c’est être au cœur du développement d’un modèle de cloud inédit, à la pointe de la technologie, et contribuer à la transformation du paysage …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Bleu",
+      "location": "Bagneux, Antony",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Dessinateur Projeteur F/H",
+      "description": "&nbsp;...secteurs d'activités dans le souci du service client et de la <b>qualité</b> de vie de ses collaborateurs. Tous nos postes sont ouverts aux...&nbsp;&nbsp;...missions sont réalisées en toute autonomie sous l'autorité de l'<b>Ingénieur </b>Chargé d'Affaires Etudes \r\net du Responsable National des BE VRD...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Stradal",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "stagiaire service technique études",
+      "description": "&nbsp;...Meadow Burke, sont renommées pour leur haute performance, leur <b>qualité</b> et leur fiabilité. Ces produits techniques et ces solutions de...&nbsp;&nbsp;...monde. \r\n Encadré par le responsable technique et une équipe d’<b>ingénieurs,</b> votre mission principale sera de participer aux études sur des...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Leviat",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Réceptionniste F/M",
+      "description": "&nbsp;...Allemagne, France, Afrique du Sud et Australie). Nous sommes établis depuis plus de 50 ans et sommes passionnés par la fourniture d'une <b>qualité</b> et d'un service exceptionnels. \r\n A propos du poste \r\n Nos équipes de base jouent un rôle déterminant dans la réalisation de nos...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Technicien Maintenance F/H",
+      "description": "&nbsp;...STRADAL  est une structure dynamique, développant ses différents secteurs d'activités dans le souci du service client et de la <b>qualité</b> de vie de ses collaborateurs. Tous nos postes sont ouverts aux personnes en situation de handicap. \r\n Sous la responsabilité du Responsable...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Stradal",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Technical Manager",
+      "description": "&nbsp;...troite collaboration avec les Property Managers et les équipes sur site, auxquels il apporte une expertise technique complète et de <b>qualité</b>. Le Responsable Technique est chargé de maintenir la qualité technique des actifs à des standards élevés, ce qui inclut la...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Greystar",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Medical Science Liaison",
+      "description": "&nbsp;...pour les MSLs), de la loi informatiques et libertés, des procédures de TEVA, notamment les procédures Pharmacovigilance, Réclamations <b>Qualité</b>, de la règlementation relative aux Relations avec les professionnels de santé (DMOS), des règles de déontologie et des règles fixé...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Teva Pharmaceutical Industries Ltd.",
+      "location": "France",
+      "source": "Jooble"
+    }
+  ]
+}

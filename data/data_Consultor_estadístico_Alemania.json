@@ -1,0 +1,120 @@
+{
+  "job_title": "Consultor estadístico",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 50,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "R": 3
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Sachbearbeiter Mahn- und Klagewesen (m/w/d) - Teilzeit",
+      "description": "Die evm-Gruppe – das sind rund 1000 Mitarbeiterinnen und Mitarbeiter. Zusammen sind wir das größte kommunale Energie- und Dienstleistungsunternehmen aus Rheinland-Pfalz. Wir versorgen unsere Region mit Strom und Erdgas, Trinkwasser und cleveren Dienstleistungen, die Menschen wirklich weiterbringen. Dabei setzen wir auf umweltschonendes und ressourcenorientiertes Handeln und soziales Engagement. Für unseren Bereich Recht, Fachbereich Mahn- und Klagewesen (RE-M) der Energieversorgung Mittelrhein …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "evm-Gruppe",
+      "location": "Koblenz, Rheinland-Pfalz",
+      "source": "Adzuna"
+    },
+    {
+      "title": "HSE Manager (m/w/d)",
+      "description": "Im Auftrag unseres Kunden, einem Dienstleister für Infrastrukturgroßprojekte, übernehmen wir das Bewerbungsverfahren für personelle Unterstützung auf freiberuflicher Basis. Das Aufgabengebiet Leitung des HSE-Bereichs und zentrale Schnittstelle zwischen Auftraggeber und Bauleitung Durchführung von HSE-Audits sowie Pflege der HSE-Dokumentation Erstellung und Umsetzung von Konzepten und Maßnahmen zur Arbeitssicherheit, Gesundheits- und Umweltschutz Unterstützung in der Planungs- und Vorbereitungsp…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Comanos",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sachbearbeiter Mahn- und Klagewesen (m/w/d) - Teilzeit",
+      "description": "Die evm-Gruppe – das sind rund 1000 Mitarbeiterinnen und Mitarbeiter. Zusammen sind wir das größte kommunale Energie- und Dienstleistungsunternehmen aus Rheinland-Pfalz. Wir versorgen unsere Region mit Strom und Erdgas, Trinkwasser und cleveren Dienstleistungen, die Menschen wirklich weiterbringen. Dabei setzen wir auf umweltschonendes und ressourcenorientiertes Handeln und soziales Engagement. Für unseren Bereich Recht, Fachbereich Mahn- und Klagewesen (RE-M) der Energieversorgung Mittelrhein …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "evm-Gruppe",
+      "location": "Koblenz, Rheinland-Pfalz",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Service- und Verweiskraft (m/w/d)",
+      "description": "Die Verbraucherzentrale Hessen e. V. ist die wichtigste Interessenvertretung der hessischen Verbraucherinnen und Verbraucher gegenüber Wirtschaft und Politik. Sie informiert und berät Menschen in ganz Hessen. Auf politischer Ebene setzt sie sich für Verbraucherbelange ein und setzt geltende Verbraucherrechte im Rahmen ihrer Verbandsklagebefugnisse durch. Für unsere Beratungsstelle in Frankfurt suchen wir ab 01.09.2025 eine Service- und Verweiskraft (m/w/d) (Teilzeit bis zu 16 Wochenstunden) Die…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Verbraucherzentrale Hessen e.V.",
+      "location": "Frankfurt am Main, Hessen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sachbearbeiter/in Entgeltabrechnung (m/w/d) der",
+      "description": "Willkommen bei der ÖRAG! Wir haben ein Ziel: Menschen zu ihrem Recht verhelfen – und das seit 1970. Seit unserer Gründung vor über 50 Jahren sind wir stetig gewachsen und liegen in der Welt der deutschen Rechtsschutzversicherungen auf den ersten Plätzen. Das liegt auch daran, dass unser Rundumschutz und unser Service regelmäßig mit Bestnoten ausgezeichnet werden. Wie machen wir das? Der Erfolg unserer Unternehmensgruppe basiert auf Tradition und Innovation. Wir schätzen Sicherheit und Stabilitä…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ÖRAG Rechtsschutzversicherungs-AG",
+      "location": "Düsseldorf, Nordrhein-Westfalen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Mathematiker*in (m/w/d) als Senior Consultant Versicherungen",
+      "description": "viadico ist ein unabhängiges Beratungs- und Dienstleistungsunternehmen für die Versicherungswirtschaft. Als Branchenspezialisten liefern wir seit über 30 Jahren Beratung und Lösungen für Systeme, Prozesse und Produkte bei Versicherungsunternehmen. Unser kleines und familiäres Beratungshaus hat rund 70 Mitarbeiter an drei Standorten im Raum Stuttgart, Raum Aachen und München. Wir suchen erfahrene Mathematiker*innen und Aktuarinnen/Aktuare mit Beraterpersönlichkeit, die zu unserer offenen Firmenk…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "viadico GmbH",
+      "location": "Filderstadt, Esslingen (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Lohnbuchhalter (m/w/d)",
+      "description": "Lohnbuchhalter (m/w/d) – Verstärken Sie unser Team in Kerpen! Zahlen sind Ihre Leidenschaft und Sie möchten in einem modernen, familiengeführten Unternehmen durchstarten? Unterstützen Sie uns ab sofort als Lohnbuchhalter (m/w/d) in Vollzeit oder Teilzeit an unserer Hauptzentrale in Kerpen und werden Sie Teil eines engagierten Teams! Das erwartet Sie bei uns: Attraktive Vergütung: Leistungsgerechte Bezahlung passend zu Ihrer Erfahrung und Qualifikation Sicherheit: Ein langfristiges Arbeitsverhäl…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Sitec Dienstleistungs GmbH",
+      "location": "Buir, Kerpen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Mitarbeiter Finanzen & Buchhaltung / Finance & Accounting Manager (f/m/d - Teil-/Vollzeit)",
+      "description": "Ihre Aufgabengebiete Buchhaltung Übernahme der vorbereitenden Buchhaltung Internes Rechungswesen und Kostenstellenzuordnung im Buchhaltungsprogramm Addison Mithilfe bei der Erstellung von Monats- und Jahresabschlüssen Prüfung der Reisekostenabrechnungen Kontinuierliche Optimierung unserer Finanzprozesse (z.B. Rechnungseingangsprozess) Rechnungsstellung und Mahnwesen Unterstützung im Rechnungsstellungsprozess Sicherstellung eines effektiven Mahnverfahrens Controlling Unterstützung im Projektmana…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Staburo GmbH",
+      "location": "Gemeinde Neubiberg, München",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Mitarbeiter Finanzen & Buchhaltung / Finance & Accounting Manager (f/m/d - Teil-/Vollzeit)",
+      "description": "Ihre Aufgabengebiete Buchhaltung Übernahme der vorbereitenden Buchhaltung Internes Rechungswesen und Kostenstellenzuordnung im Buchhaltungsprogramm Addison Mithilfe bei der Erstellung von Monats- und Jahresabschlüssen Prüfung der Reisekostenabrechnungen Kontinuierliche Optimierung unserer Finanzprozesse (z.B. Rechnungseingangsprozess) Rechnungsstellung und Mahnwesen Unterstützung im Rechnungsstellungsprozess Sicherstellung eines effektiven Mahnverfahrens Controlling Unterstützung im Projektmana…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Staburo",
+      "location": "München, München (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Head of ZMV bzw. Leitende Zahnmedizinische Verwaltungs- und Abrechnungskraft (m/w/d)",
+      "description": "Das sind wir: Team Dental ist ein modernes und dynamisches Unternehmen im Herzen von München, in der Nähe des Friedensengels, das sich der erstklassigen Patientenversorgung widmet. Wir spielen eine zentrale Rolle in der Zusammenarbeit mit unseren Partnern, indem wir Personalmanagement, Marketing, Praxisorganisation und die betriebswirtschaftliche Ausrichtung unserer Partnerpraxen übernehmen. Unser Ziel ist es, den Praxisbetrieb zu optimieren und eine exzellente Versorgung der Patienten sicherzu…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Dental Team Deutschland GmbH",
+      "location": "Au-Haidhausen, München",
+      "source": "Adzuna"
+    }
+  ]
+}

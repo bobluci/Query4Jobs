@@ -1,0 +1,64 @@
+{
+  "job_title": "Especialista en visualización de datos",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 4,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Specialist Customer Marketing",
+      "description": "Hasbro SA, based in Delemont Switzerland, manufactures and sells Hasbro toy and games products around the world. Hasbro European Trading BV ('HET') is Hasbro SA’s distributor in Europe, which sells to Hasbro SA’s customers in all major European countries. Hasbro International...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Hasbro",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Product Support Agent",
+      "description": " Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey. \r\n ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "UR COORDINATOR",
+      "description": " Responsibilities \r\n\r\n The Utilization Review Coordinator (URC) is responsible for initial clinical review. URC may approve requests for admissions, procedures, and services that meet clinical review criteria, but must refer requests that do not meet clinical review criteria...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "First Health Care of Puerto Rico",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Key Account Specialist",
+      "description": "The Consumer Products division of this local Hasbro entity provides services for the licensing business of Hasbro International Inc. (HII). We are currently recruiting for this position, based in the local office in this market. Job Summary: As a Key Account Specialist ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Hasbro",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    }
+  ]
+}

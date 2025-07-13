@@ -1,0 +1,37 @@
+{
+  "job_title": "Ingeniero de machine learning",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 1,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Software Engineer (w/m/d) für Simulation und Maschinelles Lernen - Anwendungsentwicklung, Ingenieur",
+      "description": "Das Galileo Kompetenzzentrum widmet sich als zentrale Aufgabe der Weiterentwicklung des europäischen Satellitennavigationssystems Galileo. Gemeinsam mit den wissenschaftlichen Instituten und Einrichtungen des DLR werden u.a. die Performance von Galileo und anderen existierenden Systemen analysiert, neue Ideen und vielversprechende Technologien entwickelt, getestet und validiert sowie in enger Kooperation mit der Industrie zur Einsatzreife geführt.  Das erwartet dich Die Abteilung Systemanalyse …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Deutsches Zentrum für Luft- und Raumfahrt ",
+      "location": "Weßling, Starnberg (Kreis)",
+      "source": "Adzuna"
+    }
+  ]
+}

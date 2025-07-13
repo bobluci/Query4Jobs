@@ -1,0 +1,123 @@
+{
+  "job_title": "Ingeniero estadístico",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 101,
+    "min": 51348.05,
+    "max": 260000,
+    "mean": 109559.19247524753,
+    "median": 97550.44,
+    "std_dev": 35862.17464072276
+  },
+  "top_technologies": {
+    "Python": 5,
+    "R": 4,
+    "Excel": 2,
+    "SQL": 2,
+    "Tableau": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Manager Retail Supply",
+      "description": "Entity: Supply, Trading & Shipping Job Family Group: Supply & Trading Group Job Description: About the Role: bp Energy Retail Company is seeking a highly motivated and experienced Manager – Retail Supply to lead the execution and optimization of renewable energy programs and services for large commercial and industrial (C&I) customers in deregulated U.S. markets. You will be responsible for managing renewable PPAs, supporting Renewable Portfolio Standard (RPS) book management, and driving new p…",
+      "salary_min": 134257.92,
+      "salary_max": 134257.92,
+      "company": "BP Energy",
+      "location": "Crestwood, Houston",
+      "source": "Adzuna"
+    },
+    {
+      "title": "LAB Research Chemist/Physicist/Engineer IV",
+      "description": "Job Description Job Description Volt is immediately hiring a Lab Research Chemist Engineer with Minitab experience in Brookings, South Dakota, with a well-known industry leader. This is a first shift position. As a Lab Research Chemist Engineer you will: Work with moderate work direction and can identify issues/problems but may need assistance in resolving. Assumes leadership of Quality Department projects and supports statistical needs of Medical Surgical business. Responsible for Identifying,…",
+      "salary_min": 51348.05,
+      "salary_max": 51348.05,
+      "company": "Volt",
+      "location": "Brookings, Brookings County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Statistical Workflow Engineer",
+      "description": "Job Title : Statistical Workflow Engineer Classification : Full Time Location : Fully Remote (with occasional visits to Santa Barbara office) Work Hours : Flexible with start time between 7:00 – 9:00 a.m. Travel : Up to 5% of time Base Salary Range : $52.00 - $68.00 per hour, equal to $108,160 to $141,440 annually Benefits: Above-market performance-based bonuses Employee Stock Ownership Program (ESOP) 401k Plan with profit sharing Medical, Dental, and Vision Insurance Life Insurance, Short- and…",
+      "salary_min": 108160,
+      "salary_max": 141440,
+      "company": "Robert D. Niehaus",
+      "location": "Santa Barbara, Santa Barbara County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Process Engineer (Statistics)",
+      "description": "Energize Your Career: Are you ready to be at the forefront of the clean energy revolution? MetOx International, Inc. is seeking a Process Engineer II to join our dynamic team and play a vital role in reshaping the future of power generation and distribution Based at our global headquarters in Houston, TX, the Process Engineer II designs and develops a continuous manufacturing process along with the layout and equipment for the facility. This includes creating and setting specifications, measure…",
+      "salary_min": 87437.06,
+      "salary_max": 87437.06,
+      "company": "MetOx International",
+      "location": "Jersey Village, Harris County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Manufacturing Process Engineer (Statistical, GD&T)",
+      "description": "Job Description Job Description Skills: • Expert knowledge of manufacturing and assembly processes. • Basic knowledge of tooling processes. • Basic knowledge of automotive industry processes. • Knowledge in MS Word, Excel, and PowerPoint. • Knowledge with Lotus Notes or other email communication tool. • Ability to partner with senior management to analyze and solve issues. • Ability to handle multiple projects simultaneously. • Strong written and verbal communication skills. • Ability to work w…",
+      "salary_min": 84313.6,
+      "salary_max": 84313.6,
+      "company": "KYYBA",
+      "location": "Detroit, Wayne County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist Entry Level",
+      "description": "Kemper is one of the nation’s leading specialized insurers, and they are seeking a Data Scientist to join their Auto Data Science team. This role involves building and developing analytical solutions to drive competitive advantage and support the organization's success. Responsibilities Independently designs and develops analytical solutions. Develops and automates processes that can be deployed throughout the organization to solve reoccurring analytics needs. Communicates project progress and …",
+      "salary_min": 125979.63,
+      "salary_max": 125979.63,
+      "company": "Jobright.ai",
+      "location": "US",
+      "source": "Adzuna"
+    },
+    {
+      "title": "(Sr./Lead) Quantitative Analyst I (II)",
+      "description": "*Flexible Work Arrangement: Hybrid* PJM Interconnection seeks a highly analytical and detail-oriented Quantitative Analyst to join the Model Validation team. This role supports the integrity of PJM's market-clearing and reliability models by conducting independent validations, performance testing, and analytical reviews of models used in the Electricity Energy markets. Essential Functions: Validate stochastic and deterministic models related to energy market forecasting, price formation, reliab…",
+      "salary_min": 109189.02,
+      "salary_max": 109189.02,
+      "company": "PJM Interconnection",
+      "location": "Audubon, Montgomery County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Manager/Sr. Manager - Consumer Credit Risk",
+      "description": "Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning, and AI. Various market research firms, including Forrester and Gartner, have recognized our business value and leadership. We are seeking someone with a good blend of business consulting skills and a data analytics background. If you are passion…",
+      "salary_min": 93074.41,
+      "salary_max": 93074.41,
+      "company": "Tiger Analytics",
+      "location": "Jersey City, Hudson County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Minimum Qualifications Bachelor’s degree or higher in business analytics, data science, statistics, engineering, or related field. 7 years of experience with R, Python, and/or SQL . 7 years of experience with visualization tools and packages such as ggplot2, D3, Tableau, or PowerBI. 4 years of experience managing a technical team of at least 3 staff. Strong MS Office skills and ability to concisely communicate approach and results to technical and non-technical audiences (oral/written).",
+      "salary_min": 88971.08,
+      "salary_max": 88971.08,
+      "company": "University of Maryland",
+      "location": "Maryland, US",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyst ORSA",
+      "description": "Job Details Fort Belvoir, VA Contractor 4 Year Degree None Day Professional Services Operations Research Systems Analyst (ORSA) will apply advanced analytical methods to support system development, operational testing, and evaluation, enabling data-driven decisions throughout the acquisition lifecycle. This role supports planning, execution, and analysis of experiments, simulations, wargaming, and operational test events. Must be a U.S. Citizen. Must have an active Secret clearance or above. Re…",
+      "salary_min": 87944.18,
+      "salary_max": 87944.18,
+      "company": "Mayvin",
+      "location": "Fort Belvoir, Fairfax County",
+      "source": "Adzuna"
+    }
+  ]
+}

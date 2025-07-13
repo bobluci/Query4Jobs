@@ -1,0 +1,124 @@
+{
+  "job_title": "Ingeniero de machine learning",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 25000,
+    "max": 275000,
+    "mean": 132605.9568,
+    "median": 118081.935,
+    "std_dev": 46607.15018311825
+  },
+  "top_technologies": {
+    "R": 3,
+    "GCP": 1,
+    "Spark": 1,
+    "Python": 1
+  },
+  "experience_stats": {
+    "count": 3,
+    "min": 3,
+    "max": 5,
+    "mean": 3.6666666666666665,
+    "median": 3,
+    "distribution": {
+      "5": 1,
+      "3": 2
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Machine Learning Engineer",
+      "description": "At IUNU (“you knew’), we’re revolutionizing the agriculture industry through cutting-edge AI-driven solutions for greenhouse operations. Our mission is to empower growers with insights that drive operational efficiency, enhance crop yields, and reduce environmental impact. We are seeking a Machine Learning Engineer for our AI team to developing products for our clients and the greenhouse industry. Machine Learning Engineer responsibilities include creating machine learning models and retraining…",
+      "salary_min": 111155.54,
+      "salary_max": 111155.54,
+      "company": "IUNU",
+      "location": "Seattle, King County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "XOPS is a fast-growing startup building the future of observability and automation for IT operations. Our platform unifies complex system data to deliver visibility, control, and intelligent workflows across the enterprise, empowering IT teams to manage the entire employee technology lifecycle with precision. As industries embrace AI to automate cars, rockets, and even farming, IT operations remain stuck in the past, reliant on spreadsheets and manual processes. We believe it is time for a chan…",
+      "salary_min": 150000,
+      "salary_max": 200000,
+      "company": "XperiencOps Inc",
+      "location": "San Francisco, California",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Company Description Chooch helps build and run the best Computer Vision AI applications that make cameras intelligent, enhancing productivity & revenues, while reducing operational costs. Chooch has been named a leading computer vision platform by IDC. Role Description We are looking for a Machine Learning Engineer (US-based) to join our team. This is a full-time, hybrid role with frequent hands-on experience with customer projects in Santa Clara. The Machine Learning Engineer will be responsib…",
+      "salary_min": 103862.8,
+      "salary_max": 103862.8,
+      "company": "Chooch",
+      "location": "San Mateo, San Mateo County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Hi, we’re CompanyCam. We’re a simple-to-use photo documentation and productivity app for contractors of all commercial and home services industries. Packed with intuitive functionality, CompanyCam facilitates unparalleled communication and accountability across a contractor’s entire business. We’re committed to providing a consumer-grade, game-changing experience that helps our users build trust within their company and with their customers. But don’t let that corporate description fool you—the…",
+      "salary_min": 210000,
+      "salary_max": 240000,
+      "company": "CompanyCam",
+      "location": "Lincoln, Lancaster County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Bask Health is at the forefront of the health-tech industry, providing personalized healthcare experiences through advanced, user-friendly technology. Our platform serves as a launchpad for entrepreneurs, doctors, physicians, and influencers in the DTC telehealth sector. Requirements We are looking for a skilled Machine Learning Engineer to become a key player on our team. The successful candidate will be passionate about crafting sophisticated machine learning models and AI-powered solutions. …",
+      "salary_min": 25000,
+      "salary_max": 60000,
+      "company": "Bask Health",
+      "location": "US",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Job Title: Machine Learning Engineer Company: Actifai Location: Washington, DC (Hybrid or Remote) The Role Actifai is looking for an experienced and motivated Machine Learning Engineer (MLE) to join our growing team. Embedded within the Data Science team, the MLE will play a critical role in scaling our ML and AI infrastructure and to support model development, deployment, and continuous reinforcement learning. This is a high-impact position tasked with shaping automation workflows and making a…",
+      "salary_min": 111611.12,
+      "salary_max": 111611.12,
+      "company": "Actif.ai",
+      "location": "Washington, Washington, D.C.",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Trusted by many of the largest companies globally, Accertify is the leading digital platform assessing risk across the entire customer journey, from Account Monitoring and Payment Risk to Refund Fraud and Dispute Management. Accertify helps maximize revenues and user experience while minimizing loss and customer friction. We offer ultra-fast decision-making and precise control, ensuring our customers are always conﬁdently in the driver’s seat and ready to MoveAtTheSpeedOfRight. Be in the driver…",
+      "salary_min": 115203.37,
+      "salary_max": 115203.37,
+      "company": "Accertify",
+      "location": "US",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning, and AI. Our business value and leadership have been recognized by various market research firms, including Forrester and Gartner. Are you a Machine Learning Engineer with expertise in Google Cloud Platform (GCP) and Vertex AI? We are looking for…",
+      "salary_min": 123817.2,
+      "salary_max": 123817.2,
+      "company": "Tiger Analytics",
+      "location": "Dallas, Texas",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "Machine Learning Engineer Category: Software Development/ Engineering Main location: United States, Virginia, Reston Position ID: J0625-1603 Employment Type: Full Time U.S. - What we do matters (https://youtu.be/lDvtHf2zJRQ) By playing this video you consent to Google/YouTube processing your data and using cookies -Learn more (xweb.asp?clid=21001&page=cookiespolicyintegrationofyoutube) . Position Description: CGI has an immediate need for a Machine Learning Engineer to join our team. This is an…",
+      "salary_min": 167366.1,
+      "salary_max": 167366.1,
+      "company": "CGI Technologies and Solutions, Inc.",
+      "location": "Reston, Fairfax County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "description": "About Noetica Noetica is solving critical NLP problems at the heart of the trillion-dollar capital markets ecosystem with an in-house machine learning platform and decades of ML PhD expertise. Founded in 2022 and based in New York, our high-caliber team is dedicated to bringing innovation and efficiency to legal and financial industries. We count many of the top law firms in the world among our customers. To date we have raised ~$30M with our last round (Series A) led by Lightspeed. We're fortu…",
+      "salary_min": 187000,
+      "salary_max": 270000,
+      "company": "Noetica",
+      "location": "New York City, New York",
+      "source": "Adzuna"
+    }
+  ]
+}

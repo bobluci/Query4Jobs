@@ -1,0 +1,64 @@
+{
+  "job_title": "Analista actuarial",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 4,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Actuario/a- Underwriting",
+      "description": "¿Quiénes somos? Cigna Healthcare España es una división de The Cigna Group, un sólido grupo multinacional con presencia a nivel mundial. Estamos especializados en seguros de salud y enfocados al mercado corporativo, contando con más de 1.000 clientes empresa y una amplia red médica de especialistas, hospitales y clínicas. Tenemos una oferta de servicios única basada en el cuidado integral de la salud de nuestros clientes y asegurados, desde un enfoque humano, empático, cercano y personalizado. …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "The Cigna Group",
+      "location": "Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Actuario/a- Underwriting",
+      "description": "¿Quiénes somos? Cigna Healthcare España es una división de The Cigna Group, un sólido grupo multinacional con presencia a nivel mundial. Estamos especializados en seguros de salud y enfocados al mercado corporativo, contando con más de 1.000 clientes empresa y una amplia red médica de especialistas, hospitales y clínicas. Tenemos una oferta de servicios única basada en el cuidado integral de la salud de nuestros clientes y asegurados, desde un enfoque humano, empático, cercano y personalizado. …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "The Cigna Group",
+      "location": "Boadilla del Monte, Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Actuario/a- Underwriting",
+      "description": "¿Quiénes somos? Cigna Healthcare España es una división de The Cigna Group, un sólido grupo multinacional con presencia a nivel mundial. Estamos especializados en seguros de salud y enfocados al mercado corporativo, contando con más de 1.000 clientes empresa y una amplia red médica de especialistas, hospitales y clínicas. Tenemos una oferta de servicios única basada en el cuidado integral de la salud de nuestros clientes y asegurados, desde un enfoque humano, empático, cercano y personalizado. …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CLICE Cigna Life Insurance Company of EUR SA-NV",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Actuario/A- Underwriting",
+      "description": "¿Quiénes somos? Cigna Healthcare España es una división de The Cigna Group, un sólido grupo multinacional con presencia a nivel mundial. Estamos especializados en seguros de salud y enfocados al mercado corporativo, contando con más de 1.000 clientes empresa y una amplia red médica de especialistas, hospitales y clínicas. Tenemos una oferta de servicios única basada en el cuidado integral de la salud de nuestros clientes y asegurados, desde un enfoque humano, empático, cercano y personalizado. …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Cigna",
+      "location": "Madrid",
+      "source": "Adzuna"
+    }
+  ]
+}

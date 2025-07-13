@@ -1,0 +1,121 @@
+{
+  "job_title": "Científico de datos",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 71,
+  "salary_stats": {
+    "count": 22,
+    "min": 486,
+    "max": 80000,
+    "mean": 35667.63636363636,
+    "median": 41000.0,
+    "std_dev": 24980.19897466497
+  },
+  "top_technologies": {
+    "Python": 1,
+    "AWS": 1,
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Chef-fe de projet scientifique – donnees maladies rares F/H",
+      "description": "- Mission principale: Au sein d’Orphanet, et dans le cadre de deux projets européens Orphanet Data for Rare Diseases (OD4RD) et la Joint Action for Rare Disease Integration in National Health Systems (JARDIN), le-la Chef-fe de Projet scientifique a pour missions : - coordonner, dans le cadre du projet OD4RD, le réseau des « hubs » nationaux Orphanet pour la nomenclature des maladies rares, présents dans une vingtaine de pays européens, en leur apportant un soutien scientifique et méthodologique…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur scientifique de données H/F",
+      "description": "Informations générales Référence 2025-10984 Type d'offre Recrutement externe Inscription à l'ordre obligatoire Non Site Hôpital Charles Nicolle Critères candidat Niveau d'études min. requis Niveau I (BAC 5 et ) Diplôme DESS / DEA / Master 2 Spécialisation Ingénieur Niveau d'expérience min. requis Non renseigné Durée de services publics 1 an",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CHU Rouen Normandie",
+      "location": "Seine-Maritime, Normandie",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Assistant de Reporting Scientifique (Traitement de données / Rapports Scientifiques) – Biologie in vitro (H/F)",
+      "description": "Description du poste Vous êtes technicien·ne de laboratoire ou jeune diplômé·e et envisagez d’évoluer vers des missions de valorisation des données et de préparation de rapports scientifiques ? Vous souhaitez découvrir un autre versant du métier en participant à la gestion et à la structuration des résultats d’études dans le domaine de la biologie in vitro ? Notre laboratoire œuvre dans les domaines de la pharmacologie, la biologie moléculaire, la microbiologie, l’histologie, la biologie cellul…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "QIMA",
+      "location": "Gençay, Montmorillon",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Scientifique spécialiste de données radioastronomiques (H/F)",
+      "description": "Informations générales Organisme de rattachement CNRS Référence UMR7293-CHIFER-002 Date de début de diffusion 18/06/2025 Date de parution 10/07/2025 Date de fin de diffusion 24/07/2025 Versant Fonction Publique de l'Etat Catégorie Catégorie A (cadre) Nature de l'emploi Emploi ouvert uniquement aux contractuels Domaine / Métier Recherche - Chercheuse / Chercheur Statut du poste Vacant Intitulé du poste Scientifique spécialiste de données radioastronomiques (H/F) Descriptif de l'employeur Le Cent…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Choisir le Service Public",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Responsable de la gestion des données scientifiques de l'archéologie (DSA) H/F",
+      "description": "Informations générales Organisme de rattachement Département des Recherches Archéologiques Sous-Marines et Sub-Aquatiques (DRASSM) Référence 2025-1968177 Localisation Marseille Intitulé long de l'offre Responsable de la gestion des données scientifiques de l'archéologie (DSA) Date limite de candidature 11/07/2025 Versant Fonction Publique de l'Etat Catégorie Catégorie A (cadre) Nature de l'emploi Emploi ouvert aux titulaires et aux contractuels Domaine / Métier Culture et Patrimoine - Experte /…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Dgafp",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Expert Technique Nutrition H/F",
+      "description": "En tant qu' Expert technique nutrition, vous êtes directement rattaché à la Déléguée Générale et êtes le référent interne et externe en matière de science de nutrition et santé. A ce titre, vous : * Constituez et garantissez une base de connaissance scientifiques : guidelines, bases de données, position papers * Proposez et réalisez les supports nécessaires à la défense du secteur, * Êtes l'interlocuteur privilégié des autorités scientifiques, médecins, pharmaciens, universitaires, journalistes…",
+      "salary_min": 43000,
+      "salary_max": 50000,
+      "company": "Michael Page",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "MANIPULATEUR EN RADIOLOGIE MÉDICALE (F/H)",
+      "description": "Rejoignez les 30 000 collaborateurs de l'Appel Médical et bénéficiez de nombreuses missions et emplois les plus adaptés à vos envies et compétences tout en profitant des nombreux services et avantages exclusifs. Les fonctions ou intitulés se déclinent au féminin comme au masculin. Nous recherchons un manipulateur en radiologie médicale (H/F) pour un remplacement en CDD à partir de septembre pour plusieurs mois. Mise à disposition possible d'un logement en appartement (en dehors de l'établisseme…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Agence Appel médical Bloc PACA",
+      "location": "Cagnes-sur-Mer, Grasse",
+      "source": "Adzuna"
+    },
+    {
+      "title": "MANIPULATEUR EN RADIOLOGIE MÉDICALE (F/H) (Basé à Cagnes-sur-Mer)",
+      "description": "Rejoignez les 30 000 collaborateurs de l'Appel Médical et bénéficiez de nombreuses missions et emplois les plus adaptés à vos envies et compétences tout en profitant des nombreux services et avantages exclusifs. Les fonctions ou intitulés se déclinent au féminin comme au masculin. Nous recherchons un manipulateur en radiologie médicale (H/F) pour un remplacement en CDD à partir de septembre pour plusieurs mois. Mise à disposition possible d'un logement en appartement (en dehors de l'établisseme…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Agence Appel médical Bloc PACA",
+      "location": "Beaulieu-sur-mer, Nice",
+      "source": "Adzuna"
+    },
+    {
+      "title": "MANIPULATEUR EN RADIOLOGIE MÉDICALE (F/H) (Basé à Cagnes-sur-Mer)",
+      "description": "Rejoignez les 30 000 collaborateurs de l'Appel Médical et bénéficiez de nombreuses missions et emplois les plus adaptés à vos envies et compétences tout en profitant des nombreux services et avantages exclusifs. Les fonctions ou intitulés se déclinent au féminin comme au masculin. Nous recherchons un manipulateur en radiologie médicale (H/F) pour un remplacement en CDD à partir de septembre pour plusieurs mois. Mise à disposition possible d'un logement en appartement (en dehors de l'établisseme…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Agence Appel médical Bloc PACA",
+      "location": "Antibes-Biot, Grasse",
+      "source": "Adzuna"
+    },
+    {
+      "title": "MANIPULATEUR EN RADIOLOGIE MÉDICALE (F/H) (Basé à Cagnes-sur-Mer)",
+      "description": "Rejoignez les 30 000 collaborateurs de l'Appel Médical et bénéficiez de nombreuses missions et emplois les plus adaptés à vos envies et compétences tout en profitant des nombreux services et avantages exclusifs. Les fonctions ou intitulés se déclinent au féminin comme au masculin. Nous recherchons un manipulateur en radiologie médicale (H/F) pour un remplacement en CDD à partir de septembre pour plusieurs mois. Mise à disposition possible d'un logement en appartement (en dehors de l'établisseme…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Agence Appel médical Bloc PACA",
+      "location": "Le Cannet, Grasse",
+      "source": "Adzuna"
+    }
+  ]
+}

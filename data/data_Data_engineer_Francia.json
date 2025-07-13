@@ -1,0 +1,120 @@
+{
+  "job_title": "Data engineer",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 71,
+  "salary_stats": {
+    "count": 18,
+    "min": 486,
+    "max": 50000,
+    "mean": 31198.666666666668,
+    "median": 36000.0,
+    "std_dev": 17498.814023678693
+  },
+  "top_technologies": {
+    "SQL": 3,
+    "PostgreSQL": 2
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Ingénieur Données Techniques H/F",
+      "description": "Les missions du poste Nous recherchons pour l'un de nos clients un ingénieur aéronautique - analyste de données flotte. Pour le compte d'un de nos clients, constructeur aéronautique, vous serez en charge de : Analyser les données de Retour d'Expérience au profit de la DGSM (évolutions de plan de maintenance, études de surconsommations, alertes sur des faits techniques) ; Produire des indicateurs de fiabilité des rechanges civils et militaires à partir du retour d’expérience client et consolidat…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "TAKOMA",
+      "location": "Mérignac, Bordeaux",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur de données - Data Engineer",
+      "description": "BM&A recherche son futur Data Engineer  Missions principales Notre Data Engineer a pour rôle d’assurer la bonne qualité de la donnée transmise et exploitée. Il aura un double encadrement selon les missions qui lui seront confiées : par les Responsables Opérationnels de Comptes (ROC), en charge du bon déroulement des missions liées à geoficiency et de la relation clients et prospects . Le Data Engineer accompagne le Responsable Opérationnel de Comptes dans les échanges avec le département inform…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BM&A",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Stage Ingénieur Données Industrielles F/H",
+      "description": "Actuellement, EDF Renouvelables recherche pour sa Direction Asset Operation Solutions (AOS), un : INGENIEUR DONNEES INDUSTRIELLES (H/F) en STAGE Début : Septembre 2025 Durée : 6 mois Au sein du pôle « Performence Engineering » du département « Data Analytics Factory », vous serez rattaché(e) au responsable Adjoint Data Analytics Factory et prendrez part aux missions suivantes : Mettre en place la première version d'un outil d'analyse de performance dans l'environnement Data Lake d'EDF Renouvela…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "EDF Renouvelables",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Données & Systèmes Achats F/H",
+      "description": "Au sein de la Direction Achats, vous êtes en qualité d’Ingénieur Données & Systèmes Achats en charge du déploiement et du maintien au sein du groupe, des solutions logicielles de e-sourcing, de SRM (Supplier Relationship Management), et de gestion des risques fournisseurs. A ce titre et dans le respect de la stratégie Achats du Groupe, vous assurez: l’administration et la Gestion des interfaces centralisées avec les services externes des plateformes concernées (Livesource, Prewave,etc…), les se…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SOCIETE NOISEENNE D'OUTILLAGE DE PRESSE",
+      "location": "Roissy-en-Brie, Torcy",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Stage - Ingénieur Données Industrielles - H/F",
+      "description": "Présentation de l'entreprise Acteur industriel responsable et innovant, EDF power solutions développe, construit et exploite des moyens de production d'énergies renouvelables et bas carbone ainsi que des solutions de flexibilité et de transport d'électricité. Grâce à l'ensemble de ses expertises, notre entreprise accompagne ses clients en leur proposant des offres sur mesure pour contribuer à la décarbonation et à la performance des systèmes électriques . Dans nos différentes géographies, nos é…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "EDF power solutions",
+      "location": "Montpellier, Hérault",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Données Senior (Senior Data Engineer)",
+      "description": "Lieu : Pau À propos de Cognite Chez Cognite, nous sommes bien plus qu'un pionnier mondial du SaaS (Software as a Service) ; nous sommes les architectes d'un futur industriel où les données, sublimées par notre plateforme Cognite Data Fusion (CDF), transforment les défis complexes en opportunités sans précédent. Nous ne nous contentons pas d'être à l'avant-garde de la numérisation industrielle – nous la redéfinissons ! Rejoignez-nous pour forger l'avenir du pétrole et du gaz, de la fabrication e…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Cognite",
+      "location": "Pau, Pyrénées-Atlantiques",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Apprenti Data Anlayst / Ingénieur de données",
+      "description": "Fiche de poste – Alternant(e) Data Analyst / Ingénieur(e) Données Période : Septembre 2025 à Juin 2026 Localisation : Lezennes (59) Niveau requis : Bac4/5 – École d’ingénieur ou Master en informatique, data, ou équivalent Contexte de la mission Dans le cadre de l’amélioration continue de nos outils de pilotage et de la fiabilité de nos données, nous recherchons un(e) alternant(e) motivé(e) pour prendre en charge le nettoyage, l’enrichissement et l’automatisation de notre base de données interne…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Ecolab",
+      "location": "Villeneuve-d'Ascq, Lille",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Base de Données Senior H/F",
+      "description": "L'équipe CSA de notre siège basé à La Ciotat recherche un Administrateur/Ingénieur Base de Données Senior confirmé en CDI. Nous rejoindre, c'est l'opportunité d'intervenir sur le SI de nos différents clients. Vous saurez intervenir au sein d'un pôle de compétence Niveau 3 sur des technos du marché. Missions principales : Administration des bases de données : - Installer, configurer et administrer les SGBD Oracle, SQL Server (et/ou PostgreSQL) - Gérer les utilisateurs, droits d'accès, partitions…",
+      "salary_min": 45000,
+      "salary_max": 50000,
+      "company": "Sea Tpi",
+      "location": "Aubagne-Est, Marseille",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Base de Données H/F",
+      "description": "Vos missions : * Supervision et rationalisation des différentes sources de données et tableaux de bord, * Déploiement des conditions d'optimisation des bases de données et serveurs, * Management de la BI QuickSight et co-construction des outils de reporting métiers pour accompagner le développement et sécuriser le pilotage de la performance, * Contribution au développement de l'efficience des services et au développement de solutions IA, * Participation au développement et à l'application des n…",
+      "salary_min": 30000,
+      "salary_max": 40000,
+      "company": "Page Personnel",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Apprenti Data Anlayst / Ingénieur de données",
+      "description": "Fiche de poste – Alternant(e) Data Analyst / Ingénieur(e) Données Période : Septembre 2025 à Juin 2026 Localisation : Lezennes (59) Niveau requis : Bac4/5 – École d’ingénieur ou Master en informatique, data, ou équivalent Contexte de la mission Dans le cadre de l’amélioration continue de nos outils de pilotage et de la fiabilité de nos données, nous recherchons un(e) alternant(e) motivé(e) pour prendre en charge le nettoyage, l’enrichissement et l’automatisation de notre base de données interne…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Ecolab Snc",
+      "location": "France",
+      "source": "Adzuna"
+    }
+  ]
+}

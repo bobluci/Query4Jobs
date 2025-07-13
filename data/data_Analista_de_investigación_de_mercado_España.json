@@ -1,0 +1,46 @@
+{
+  "job_title": "Analista de investigación de mercado",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 2,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Delegado/a de ventas SNC - Galicia - TEMPORAL",
+      "description": " Who we are \r\n Together, we’re on a mission to make good health more affordable and accessible, to help millions around the world enjoy healthier lives. It’s a mission that bonds our people across nearly 60 countries and a rich, diverse variety of nationalities and backgrounds...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Teva Pharmaceutical Industries Ltd.",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "EC135/EC145 HEMS Pilots at Avincis",
+      "description": "&nbsp;...process and aintain a comprehensive relationship with you. The NIF of the Data Controller is A-03125010 and the address is Aeródromo <b>de </b>Mutxamel, Partida la Almaina, nº 92, CP: 03110, Mutxamel, Alicante. \r\n In this act you give your consent to the transfer of your data...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Avincis",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "job_title": "Analista actuarial",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 9,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "SQL": 2,
+    "Excel": 2,
+    "Python": 1,
+    "R": 1,
+    "Power BI": 1
+  },
+  "experience_stats": {
+    "count": 1,
+    "min": 1,
+    "max": 1,
+    "mean": 1,
+    "median": 1,
+    "distribution": {
+      "1": 1
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "ANALISTA ACTUARIAL EN GASTOS MÉDICOS MAYORES",
+      "description": "¡TE ESTAMOS BUSCANDO! ¡Contáctanos hoy mismo! RECIÉN EGRESADOS: Vacante: (2) ANALISTAS ACTUARIALES EN GASTOS MÉDICOS MAYORES Y (1) ANALISTAS ACTUARIALES EN VIDA PERFIL Escolaridad: Lic. en Actuaria (Pasante/ Titulado). Experiencia: ideal 1 año de experiencia en un puesto igual o similar. CONOCIMIENTOS Programación (SQL, PHYTON, Excel avanzado) y manejo de bases de datos Estadísticos, actuariales, etc. FUNCIONES A DESARROLLAR Desarrollo de productos GMM y Accidentes / Vida Mantenimiento de los p…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Seguros Atlas Mx",
+      "location": "Ciudad de México, México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista Reservas IFRS",
+      "description": "Analista de Reservas IFRS En HDI Seguros, empresa líder en el sector asegurador, buscamos tu talento para integrarte a nuestro equipo de Planeación Actuarial como Analista de Reservas IFRS. Requisitos Licenciatura concluida en Actuaría, Estadística, Matemáticas o Física. Experiencia mínima de 1 año en el sector asegurador, preferentemente en áreas técnicas o actuariales. Manejo avanzado de Excel y SQL. Conocimientos en herramientas como Power BI, Macros, R, Python deseable. Inglés av…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ManpowerGroup",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Delivery Analyst - FieldTech",
+      "description": " Req ID: 329921\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Delivery Analyst - FieldTech...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Full Stack Lead",
+      "description": " Req ID: 317333\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Full Stack Lead to join...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Business Analysis Senior Analyst",
+      "description": " NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Business Analyst to join our team in Mexico...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Risk Analyst",
+      "description": " As the  Sr. Risk Analyst  , you will join a team of talented and dedicated fraud experts who play a pivotal role in fighting fraud, helping our customers succeed and that sit at the intersection of all of Signifyd's data, technology, processes, and business contracts. ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Signifyd",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Business Analyst",
+      "description": " Req ID: 280161\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Senior Business Analyst...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Project Coordination Business Analysis Analyst",
+      "description": " Req ID: 317015\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Project Coordination Business...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Financial Planning & Analyst Manager",
+      "description": "Elite Corporate Solutions is currently recruiting a  Financial Planning & Analyst Manager  on behalf of a leading U.S.-based maritime operations company. This role will work closely with the VP of Finance and CEO to prepare budgets, forecasts, monthly financial analysis...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Elite Corporate Solutions",
+      "location": "Mexico",
+      "source": "Jooble"
+    }
+  ]
+}

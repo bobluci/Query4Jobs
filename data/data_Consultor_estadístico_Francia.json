@@ -1,0 +1,120 @@
+{
+  "job_title": "Consultor estadístico",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 14,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Digital Consulting Director",
+      "description": "Numberly est un leader mondial du Data Marketing. Nous inventons et opérons le marketing digital de demain au croisement du marketing digital, de la technologie et de la recherche. Notre approche du conseil est radicalement différente de celle des cabinets traditionnels : nous sommes experts de la donnée et de son traitement. Numberly fait levier sur les dernières avancées en matière de data collaboration, d’analyse et d’activation des données, en y intégrant les technologies d'Intelligence Art…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Numberly",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Architect",
+      "description": " AESC is looking to add a Senior Architect to our team. \r\n Full-Time \r\n Remote \r\n\r\n About AESC US LLC \r\n AESC is an exciting, newly created global organization committed to solving the challenges of a sustainable future and becoming the leading supplier of full-value-chain...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "AESC",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "IT System Engineer - Team Lead",
+      "description": " Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey. \r\n ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "description": " Permanent (CDI only) | 3 days onsite, 2 days remote \r\n\r\n Language:  Fluency in English (professional working level required)\r\n\r\n\r\n Coders Connect is partnering with Sanofi to hire multiple   Data Analysts    for their growing   R&D Accelerator    unit in Paris. These are...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Coders Connect",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Technical Manager",
+      "description": " ABOUT GREYSTAR \r\n\r\n Greystar is a leading, fully integrated global real estate company offering expertise in property management, investment management, development, and construction services in  institutional-quality  rental housing, logistics, and life sciences sectors...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Greystar",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Test Engineer Opportunity - FS Poly",
+      "description": "Our client isn't just a cybersecurity company, it's a cybersecurity career powerhouse. Founded in 2009, our client offers exciting careers for IT professionals across various specializations, including CNO, cybersecurity, software development and more. They protect data...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "stanleyreid",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Software Engineer - Integration",
+      "description": " Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey. \r\n ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "description": " Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey. \r\n ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Retail Sales Manager Bordeaux",
+      "description": " What are we looking for \r\n L'équipe Cosentino Bordeaux recherche un Retail Sales Manager. Vous serez responsable de notre stratégie et de nos clients (notamment cuisinistes et architectes d’intérieur), en assurant la vente et la promotion des produits Cosentino. L'acquisition...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Cosentino",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "AI Senior Fullstack Engineer",
+      "description": " Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey. \r\n ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "France",
+      "source": "Jooble"
+    }
+  ]
+}

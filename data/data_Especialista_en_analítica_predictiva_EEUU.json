@@ -1,0 +1,124 @@
+{
+  "job_title": "Especialista en analítica predictiva",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 41,
+  "salary_stats": {
+    "count": 22,
+    "min": 89741.27,
+    "max": 200000,
+    "mean": 128389.56181818181,
+    "median": 128238.475,
+    "std_dev": 21904.487704488587
+  },
+  "top_technologies": {
+    "SQL": 2,
+    "Git": 1,
+    "R": 1,
+    "Spark": 1,
+    "Power BI": 1,
+    "AWS": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Data Scientist Ongoing Talent Pipeline",
+      "description": "Overview Data Scientist Talent Pipeline | Ongoing Talent Pipeline | Always Hiring! Location: GlobalWhere: Onsite OpportunitiesClearance: Preferred (varies by role)Employment Type: Full-time Who We Are Working across the globe, V2X builds smart solutions designed to integrate physical and digital infrastructure from base to battlefield. We bring 120 years of successful mission support to improve security, streamline logistics, and enhance readiness. Aligned around a shared purpose, our $3.9B com…",
+      "salary_min": 89741.27,
+      "salary_max": 89741.27,
+      "company": "V2X",
+      "location": "Reston, Fairfax County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION Fort Eisenhower, GA 30905 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) KEY SUMMARY We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you will…",
+      "salary_min": 123946.8,
+      "salary_max": 123946.8,
+      "company": "Cymertek",
+      "location": "Grovetown, Columbia County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION Honolulu, HI 96815 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) KEY SUMMARY We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you will analyz…",
+      "salary_min": 108289.2,
+      "salary_max": 108289.2,
+      "company": "Cymertek",
+      "location": "Wake Island, Honolulu",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION Aurora, CO 80014 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) KEY SUMMARY We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you will analyze …",
+      "salary_min": 132122.5,
+      "salary_max": 132122.5,
+      "company": "Cymertek",
+      "location": "Centennial, Arapahoe County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION San Antonio, TX 78208 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) KEY SUMMARY We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you will ana…",
+      "salary_min": 122493.08,
+      "salary_max": 122493.08,
+      "company": "Cymertek",
+      "location": "Fort Sam Houston, Bexar County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION Tysons, VA 22182 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) KEY SUMMARY We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you will analyze …",
+      "salary_min": 133489.34,
+      "salary_max": 133489.34,
+      "company": "Cymertek",
+      "location": "Wolf Trap, Halifax County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION Annapolis Junction, MD 20701 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) KEY SUMMARY We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you w…",
+      "salary_min": 124354.45,
+      "salary_max": 124354.45,
+      "company": "Cymertek",
+      "location": "Savage, Anne Arundel County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION Chantilly, VA 20151 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) KEY SUMMARY We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you will analy…",
+      "salary_min": 136047.94,
+      "salary_max": 136047.94,
+      "company": "Cymertek",
+      "location": "Chantilly, Fairfax County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist",
+      "description": "Data Scientist LOCATION Reston, VA 20190 CLEARANCE TS/SCI Full Poly (Please note this position requires full U.S. Citizenship) Key Summary We are seeking a curious and innovative Data Scientist to join our team and help transform data into actionable insights. In this role, you will use advanced analytics, machine learning models, and statistical methods to uncover trends, solve complex problems, and support strategic decision-making. Collaborating with cross-functional teams, you will analyze …",
+      "salary_min": 136800.6,
+      "salary_max": 136800.6,
+      "company": "Cymertek Corporation",
+      "location": "Reston, Fairfax County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Lead Data Scientist",
+      "description": "Job Details Chicago or Bloomington, IL; Atlanta, GA; Remote Description SUMMARY Reporting to a consulting actuary or senior consulting actuary, the lead data scientist works under the direction of a supervisor, project manager or account executive to create and deliver advanced analytics solutions for clients, identifying options with recommendations and providing additional resources. The lead data scientist is responsible for ensuring that best practices are adhered to within the practice are…",
+      "salary_min": 140000,
+      "salary_max": 200000,
+      "company": "Pinnacle Actuarial Resources",
+      "location": "US",
+      "source": "Adzuna"
+    }
+  ]
+}

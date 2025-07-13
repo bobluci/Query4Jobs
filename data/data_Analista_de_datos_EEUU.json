@@ -1,0 +1,124 @@
+{
+  "job_title": "Analista de datos",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 24000,
+    "max": 156000,
+    "mean": 82082.6332,
+    "median": 78281.01000000001,
+    "std_dev": 24443.29674593714
+  },
+  "top_technologies": {
+    "SQL": 6,
+    "Power BI": 3,
+    "Tableau": 2,
+    "Excel": 1,
+    "R": 1,
+    "SAS": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "ACL data analyst",
+      "description": "ACL Data Analyst Location: Washington, DC, 20201 Job Description: We are seeking a talented ACL Data Analyst to join our team in Washington, DC. The ideal candidate will have experience working with ACL (Audit Command Language) software to analyze and interpret data related to financial transactions, compliance, and risk management. The ACL Data Analyst will be responsible for developing and implementing data analysis strategies, creating reports and visualizations, and providing insights to su…",
+      "salary_min": 130056.52,
+      "salary_max": 130056.52,
+      "company": "Futrend Technology, Inc.",
+      "location": "Washington, Washington, D.C.",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Description: About our company: Bakerly, a happy family-owned company, is proud to be home to one of the fastest-growing brands in the US food industry! We are a baked goods manufacturer that emphasizes delicious, premium, and authentic recipes using only the very best ingredients. Our offices located in Miami, FL, Easton, PA, and San Antonio, TX, will make you feel right at home. Please visit our website to learn more about our delicious French crêpes, golden chocolate croissants, fluffy panca…",
+      "salary_min": 69660.73,
+      "salary_max": 69660.73,
+      "company": "Bakerly LLC",
+      "location": "West Miami, Miami-Dade County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Research Data Analyst",
+      "description": "We are seeking a *Research Data Analyst* who will primarily be responsible for the management and analysis of social network data collected from people who use drugs in Baltimore, Maryland. There will be an expectation that the Data Analyst participate in the cleaning and development of analytic data sets for use by the investigator team. The Research Data Analyst will also conduct analysis of social network data as directed by the investigative team and contribute to ongoing scientific manuscr…",
+      "salary_min": 56782.71,
+      "salary_max": 56782.71,
+      "company": "Johns Hopkins University",
+      "location": "Baltimore, Baltimore County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Research Data Analyst",
+      "description": "The Department of Surgery, Division of Surgical Oncology is seeking a *Research Data Analyst* to assist in the analytic datasets incorporating data from multiple sources, especially healthcare claims data, EHR data, and public health datasets to develop and implement study designs while maintaining data quality assurance procedures to ensure validity and reliability of study results. The research data analyst is critical to execute our nationally funded healthcare research. The Research Data An…",
+      "salary_min": 57309.33,
+      "salary_max": 57309.33,
+      "company": "Johns Hopkins University",
+      "location": "Baltimore, Baltimore County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Research Data Analyst",
+      "description": "The Department of Biostatistics is seeking a full-time* Research Data Analyst* to provide scientific, programmatic, and administrative support to faculty research programs. The research involves statistical methods work related to estimating the causal effects of programs and policies, as well as collaborative work with researchers across the School of Public Health. The position will conduct data management and analyses and will act as a liaison and facilitator to assist faculty in accomplishi…",
+      "salary_min": 54535.84,
+      "salary_max": 54535.84,
+      "company": "Johns Hopkins University",
+      "location": "Baltimore, Baltimore County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Research Data Analyst",
+      "description": "We are excited to announce the search for a committed and strategic *Research Data Analyst* to support the advancement of two pioneering research groups: the Community Science and Innovation for Environmental Justice (CSI EJ) Initiative and the Johns Hopkins Environmental Health Microbiology and Immunology Laboratory (EHMIL). This role involves providing the data management, data analysis, and statistical programming needed for cutting-edge, community-driven research and contributing data analy…",
+      "salary_min": 55939.6,
+      "salary_max": 55939.6,
+      "company": "Johns Hopkins University",
+      "location": "Baltimore, Baltimore County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "ACL data analyst (Only 24h Left)",
+      "description": "ACL Data Analyst Location: Washington, DC, 20201 Job Description: We are seeking a talented ACL Data Analyst to join our team in Washington, DC. The ideal candidate will have experience working with ACL (Audit Command Language) software to analyze and interpret data related to financial transactions, compliance, and risk management. The ACL Data Analyst will be responsible for developing and implementing data analysis strategies, creating reports and visualizations, and providing insights to su…",
+      "salary_min": 124296,
+      "salary_max": 124296,
+      "company": "Futrend Technology, Inc.",
+      "location": "Washington, Washington, D.C.",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Certified Audit Command Language Data Analyst",
+      "description": "Certified Audit Command Language Data Analyst Location: Washington, DC, 20201 Job Description: We are seeking a Certified Audit Command Language (ACL) Data Analyst to join our team in Washington, DC. The ideal candidate will have a strong background in data analysis and be certified in ACL software. The primary responsibilities of the role include: Conducting data analysis using ACL software to identify trends, anomalies, and potential issues Developing and implementing data analytics strategie…",
+      "salary_min": 109758.64,
+      "salary_max": 109758.64,
+      "company": "Futrend Technology, Inc.",
+      "location": "Washington, Washington, D.C.",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Information Technology Data Analyst Lead-Accounting",
+      "description": "Description Summary: The Information Technology Data Analyst Lead is responsible conducting full lifecycle analysis to include requirements, design, documentation, testing and validation to support the implementation of data and analytics solutions. Data Analyst must have expertise in methodology, design, specifications, programming, delivery, monitoring, and support standards leading to development of data and analytics solutions. SQL querying experience in a range of databases such as transac…",
+      "salary_min": 85910.73,
+      "salary_max": 85910.73,
+      "company": "Christus Health",
+      "location": "Irving, Dallas",
+      "source": "Adzuna"
+    },
+    {
+      "title": "▷ [3 Days Left] Certified Audit Command Language Data Analyst",
+      "description": "Certified Audit Command Language Data Analyst Location: Washington, DC, 20201 Job Description: We are seeking a Certified Audit Command Language (ACL) Data Analyst to join our team in Washington, DC. The ideal candidate will have a strong background in data analysis and be certified in ACL software. The primary responsibilities of the role include: - Conducting data analysis using ACL software to identify trends, anomalies, and potential issues - Developing and implementing data analytics strat…",
+      "salary_min": 113774.7,
+      "salary_max": 113774.7,
+      "company": "Futrend Technology, Inc.",
+      "location": "Washington, Washington, D.C.",
+      "source": "Adzuna"
+    }
+  ]
+}

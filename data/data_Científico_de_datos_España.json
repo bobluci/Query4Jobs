@@ -1,0 +1,126 @@
+{
+  "job_title": "Científico de datos",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 52,
+  "salary_stats": {
+    "count": 58,
+    "min": 33000,
+    "max": 110000,
+    "mean": 78706.89655172414,
+    "median": 80000.0,
+    "std_dev": 15105.48711815776
+  },
+  "top_technologies": {
+    "Python": 3,
+    "SQL": 3,
+    "AWS": 1,
+    "TensorFlow": 1,
+    "Pandas": 1,
+    "Spark": 1
+  },
+  "experience_stats": {
+    "count": 5,
+    "min": 3,
+    "max": 5,
+    "mean": 3.8,
+    "median": 3,
+    "distribution": {
+      "5": 2,
+      "3": 3
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Científico de datos",
+      "description": " Periodo solicitud finaliza :      Responsabilidades Desarrollo de modelos de Inteligencia Artificial y tratamiento de datos masivos (Big Data) en el entorno de salud. Procedimientos de prueba e integración de software y hardware. Administración, mantenimiento y actualización del software y gestión de los servidores corporativos. Soporte técnico de todos los productos de programas de sistemas. Servicios de instalación, mantenimiento y monitorización del programa, incluyendo frontend, backend, A…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Parc Taulí Hospital Universitari",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de datos",
+      "description": "¿Te apasiona construir soluciones transformadoras basadas en inteligencia artificial? ¿Te motiva aprender, compartir conocimiento y aportar valor real al negocio? ¿Te encanta experimentar y enfrentarte a retos? En nuestro equipo buscamos a una persona versátil, con mentalidad resolutiva, que combine curiosidad, visión de negocio y ganas de crecer en un entorno colaborativo y de confianza. Que sea capaz de sacar adelante soluciones útiles y transformadoras para el negocio. Somos un equipo pequeñ…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Grupo Caja de Ingenieros",
+      "location": "Barcelona",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de datos",
+      "description": "¿Te apasiona construir soluciones transformadoras basadas en inteligencia artificial? ¿Te motiva aprender, compartir conocimiento y aportar valor real al negocio? ¿Te encanta experimentar y enfrentarte a retos? En nuestro equipo buscamos a una persona versátil, con mentalidad resolutiva, que combine curiosidad, visión de negocio y ganas de crecer en un entorno colaborativo y de confianza. Que sea capaz de sacar adelante soluciones útiles y transformadoras para el negocio. Somos un equipo pequeñ…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Grupo Caja de Ingenieros",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de Datos Senior",
+      "description": "¡En la UFV te estamos buscando! Queremos construir una comunidad universitaria con personas capaces de promover la transformación de la sociedad y la cultura. En la Dirección General de Estrategia, Transformación y Experiencia requiere un Científico de Datos Senior para formar parte del equipo de Data, con la misión de contribuir al proceso de transformación institucional mediante el desarrollo de modelos analíticos y predictivos que permitan anticipar riesgos, detectar oportunidades estratégic…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Universidad Francisco de Vitoria",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos / Científico de datos",
+      "description": "En SEGULA Technologies buscamos un / a CONSULTOR / A con experiencia como Data Science con conocimientos avanzados de Python, LLM y EDA. Esta persona trabajará en una gran empresa del sector de la automoción, pudiendo trabajar en modalidad híbrida con horario flexible desde Valladolid o Madrid. Sus principales funciones serán : Diseñar e implementar modelos de machine learning y Deep learning para resolver problemas reales dentro del entorno de Supply Chain de una empresa de automoción Programa…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "SEGULA Technologies",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de Datos Senior. Barcelona",
+      "description": "Descripción: Desde Second Window estamos en búsqueda de un perfil de Científico de Datos Senior para un proyecto en laboratorio de Inteligencia Artificial(IAG), ubicado en Viladecans (dentro del área metropolitana de Barcelona), modalidad híbrida de trabajo ¿Qué necesitamos? Perfil con 4-5 años de experiencia en roles de ciencia de datos o análisis. -TITULACIÓN: Grado o máster en Ciencia de Datos, Informática, Estadística o campos relacionados. Skills - Dominio del modelado estadístico, aprendi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Científico de Datos especializado en IA (Machine Learning / Deep Learning)",
+      "description": "Únete a la revolución del Control de Tráfico Aéreo: Científico de Datos – Machine Learning / Deep Learning ¿Te apasiona la inteligencia artificial y quieres aplicar tu talento en un sector que literalmente mantiene el mundo conectado? Buscamos un científico de datos especializado en IA para liderar la próxima generación de innovaciones en gestión de tráfico aéreo. Si eres de esos profesionales que disfrutan resolviendo problemas complejos con impacto real, esta oportunidad es para ti. Perfil té…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Indra",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Hrs2025/259 Científico De Datos / Data Scientist",
+      "description": "Implementation of biomedical data transformation processes Development of data analysis processes in the field of biomedicine Creation of machine learning models for biomedical data Documentation and analysis of the state of the art in biomedical data integration and analysis Where to apply Email : Requirements Research Field : Computer Science » Database Management Education Level : Bachelor Degree or equivalent Skills / Qualifications : Data extraction and storage : APIs and web services Prog…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "buscojobs España",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "HRS2025/259 CIENTÍFICO DE DATOS / DATA SCIENTIST",
+      "description": "Organisation/Company UNIVERSIDAD POLITECNICA DE MADRID Department HRS4R Research Field Computer science » Database management Researcher Profile First Stage Researcher (R1) Positions Bachelor Positions Country Spain Application Deadline 21 Jul 2025 - 20:00 (Europe/Madrid) Type of Contract Permanent Job Status Full-time Hours Per Week 37,5 Offer Starting Date 1 Jul 2025 Is the job funded through the EU Research Framework Programme? Horizon 2020 Is the Job related to staff position within a Resea…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "Euraxess",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "HRS2025/259 CIENTÍFICO DE DATOS / DATA SCIENTIST",
+      "description": "Organisation/Company UNIVERSIDAD POLITECNICA DE MADRID Department HRS4R Research Field Computer science » Database management Researcher Profile First Stage Researcher (R1) Positions Bachelor Positions Country Spain Application Deadline 21 Jul 2025 - 20:00 (Europe/Madrid) Type of Contract Permanent Job Status Full-time Hours Per Week 37,5 Offer Starting Date 1 Jul 2025 Is the job funded through the EU Research Framework Programme? Horizon 2020 Is the Job related to staff position within a Resea…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "Euraxess",
+      "location": "Pozuelo de Alarcón, Madrid",
+      "source": "Adzuna"
+    }
+  ]
+}

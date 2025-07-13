@@ -1,0 +1,131 @@
+{
+  "job_title": "Data engineer",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 52,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "Python": 9,
+    "SQL": 7,
+    "AWS": 5,
+    "Azure": 4,
+    "Spark": 3,
+    "R": 2,
+    "PostgreSQL": 2,
+    "Hadoop": 1
+  },
+  "experience_stats": {
+    "count": 6,
+    "min": 3,
+    "max": 17,
+    "mean": 5.833333333333333,
+    "median": 3.5,
+    "distribution": {
+      "17": 1,
+      "3": 3,
+      "5": 1,
+      "4": 1
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Data Engineer",
+      "description": "Data Engineer – Snowflake & Kafka  Portugal or Spain (Remote)  Full-time | Permanent ️ Fluent English required A leading technology consultancy is hiring a Data Engineer with strong expertise in Apache Kafka and Snowflake . You'll join a fast-growing, remote-first team delivering cutting-edge data solutions to global clients in finance, retail, and other industries. This is a permanent role open to candidates based in Portugal or Spain , offering exciting projects, autonomy, and long-term caree…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Explore Group",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Data Engineer – AI & Cloud Solutions (Barcelona-based, Hybrid) We’re seeking a skilled Data Engineer to take a leading role in a high-impact technology programme focused on delivering cutting-edge AI solutions for a global organisation. In this role, you’ll be at the core of designing and building robust data infrastructure — turning raw data into powerful insights. You’ll collaborate closely with data scientists, software developers, and business teams to develop and scale intelligent systems …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Provide",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": " ¡Forma parte del futuro en Paradigma Digital!   Buscamos talento para una posición de Data Engineer.  Si te apasiona el mundo del Dato , esta es tu oportunidad para sumarte a un equipo innovador, flexible y comprometido. En Paradigma, valoramos tanto la experiencia como la actitud: buscamos personas con conocimientos en varias de las áreas clave y, sobre todo, con ganas de aprender, colaborar y crecer.  ¿Qué buscamos? Data Engineer Requisitos: ✔Experiencia en Snowflake, AWS y Python. ✔Deseable…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Paradigma Digital",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Kiteris es una empresa joven y ágil dedicada a brindar servicios de gestión de servicios y proyectos TI de integración de software, basados en la entrega de excelencia, la calidad de nuestro equipo y la aportación de valor a través de la especialización y la innovación. Estamos ubicados en España y Portugal, pero trabajamos para diferentes clientes en Europa, USA, y LATAM. En Kiteris Data, el grupo de Business Intelligence de Kiteris Solutions, estamos buscando una persona para desarrollar la f…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Kiteris",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Kiteris es una empresa joven y ágil dedicada a brindar servicios de gestión de servicios y proyectos TI de integración de software, basados en la entrega de excelencia, la calidad de nuestro equipo y la aportación de valor a través de la especialización y la innovación. Estamos ubicados en España y Portugal, pero trabajamos para diferentes clientes en Europa, USA, y LATAM. En Kiteris Data, el grupo de Business Intelligence de Kiteris Solutions, estamos buscando una persona para desarrollar la f…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Kiteris",
+      "location": "Barcelona",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": " Oportunidad en Capitole – Azure Data Engineer  Descripción del puesto Buscamos un Data Engineer para ser parte de un equipo internacional para desarrollar soluciones de datos robustas y eficientes en la nube, guiando también a otros perfiles técnicos. Responsabilidades del puesto  Explorar y analizar datos junto a Product Owners en fases iniciales  Diseñar arquitectura de plataforma de datos junto a Tech Leads y Data Architects  Desarrollar e implementar pipelines escalables con Azure y Databr…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Capitole",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "⚠️ ¿Buscas una nueva oportunidad laboral? En NEXT DIGITAL te estamos buscando ⚠️ ¿Quiénes somos? No te voy a aburrir con nuestra historia, pero para que tengas una idea de qué hacemos, llevamos 7 años acompañando a las empresas en su camino de transformación digital y nuestras principales áreas de trabajo son el desarrollo de software y el mundo Big Data. Ah, y trabajamos 100% en remoto (de verdad). ¿Qué buscamos? Actualmente queremos reforzar nuestros equipos con un/a Data Engineer. ¿Qué compe…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NEXT DIGITAL",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Estamos buscando un Data Engineer para unirse a nuestro equipo de IA en Dentsu España. El candidato seleccionado desempeñará un papel fundamental en la definición y desarrollo de diversos proyectos y productos de machine learning en la organización. Job Description: Dentsu es el grupo líder de la industria de comunicación en España tanto a nivel cualitativo como cuantitativo. Por 6º año consecutivo encabeza la posición líder en el ranking de InfoAdex y en el último informe RECMA, consiguiendo l…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "dentsu",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Estamos buscando un Data Engineer para unirse a nuestro equipo de IA en Dentsu España. El candidato seleccionado desempeñará un papel fundamental en la definición y desarrollo de diversos proyectos y productos de machine learning en la organización. Job Description: Dentsu es el grupo líder de la industria de comunicación en España tanto a nivel cualitativo como cuantitativo. Por 6º año consecutivo encabeza la posición líder en el ranking de InfoAdex y en el último informe RECMA, consiguiendo l…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "dentsu",
+      "location": "Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Take your career to the next level with Amaris Consulting as a Data Engineer in Valencia . Become part of an international team, thrive in a global group with €800M turnover and 1,000 clients worldwide, and an agile environment by planning the kickoff and follow up on projects. The ideal candidate has experience in SQL , DBT , and Jinja and is based in, or willing to relocate to, Valencia . Join Amaris Consulting, where you can develop your potential and make a difference within the company. ✍️…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Amaris Consulting",
+      "location": "España",
+      "source": "Adzuna"
+    }
+  ]
+}

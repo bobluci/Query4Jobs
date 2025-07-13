@@ -1,0 +1,75 @@
+{
+  "job_title": "Ingeniero de machine learning",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 5,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "GCP": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "ML/MLOps Engineer",
+      "description": "¿Te gustaría trabajar para la empresa semi-pública española referente en el diseño y la construcción de buques militares y buques civiles de alta tecnología? Si tienes formación en Ingeniería// Matemáticas// Ciencias Físicos/as y experiencia avanzada en Machine Learning y MLOps, APÚNTATE, nos encantaría conocerte. Buscamos un/a Ingeniero/a de Machine Learning y MLOps con experiencia en diseño, entrenamiento, despliegue y mantenimiento de modelos de IA generativa. Este puesto combina habilidades…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Adecco",
+      "location": "Cartagena, Murcia",
+      "source": "Adzuna"
+    },
+    {
+      "title": "ML Engineer/Scientist",
+      "description": "El Rol Estamos buscando un/a Ingeniero/a o Científico/a de Machine Learning con amplia experiencia en Google Cloud Platform (GCP) para unirse a nuestro equipo dinámico. Serás responsable de liderar iniciativas de ML/IA, aprovechando al máximo las capacidades del ecosistema de GCP. Tus responsabilidades incluirán exploración de datos, ingeniería de características, entrenamiento de modelos, despliegue y prácticas sólidas de MLOps. Responsabilidades Clave Realizar descubrimiento de datos, visuali…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Privada",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior AI Product Designer",
+      "description": "&nbsp;...Our aim is to create an inclusive workplace where everyone <b>learns </b>and succeeds. Contentsquare has built a community of individuals...&nbsp;&nbsp;...Translate AI to Usable Insights:  Simplify complex AI models and <b>machine </b>learning outputs into actionable visualizations, dashboards, and...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Electrical Engineer",
+      "description": " Responsibilities for this Position \r\n\r\n Location:  Madrid, ES, 28033\r\n Flexible Work Arrangement:  Hybrid \r\n Career Level:  Professional \r\n Requisition Id: 1935\r\n Since 1967, Jet Aviation has been crafting flight in its smoothest form. From one hangar in Basel, Switzerland...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Jet Aviation",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    },
+    {
+      "title": "Mechanical Engineer",
+      "description": "&nbsp;...projects if necessary. \r\n Carry out technical inspections of the aircraft (photographs, dimensions, 3D scanning...). \r\n Record of lessons <b>learned </b>to ensure the efficiency of future projects. \r\n\r\n Minimum Requirements \r\n Degree/Master in Aeronautical or Industrial Engineering....&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Jet Aviation",
+      "location": "Kingdom of Spain",
+      "source": "Jooble"
+    }
+  ]
+}

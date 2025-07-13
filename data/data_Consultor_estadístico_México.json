@@ -1,0 +1,119 @@
+{
+  "job_title": "Consultor estadístico",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 32,
+  "salary_stats": {
+    "count": 6,
+    "min": 120000.0,
+    "max": 264000,
+    "mean": 198000.0,
+    "median": 207000.0,
+    "std_dev": 54199.630995053834
+  },
+  "top_technologies": {
+    "GCP": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Consultor de estadística - Lunes a viernes",
+      "description": "Somos la AFORE líder con más de 25 años de experiencia ofreciendo servicios financieros a más 3 millones de clientes en toda la República Mexicana. En Profuturo estamos comprometidos en salvar el futuro de los mexicanos. El talento de nuestro equipo nos hace la institución número uno. Por eso constantemente estamos buscando personas como tú. Te invitamos a formar parte de nuestra gran familia y a consolidar tu carrera profesional dentro de un ambiente laboral de calidad como: ANALISTA DE DATOS …",
+      "salary_min": 204000,
+      "salary_max": 264000,
+      "company": "Profuturo",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Consultor/a de datos - Lunes a viernes",
+      "description": "¡ÚNETE AL EQUIPO QUE TRANSFORMA EL FUTURO! En Profuturo , somos líderes en servicios financieros con más de 25 años de experiencia respaldando a más de 3 millones de clientes en todo México. Nuestro compromiso: salvar el futuro de los mexicanos . ¿Eres apasionado por los datos, los números y las estrategias inteligentes? Entonces queremos conocerte para que formes parte de nuestra familia como: CONSULTORA/CONSULTOR DE ESTADÍSTICA ¿Qué tenemos para ti? Te ofrecemos más que un empleo: una experie…",
+      "salary_min": 210000,
+      "salary_max": 240000,
+      "company": "Profuturo",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Desktop Support Associate-Helpdesk",
+      "description": " Req ID: 330831\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Desktop Support Associate...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Desktop Support Associate-Field Tech",
+      "description": " Req ID: 326762\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Desktop Support Associate...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Desktop Support Associate-Helpdesk",
+      "description": " .  Req ID: 328935\r\n NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Desktop Support...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Desktop Support Associate-Helpdesk",
+      "description": " Req ID: 320242\r\n NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Helpdesk Associate...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "SailPoint Architect",
+      "description": " Req ID: 322105\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a SailPoint Architect to ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Software Development Advisor",
+      "description": " Req ID: 330315\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Software Development Advisor...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Technical Solutions Architect - Planning & Pricing",
+      "description": " Job Title  :        Technical Solutions Architect – Planning & Pricing \r\n Location:        Remote – USA, Mexico, or Canada \r\n Compensation: $120,000 - $150,000 + Variable Comp \r\n About Centric Software: \r\n Centric Software stands at the forefront of innovation, delivering...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CENTRIC SOFTWARE INC",
+      "location": "Mexico",
+      "source": "Jooble"
+    },
+    {
+      "title": "Solution Architect GCP (GKE) REMOTE",
+      "description": " Req ID: 326797\r\n NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now. \r\n We are currently seeking a Solution Architect GCP ...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA, Inc.",
+      "location": "Mexico",
+      "source": "Jooble"
+    }
+  ]
+}

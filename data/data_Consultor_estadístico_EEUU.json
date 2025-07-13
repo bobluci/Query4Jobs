@@ -1,0 +1,127 @@
+{
+  "job_title": "Consultor estadístico",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 25,
+    "max": 240000,
+    "mean": 99965.3976,
+    "median": 88509.47,
+    "std_dev": 44779.513370991095
+  },
+  "top_technologies": {
+    "SAS": 6,
+    "R": 4,
+    "Python": 3,
+    "SQL": 2,
+    "SPSS": 1,
+    "GCP": 1
+  },
+  "experience_stats": {
+    "count": 4,
+    "min": 4,
+    "max": 7,
+    "mean": 5.75,
+    "median": 6.0,
+    "distribution": {
+      "4": 1,
+      "7": 2,
+      "5": 1
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Senior Statistical Consultant",
+      "description": "Minimum Qualifications A Master’s degree in Statistics, Biostatistics, or a related field Strong understanding of a wide range of statistical methodologies. A minimum of 2 years’ experience as a statistical consultant or a data scientist. Demonstrated experience with outreach and relationship building. Proficiency in statistical software including R and SAS . Experience with Python. Demonstrated ability to work as the lead consultant responsible for designing and implementing consultancy projec…",
+      "salary_min": 110333.23,
+      "salary_max": 110333.23,
+      "company": "Wsu",
+      "location": "Dayton, Montgomery County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Statistical Consultant (Research Associate)",
+      "description": "Position Summary We have an immediate opening for a Research Associate – Statistician position in the Indiana Statistical Consulting Center within IU Research at Indiana University, Bloomington. The Indiana Statistical Consulting Center ( ISCC ) provides statistical support on all IU campuses, as well as external universities and organizations. Services include (1) power and sample size calculations, preliminary data analysis, and other grant related support for faculty in the proposal or pre-p…",
+      "salary_min": 93270.59,
+      "salary_max": 93270.59,
+      "company": "Indiana University Academic Positions",
+      "location": "Bloomington, Monroe County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Principal Statistical Programmer Consultant- Immunotherapy (Remote)",
+      "description": "Are you interested in working directly for a single sponsor while having the security and additional career opportunities that working for a global CRO can bring? Our team says it’s the best of both worlds…. ClinChoice is searching for a Principal Programmer Consultant to join one of our clients in ImmunotherapyTA Team. ClinChoice is a global full-service CRO with a strong focus on quality, professional development, and supportive culture. As a client-facing role, we are looking for confident c…",
+      "salary_min": 133030.3,
+      "salary_max": 133030.3,
+      "company": "ClinChoice",
+      "location": "Chicago, Cook County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "909Senior Statistical Programmer Consultant -Oncology (remote)",
+      "description": "Are you interested in working directly for a single sponsor while having the security and additional career opportunities that working for a global CRO can bring? Our team says it’s the best of both worlds…. ClinChoice is searching for a Senior Statistical Programmer Consultant to join one of our clients. ClinChoice is a global full-service CRO with a strong focus on quality, professional development, and supportive culture. As a client-facing role, we are looking for confident candidates with …",
+      "salary_min": 105028.69,
+      "salary_max": 105028.69,
+      "company": "ClinChoice",
+      "location": "Chicago, Cook County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "858-Principal Statistical Programmer Consultant- Hematology (Remote)",
+      "description": "Are you interested in working directly for a single sponsor while having the security and additional career opportunities that working for a global CRO can bring? Our team says it’s the best of both worlds…. ClinChoice is searching for a Principal Programmer Consultant to join one of our clients in Hematology TA Team. ClinChoice is a global full-service CRO with a strong focus on quality, professional development, and supportive culture. As a client-facing role, we are looking for confident can…",
+      "salary_min": 123571.48,
+      "salary_max": 123571.48,
+      "company": "ClinChoice",
+      "location": "Chicago, Cook County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Research Assistant II",
+      "description": "Palo Alto University (PAU), a private, non-profit university, founded in 1975 and located in the heart of Northern California’s Silicon Valley, is a community grounded in values of social justice, dedicated to addressing pressing and emerging issues in the fields of psychology and counseling that meet the needs of today’s diverse society. The students at PAU reflect the diversity of the region, are engaged in their education, and committed to improving the lives of others. The University sees d…",
+      "salary_min": 25,
+      "salary_max": 25,
+      "company": "Palo Alto University",
+      "location": "Stanford, Santa Clara County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Biostatistical Consultant II, Internal Medicine",
+      "description": "WHY UT SOUTHWESTERN? With over 75 years of excellence in Dallas-Fort Worth, Texas, UT Southwestern is committed to excellence, innovation, teamwork, and compassion. As a world-renowned medical and research center, we strive to provide the best possible care, resources, and benefits for our valued employees. Ranked as the number 1 hospital in Dallas-Fort Worth according to U.S. News & World Report , we invest in you with opportunities for career growth and development to align with your future g…",
+      "salary_min": 66245.95,
+      "salary_max": 66245.95,
+      "company": "UT Southwestern Medical Center",
+      "location": "Village, Dallas",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Biostatistical Consultant I, Internal Medicine",
+      "description": "WHY UT SOUTHWESTERN? With over 75 years of excellence in Dallas-Fort Worth, Texas, UT Southwestern is committed to excellence, innovation, teamwork, and compassion. As a world-renowned medical and research center, we strive to provide the best possible care, resources, and benefits for our valued employees. Ranked as the number 1 hospital in Dallas-Fort Worth according to U.S. News & World Report , we invest in you with opportunities for career growth and development to align with your future g…",
+      "salary_min": 68877.27,
+      "salary_max": 68877.27,
+      "company": "UT Southwestern Medical Center",
+      "location": "Village, Dallas",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Biostatistical Consultant II, PN",
+      "description": "WHY UT SOUTHWESTERN? With over 75 years of excellence in Dallas-Fort Worth, Texas, UT Southwestern is committed to excellence, innovation, teamwork, and compassion. As a world-renowned medical and research center, we strive to provide the best possible care, resources, and benefits for our valued employees. Ranked as the number 1 hospital in Dallas-Fort Worth according to U.S. News & World Report , we invest in you with opportunities for career growth and development to align with your future g…",
+      "salary_min": 51808.15,
+      "salary_max": 51808.15,
+      "company": "UT Southwestern Medical Center",
+      "location": "Village, Dallas",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Student Asst. - SCC Consultant",
+      "description": "Palo Alto University (PAU), a private, non-profit university, founded in 1975 and located in the heart of Northern California’s Silicon Valley, is a community grounded in values of social justice, dedicated to addressing pressing and emerging issues in the fields of psychology and counseling that meet the needs of today’s diverse society. The students at PAU reflect the diversity of the region, are engaged in their education, and committed to improving the lives of others. The University sees d…",
+      "salary_min": 41600,
+      "salary_max": 41600,
+      "company": "Palo Alto University",
+      "location": "US",
+      "source": "Adzuna"
+    }
+  ]
+}

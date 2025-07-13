@@ -1,0 +1,123 @@
+{
+  "job_title": "Analista de datos",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 50,
+  "salary_stats": {
+    "count": 6,
+    "min": 26000,
+    "max": 75000,
+    "mean": 47380,
+    "median": 47500.0,
+    "std_dev": 17259.03821190509
+  },
+  "top_technologies": {
+    "Python": 21,
+    "Excel": 20,
+    "Power BI": 19,
+    "R": 2,
+    "SQL": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Datenanalyst im Vertriebsmanagement (w/m/d)",
+      "description": "Aufgaben Profil Wir bieten Firmenbeschreibung Die Volksbank an der Niers: Deine Heimatbank - nachhaltig und stark. Als zukunftsorientierte Genossenschaftsbank mit über 360 engagierten Mitarbeitenden sind wir an 17 Standorten am linken Niederrhein regional verwurzelt. Wir stehen für eine familiäre Unternehmenskultur, gehen vertraut und unterstützend miteinander um und bieten Ihnen eine langfristige Perspektive. Zur Verstärkung unseres Teams suchen wir Sie am Standort Geldern-Veert als Datenanaly…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Volksbank an der Niers eG",
+      "location": "Geldern, Kleve (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Datenanalyst (m/w/d) Digitalisierung Krankenkasse",
+      "description": "Datenanalyst (m/w/d) Digitalisierung Krankenkasse Für unsere Unternehmenszentrale in Hannover suchen wir Sie zum nächstmöglichen Zeitpunkt als Datenanalysten (m/w/d) im Bereich Digitalisierung Krankenkasse. Mit Ihrer analytischen und kreativen Expertise bringen Sie die Digitalisierungsmöglichkeiten für unsere Versicherten und Mitarbeitenden voran. Sie kennen sich mit der Analyse komplexer Versicherungs-/ und Gesundheitsdaten aus und haben Lust unsere Prozesse mit Blick auf den Kundennutzen inno…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "KKH Kaufmännische Krankenkasse",
+      "location": "Hannover, Region Hannover (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Mitarbeiter fürs Portfoliomanagement / Datenanalyst (m/w/d)",
+      "description": "Mitarbeiter Portfoliomanagement / Datenanalyst (m/w/d) Die UKA-Gruppe gehört in Deutschland zu den führenden Projektentwicklern für erneuerbare Energien. Die Projektpipeline der Gruppe beträgt in all ihren Märkten aktuell mehr als 19 Gigawatt. Über ihre Betriebsführungsgesellschaft UKB übernimmt sie darüber hinaus die Betriebsführung für Wind- und PV-Parks. Lass uns gemeinsam erfolgreich an der Umsetzung der Energiewende arbeiten. Hierfür suchen wir für unseren Standort Rostock einen Mitarbeite…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "",
+      "location": "Brinckmansdorf, Rostock",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Datenanalyst (m/w/d)",
+      "description": "Unser Angebot: FitX Firmenfitness Flexible Arbeitszeiten (Gleitzeit) Mobiles Arbeiten 30 Tage Urlaub Jährliche Weihnachtsfeier Gratis Kaffee und Wasser Flache Hierarchien und kurze Entscheidungswege Hohes Maß an Selbständigkeit und Entwicklungsmöglichkeiten Angenehme und offene Arbeitsatmosphäre Ihre Aufgaben: Durchführung detaillierter Datenanalysen zur Integration von diversen Datenquellen Verbesserung der Datenqualität über den gesamten Lebenszyklus von Daten-Produkten hinweg Unterstützung b…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zander Digital Services",
+      "location": "Herdecke, Ennepe-Ruhr-Kreis",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Datenanalyst im Vertriebsmanagement (w/m/d)",
+      "description": "Firmenbeschreibung Die Volksbank an der Niers: Deine Heimatbank - nachhaltig und stark. Als zukunftsorientierte Genossenschaftsbank mit über 360 engagierten Mitarbeitenden sind wir an 17 Standorten am linken Niederrhein regional verwurzelt. Wir stehen für eine familiäre Unternehmenskultur, gehen vertraut und unterstützend miteinander um und bieten Ihnen eine langfristige Perspektive. Zur Verstärkung unseres Teams suchen wir Sie am Standort Geldern-Veert als Datenanalyst im Vertriebsmangement (w…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Volksbank an der Niers eG",
+      "location": "Geldern, Kleve (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "(IT-)Business Architect (m/w/d)",
+      "description": "Du bewegst gern Großes – wir bewegen den Puls der Stadt Alles fließt – damit das so ist und Strom, Erdgas, Wasser und Wärme auch da ankommen, wo sie benötigt werden, gibt es die wesernetz Bremen GmbH. Wir kümmern uns um die einwandfreie Funktion der verschiedenen, riesigen Versorgungsnetzwerke in der Stadt, zu jeder Zeit, an jedem Punkt. Neue Anforderungen in einer digitalisierten Welt bedienen wir mit einem ambitionierten Programm zum Glasfaserausbau – für den schnellen Datenfluss. Von der Gru…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "wesernetz Bremen GmbH",
+      "location": "Bremen, Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Datenanalyst mit Schwerpunkt CRM und Prozessautomatisierung (m/w/d)",
+      "description": "Ihre Mission: Als treibende Kraft hinter unserer digitalen Transformation suchen wir eine technikaffine Persönlichkeit, die unsere manuellen Prozesse durch intelligente Automatisierungslösungen revolutioniert. Mit Ihrem fundierten Wissen im Bereich CRM-Systeme und Datenanalyse werden Sie unsere Vertriebsstrategien maßgeblich mitgestalten und optimieren. Ihre Aufgaben: Analyse, Optimierung und Automatisierung bestehender Vertriebs- und Backoffice-Prozesse. Weiterentwicklung und Pflege unseres CR…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "migRaven",
+      "location": "Berlin, Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Projektassistent:in / Datenanalyst:in",
+      "description": "Die GMVK ist eine Unternehmensberatung, die ihren Kunden die systematische und wissensbasierte Optimierung von Einkauf, Instandhaltung und Supply Chain bietet. Unser Ziel ist es, Transparenz zu schaffen, Kosten zu reduzieren, Prozesse zu optimieren, Effizienz und Wachstum zu steigern, damit unsere Kunden ihre Wettbewerbsposition stetig stärken und ihren Ertrag wirksam maximieren können. Dabei haben wir das Thema Nachhaltigkeit fest in unsere Unternehmenspolitik verankert. Wir nutzen moderne Tec…",
+      "salary_min": 26000,
+      "salary_max": 33280,
+      "company": "GMVK Procurement GmbH",
+      "location": "Südostviertel, Essen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Datenanalyst (m/w/d)",
+      "description": "Datenanalyst (m/w/d) Für unseren namhaften Kunden suchen wir ab sofort Sie!&nbsp; Ihre Aufgaben Ad-hoc Analysenerstellung & Auswertungen Datenintegration und Automatisierung mittels Power Query Verwaltung, Betreuung und Pflege bestehender Berichte und Dashboards Verantwortlichkeit für die Integration neuer Berichte/Dashboards/Kennzahlen Bewertung von Prozess-Kennzahlen Dokumentation und regelmäßige Aktualisierung der Dashboard-Entwicklung und Prozesse Ihr Profil Abgeschlossene kaufmännische ode…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Tintschl AG",
+      "location": "Kiel, Schleswig-Holstein",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Datenanalyst (m/w/d)",
+      "description": "Zander Digital Services Deutschland GmbH ist der e-Business Dienstleister der Zander-Gruppe. Als Anbieter im Bereich Online-Marketing gestartet, wurde sie zu einer internationalen Full-Service-Digital",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ZANDER Digital Services",
+      "location": "Herdecke, Ennepe-Ruhr-Kreis",
+      "source": "Adzuna"
+    }
+  ]
+}

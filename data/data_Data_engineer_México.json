@@ -1,0 +1,122 @@
+{
+  "job_title": "Data engineer",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 1,
+    "min": 130000.0,
+    "max": 130000.0,
+    "mean": 130000.0,
+    "median": 130000.0,
+    "std_dev": 0
+  },
+  "top_technologies": {
+    "Azure": 3,
+    "GCP": 3,
+    "AWS": 1,
+    "SQL": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Staff IT Data Engineer",
+      "description": "About Ironclad: Ironclad is the 1 contract lifecycle management platform for innovative companies. Every company, in every country, in every industry runs on contracts, but managing these contracts slows companies down and costs them millions of dollars. L’Oréal, Mastercard, OpenAI, and other leading innovators use Ironclad to collaborate and negotiate on contracts, accelerate contracting while maintaining compliance, and turn contracts into critical carriers of operational business intelligenc…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "TurnKey Tech Staffing",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Ids Comercial es una empresa 100 mexicana dedicada a TI con más de 40 años de experiencia con presencia en México, Costa Rica y proyectos con EU y Canadá. Nos especializamos en servicios de consultoría, desarrollo y capacitación en TI. Estamos acreditados en el Nivel 5 de CMMI Capability Maturity Model Integration, modelo de calidad establecido por el Software Engineering Institute SEI, certificados por parte de ISO en la norma ISOIEC 270012013, así como cada año obtenemos un distintivo…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "IDS Comercial, S.A. de C.V.",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Consultora especializada en TI con diversos clientes a nivel nacional e internacional está en búsqueda. Data Engineer con dominio de tecnologías modernas para construir soluciones de datos eficientes, robustas y escalables. Requisitos 3 años analizando Base de datos de millones de registros. Experiencia con entornos data Waterhouse y bases de datos con modelos analíticos multidimensionales Diseño, implementación y mantenimiento de pipelines ETL. Conocimientos de la nube GCP, AWS, AZURE P…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Asteci",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Engineer",
+      "description": "About the team Zillow Group is currently seeking a seasoned Data Visualization Engineer to join the Marketing Data Science & Analytics team (marketing DSA). As a Data Visualization Engineer, you will play a vital role in creating visually compelling representations of complex data to provide insights and support decision-making for marketing stakeholders. About the role On the Marketing DSA team, we're passionate about unearthing insights that help our marketing team in shaping the future of Zi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zillow",
+      "location": "San Pablo del Monte, Tlaxcala",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Engineer",
+      "description": "About the team Zillow Group is currently seeking a seasoned Data Visualization Engineer to join the Marketing Data Science & Analytics team (marketing DSA). As a Data Visualization Engineer, you will play a vital role in creating visually compelling representations of complex data to provide insights and support decision-making for marketing stakeholders. About the role On the Marketing DSA team, we're passionate about unearthing insights that help our marketing team in shaping the future of Zi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zillow",
+      "location": "Amozoc, Puebla",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Engineer",
+      "description": "About the team Zillow Group is currently seeking a seasoned Data Visualization Engineer to join the Marketing Data Science & Analytics team (marketing DSA). As a Data Visualization Engineer, you will play a vital role in creating visually compelling representations of complex data to provide insights and support decision-making for marketing stakeholders. About the role On the Marketing DSA team, we're passionate about unearthing insights that help our marketing team in shaping the future of Zi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zillow",
+      "location": "Mazatecochco, Tlaxcala",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Engineer",
+      "description": "About the team Zillow Group is currently seeking a seasoned Data Visualization Engineer to join the Marketing Data Science & Analytics team (marketing DSA). As a Data Visualization Engineer, you will play a vital role in creating visually compelling representations of complex data to provide insights and support decision-making for marketing stakeholders. About the role On the Marketing DSA team, we're passionate about unearthing insights that help our marketing team in shaping the future of Zi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zillow",
+      "location": "San Jerónimo Tecuanipan, Puebla",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Engineer",
+      "description": "About the team Zillow Group is currently seeking a seasoned Data Visualization Engineer to join the Marketing Data Science & Analytics team (marketing DSA). As a Data Visualization Engineer, you will play a vital role in creating visually compelling representations of complex data to provide insights and support decision-making for marketing stakeholders. About the role On the Marketing DSA team, we're passionate about unearthing insights that help our marketing team in shaping the future of Zi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zillow",
+      "location": "Contla de Juan Cuamatzi, Tlaxcala",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Engineer",
+      "description": "About the team Zillow Group is currently seeking a seasoned Data Visualization Engineer to join the Marketing Data Science & Analytics team (marketing DSA). As a Data Visualization Engineer, you will play a vital role in creating visually compelling representations of complex data to provide insights and support decision-making for marketing stakeholders. About the role On the Marketing DSA team, we're passionate about unearthing insights that help our marketing team in shaping the future of Zi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zillow",
+      "location": "Umán, Yucatán",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Engineer",
+      "description": "About the team Zillow Group is currently seeking a seasoned Data Visualization Engineer to join the Marketing Data Science & Analytics team (marketing DSA). As a Data Visualization Engineer, you will play a vital role in creating visually compelling representations of complex data to provide insights and support decision-making for marketing stakeholders. About the role On the Marketing DSA team, we're passionate about unearthing insights that help our marketing team in shaping the future of Zi…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Zillow",
+      "location": "Chiautzingo, Puebla",
+      "source": "Adzuna"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "job_title": "Especialista en visualización de datos",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 71,
+  "salary_stats": {
+    "count": 81,
+    "min": 49042.32,
+    "max": 259800,
+    "mean": 105735.69901234568,
+    "median": 99492.95,
+    "std_dev": 36850.18100850926
+  },
+  "top_technologies": {
+    "Power BI": 13,
+    "Tableau": 7,
+    "Python": 2,
+    "R": 2,
+    "SQL": 2,
+    "AWS": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Job Description Job Description Job Title: Data Visualization Specialist – Power BI & Business Reporting Job Description: We are seeking a Data Visualization Specialist with hands-on expertise in Microsoft Power BI to develop and manage interactive dashboards and business reports that support operational and strategic decisions across the organization. This role works closely with the Lead Business Analyst, leveraging structured data models and integrated enterprise systems to deliver clear, ac…",
+      "salary_min": 77654.23,
+      "salary_max": 77654.23,
+      "company": "CBX Global",
+      "location": "Jacksonville, Duval County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Cervello Global Corporation is looking for a Data Visualization Specialist to provide support to the Marine Corps Integration Division (MCID) for Integration Support, Information Management, and Knowledge Management services. The Candidate shall provide services to include research and analysis, collection, and organization of Capabilities Planning, Requirements Development, Solution Development, and Resourcing data; Capabilities Planning database management; and visualization of Capabilities P…",
+      "salary_min": 73024.63,
+      "salary_max": 73024.63,
+      "company": "Cervello Global Corporation",
+      "location": "Quantico, Prince William County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Job Title: Data Visualization Specialist - Power BI & Business Reporting Job Description: We are seeking a Data Visualization Specialist with hands-on expertise in Microsoft Power BI to develop and manage interactive dashboards and business reports that support operational and strategic decisions across the organization. This role works closely with the Lead Business Analyst, leveraging structured data models and integrated enterprise systems to deliver clear, actionable insights to stakeholder…",
+      "salary_min": 79053.92,
+      "salary_max": 79053.92,
+      "company": "Adecco US, Inc.",
+      "location": "Jacksonville, Duval County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Description DATA VISUALIZATION SPECIALIST HighPoint’s professionals focus exclusively on helping government agencies and companies implement their most critically strategic initiatives. The role of Data Visualization Specialist contributes to HighPoint by designing, developing, deploying, and maintaining reporting within the Qlik Database Schema, which is a part of the STORES Database. JOB RESPONSIBILITIES: Assist client in the preparation of special data requests. These activities include gath…",
+      "salary_min": 89774.3,
+      "salary_max": 89774.3,
+      "company": "HighPoint",
+      "location": "US",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Job Description Job Description Description: The Data Visualization Specialist is responsible for creating analysis, reports, and dashboards based on a wide range of data sets. Datasets involve hospital finances, billing claims, workforce, survey, user-provided data, and more. Responsibilities: - Translate data requests into accessible written and visualized analysis. - Create dynamic Power BI-based dashboards for public and private consumption. - Perform analysis of datasets using Microsoft Fa…",
+      "salary_min": 67125.73,
+      "salary_max": 67125.73,
+      "company": "MHA",
+      "location": "Saint Paul, Ramsey County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Falconwood is a woman-owned, veteran-owned company providing consultation and programmatic support to Department of Defense Information Technology (IT) initiatives and programs. We provide expert advice and consultation on a diverse range of IT subjects, focusing on acquisition, policy, cybersecurity, engineering, and process development. The Data Visualization Specialist will be responsible for translating analytic outputs into compelling visual products for the Commander, Naval Information Fo…",
+      "salary_min": 120788.17,
+      "salary_max": 120788.17,
+      "company": "Falconwood, Inc. Headquarters",
+      "location": "Suffolk, Suffolk City",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Overview Falconwood is a woman-owned, veteran-owned company providing consultation and programmatic support to Department of Defense Information Technology (IT) initiatives and programs. We provide expert advice and consultation on a diverse range of IT subjects, focusing on acquisition, policy, cybersecurity, engineering, and process development. The Data Visualization Specialist will be responsible for translating analytic outputs into compelling visual products for the Commander, Naval Infor…",
+      "salary_min": 120136.11,
+      "salary_max": 120136.11,
+      "company": "Falconwood Inc.",
+      "location": "Suffolk, Suffolk City",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "THIS ROLE IS HYBRID Typically 3 days on site but as many as all 5 days onsite depending on business needs; Schedule: M-F (8-5/9-6 with 1 hour non-billable lunch) with flex depending business needs Most Important Skills/Responsibilities: Develop data assets, tools, and dashboards that provide rich visualization, self-service, and high accuracy insights to charging partners and stakeholders Experience developing user-facing applications and visualizations in Hex, Plotly Dash, R Shiny, Python or s…",
+      "salary_min": 162054.73,
+      "salary_max": 162054.73,
+      "company": "Premier Staffing Solution",
+      "location": "Palo Alto, Santa Clara County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Visualization Specialist",
+      "description": "Essential Job Functions: Creating dashboards, flowcharts, graphs, and other visual representations of financial data. Qualifications: BS Accounting  5 years of experience. 3 years working Federal Generally Accepted Accounting Principles, techniques, and practices, experience in SAP Federal Financial Management and Procurement Software. Knowledge of the current IRS accounting systems and environment and tax processing is beneficial. Minimum of three years of data visualization experience. Should…",
+      "salary_min": 73255.09,
+      "salary_max": 73255.09,
+      "company": "Ifas Llc",
+      "location": "Forest Heights, Prince George's County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Clinical Data Visualization Specialist",
+      "description": "Hybrid or remote based in North America or Europe Title/Career Level Based On Experience Please provide/upload a data visualization portfolio as part of your application, if applicable. This role supports Clinical Programs, the division as well as clinical affairs, by designing and deploying data visualizations in line with business strategies and product roadmaps, focusing on translatable clinical data for New Product Development (NPD), New Product Iterations (NPI) and Post Market Surveillance…",
+      "salary_min": 99414.98,
+      "salary_max": 99414.98,
+      "company": "Cook Medical",
+      "location": "Bloomington, San Bernardino County",
+      "source": "Adzuna"
+    }
+  ]
+}

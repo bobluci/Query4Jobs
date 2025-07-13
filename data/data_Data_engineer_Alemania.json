@@ -1,0 +1,100 @@
+{
+  "job_title": "Data engineer",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 8,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Praktikum als Dateningenieur im Bereich Entwicklung Pumpen und Motoren",
+      "description": "Wirtschaftlich, präzise, sicher und energieeffizient: Antriebs- und Steuerungstechnik von Bosch Rexroth bewegt Maschinen und Anlagen jeder Größenordnung. Unter der Marke Rexroth entstehen innovative Komponenten, maßgeschneiderte Systemlösungen und Dienstleistungen für mobile Anwendungen, Anlagenbau und Engineering sowie Fabrikautomation. Die Bosch Rexroth AG freut sich auf Ihre Bewerbung! Anstellungsart: Befristet Arbeitszeit: Vollzeit Arbeitsort: Horb am Neckar Aufgaben In die Praxis eintauche…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Bosch Rexroth",
+      "location": "Horb am Neckar, Freudenstadt (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Praktikum Als Dateningenieur Im Bereich Entwicklung Pumpen Und Motoren",
+      "description": "Wirtschaftlich, präzise, sicher und energieeffizient: Antriebs- und Steuerungstechnik von Bosch Rexroth bewegt Maschinen und Anlagen jeder Größenordnung. Unter der Marke Rexroth entstehen innovative Komponenten, maßgeschneiderte Systemlösungen und Dienstleistungen für mobile Anwendungen, Anlagenbau und Engineering sowie Fabrikautomation. Die Bosch Rexroth AG . klicken sie bewerben, für die volle Stellenbeschreibung",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Bosch Rexroth",
+      "location": "Horb am Neckar, Freudenstadt (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Dateningenieur (m/w/x)",
+      "description": "Leclanché: Wir sorgen für morgen!Leclanché ist einer der führenden Hersteller von großformatigen Lithium-Ionen-Batterien in Europa. Als eines der wenigen Unternehmen setzen wir uns sehr intensiv",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Leclanché",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Head of Project Delivery and Customer Success",
+      "description": "enersis rockt die Energiewende enersis ist ein Climate Tech-Unternehmen, welches Städten, Regionen und der Energiewirtschaft hilft, emissionsfrei zu werden. Wir sind die Erfinder der digitalen Energiewendezwillinge und haben uns als First Mover und Innovator eine marktführende Position in Deutschland und der Schweiz aufgebaut. Head of Project Delivery and Customer Success Als Head of Project Delivery and Customer Success leitest Du unser multidisziplinäres Team aus Projektmanagern, Dateningenie…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "enersis",
+      "location": "Nikolassee, Berlin",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Architect (m/w/d)",
+      "description": "Als Data Architect bist du ein wesentlicher Bestandteil des zentralen Bereichs Digital Services der WBS GRUPPE und trägst mit deiner Arbeit maßgeblich zum Erfolg aller Geschäftsbereiche und Marken bei. Du spielst eine entscheidende Rolle bei der Gestaltung und Pflege unserer Datenarchitektur, um unsere Geschäftsziele effektiv zu unterstützen. Dabei kümmerst du dich um: Entwurf und Pflege der Datenarchitektur, um die Geschäftsanforderungen zu unterstützen. Identifikation und Verwaltung geeignete…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Wbs Gruppe",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Digital Marketing & Communications Manager (m/w/d)",
+      "description": "DEINE ROLLE Digital Marketing Unterstützung bei der Planung & Umsetzung von Performance Marketing und Digital-Paid-Kampagnen zur Lead-Generierung, inkl. Testing (insb. LinkedIn, Google Ads, Content Syndication) Pflege & Weiterentwicklung von bestehenden und neuen Marketing-Kooperationen Analyse & Reporting von Marketing-Performance-Daten Entwicklung von Sales-Support-Materialien (z. B. Beiträge für Partner- und Salesmedien) Unterstützung bei der Weiterentwicklung der Corporate Brand, visuelle &…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BIT Capital GmbH",
+      "location": "Mitte, Berlin",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Manager Investment Operations (m/f/d)",
+      "description": "DEINE ROLLE Als Manager Investment Operations wirst du ein integraler Teil unseres dynamischen und engagierten Operations Teams in Berlin. Gemeinsam als Team seid ihr verantwortlich für alle operativen Abläufe bei der Auflage und im fortlaufenden Management unserer Investmentprodukte und leistet damit einen entscheidenden Beitrag zu unserer Mission, europäischen Anlegern Beteiligungen an den weltweit führenden Tech-Unternehmen zu ermöglichen. Deine Rolle: Projektmanagement: Leite eigenverantwor…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BIT Capital GmbH",
+      "location": "Mitte, Berlin",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data-to-Text Konzeptentwickler (m/w/d)",
+      "description": "uNaice ist Pionier im Bereich der automatisierten Contentproduktion und automatisierten Datenaufbereitung und -anreicherung. Wir entwickeln Kunden, die sich an der Schwelle zur Digitalisierung befinden. Unsere Kunden sind u.A. Top-Player im E-Commerce wie adidas, 11teamsports, Wago, TUI, C&A, aber auch Verlage wie Neue Westfälische Zeitung, Volksstimme und vor allem internationale Hersteller, mit sehr großen Datenmengen und Bedarf an internationalem Content. Unsere Arbeit versetzt die Pioniere …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "uNaice GmbH",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    }
+  ]
+}

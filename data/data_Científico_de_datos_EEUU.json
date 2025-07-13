@@ -1,0 +1,124 @@
+{
+  "job_title": "Científico de datos",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 99,
+    "min": 72374.52,
+    "max": 225000,
+    "mean": 128870.72808080808,
+    "median": 120031.44,
+    "std_dev": 32982.89516708256
+  },
+  "top_technologies": {
+    "AWS": 4,
+    "Python": 2,
+    "SQL": 2,
+    "Spark": 2,
+    "R": 1,
+    "Excel": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Intern - Data Scientist",
+      "description": "Company Description Veolia Group is a global leader in environmental services, operating across all five continents with nearly 218,000 employees. Specializing in water, energy, and waste management, Veolia Group designs and implements innovative solutions for decarbonization, depollution, and resource regeneration, supporting communities and industries in their ecological transformation. Within this framework, Veolia's Water Technology Business brings together a dedicated team of experienced p…",
+      "salary_min": 112202.8,
+      "salary_max": 112202.8,
+      "company": "Veolia Water Technologies & Solutions",
+      "location": "Hopkins, Hennepin County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees! Job Overview We are seeking a versatile and analytical…",
+      "salary_min": 142990.44,
+      "salary_max": 142990.44,
+      "company": "T-Mobile USA, Inc.",
+      "location": "Roeland Park, Johnson County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr Data Scientist",
+      "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees! The Senior Data Scientist – Media Attribution will lea…",
+      "salary_min": 179569.08,
+      "salary_max": 179569.08,
+      "company": "T-Mobile USA, Inc.",
+      "location": "Eastgate, King County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That’s how we’re UNSTOPPABLE for our employees! Job Overview We are seeking a versatile and analytical…",
+      "salary_min": 149987.94,
+      "salary_max": 149987.94,
+      "company": "T-Mobile USA, Inc.",
+      "location": "Eastgate, King County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr Data Scientist",
+      "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That's how we're UNSTOPPABLE for our employees! The Senior Data Scientist - Media Attribution will lea…",
+      "salary_min": 174403.05,
+      "salary_max": 174403.05,
+      "company": "T-Mobile USA, Inc.",
+      "location": "Eastgate, King County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That's how we're UNSTOPPABLE for our employees! Job Overview We are seeking a versatile and analytical…",
+      "salary_min": 143683.62,
+      "salary_max": 143683.62,
+      "company": "T-Mobile USA, Inc.",
+      "location": "Roeland Park, Johnson County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Data Scientist",
+      "description": "At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same big love we give our customers. All team members receive a competitive base salary and compensation package - this is Total Rewards. Employees enjoy multiple wealth-building opportunities through our annual stock grant, employee stock purchase plan, 401(k), and access to free, year-round money coaches. That's how we're UNSTOPPABLE for our employees! Job Overview We are seeking a versatile and analytical…",
+      "salary_min": 145164.38,
+      "salary_max": 145164.38,
+      "company": "T-Mobile USA, Inc.",
+      "location": "Eastgate, King County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Clinical Data Scientist",
+      "description": "Senior Clinical Data Scientist w/ Boehringer Ingelheim Pharmaceuticals, Inc. in Ridgefield, CT. Accountable for transforming, analyzing & reporting studies/projects such as phase I-IV clinical trials & support complex studies/projects such as complex phase I-IV clinical trials or projects w/ establi",
+      "salary_min": 96814.84,
+      "salary_max": 96814.84,
+      "company": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "location": "Ridgefield, Fairfield County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Senior Scientist",
+      "description": "*DATA SENIOR SCIENTIST* WHAT IS THE OPPORTUNITY? The Senior Data Scientist works closely with business stakeholders to understand their goals and determine how data can be used to achieve those goals. The Senior Data Scientist will lead and perform the design data analytic and data science processes, create algorithms and predictive models to extract the data the business needs, and help analyze the data and share insights with peers. WHAT WILL YOU DO? * Conducts and leads data analysis and dat…",
+      "salary_min": 131207.14,
+      "salary_max": 131207.14,
+      "company": "City National Bank",
+      "location": "North Concord, Cabarrus County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Scientist/Senior Data Scientist",
+      "description": "Job Description Job Description Knowli Data Science is looking for experienced data scientists to join our nationally growing team. The ideal candidate should have a degree in mathematics, computer science, physics, statistics, quantitative social science, or similar field and at least 3 years of experience working in data analytics, data visualization, or data science roles. Familiarity with programming for data analysis is required; preferably, SQL, Python, and R. Experience with machine lear…",
+      "salary_min": 123370.83,
+      "salary_max": 123370.83,
+      "company": "Knowli Corp dba Knowli Data Science",
+      "location": "Tallahassee, Leon County",
+      "source": "Adzuna"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "job_title": "Especialista en estadística computacional",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 0,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": []
+}

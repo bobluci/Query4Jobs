@@ -1,0 +1,119 @@
+{
+  "job_title": "Analista de datos",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 72,
+  "salary_stats": {
+    "count": 24,
+    "min": 486,
+    "max": 50000,
+    "mean": 26161,
+    "median": 30500.0,
+    "std_dev": 15645.391175789702
+  },
+  "top_technologies": {
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Analyste de données",
+      "description": "Rejoignez l’aventure de notre service communication chez Piscines Waterair, entreprise française, familiale et leader européen de la piscine en kit depuis plus de 50 ans. Si vous acceptez de plonger dans le bain, vous découvrirez les fondamentaux du Groupe : satisfaction client, performance économique, bien-être des salariés et développement durable. Et on ne s’arrête pas là : statut de Société à Mission, synonyme d’engagements forts en termes d’objectifs sociaux et environnementaux. Votre futu…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "GROUPE WATERAIR",
+      "location": "Mulhouse, Haut-Rhin",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste données traçabilité & réseau transport en alternance H/F",
+      "description": "Formaposte, le CFA de La Poste Groupe, c'est une formation assurée par un partenaire pédagogique  une alternance à La Poste. L'alternance à La Poste est exclusivement accessible en suivant la formation associée avec Formaposte Ile de France. Au sein de la Direction du Schéma Directeur Industriel de la Branche Service Courrier Colis, vous intégrerez le projet Traçabilité qui est composé de 5 personnes hors équipes SI 12 personnes). Ce projet vise à scanner les codes-barres des contenants et prod…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Formaposte Ile De France",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Alternant(e) Analyste de données",
+      "description": "Votre environnement : Renault Digital, filiale 100 % du Groupe Renault, a été créée en janvier 2017. Sa mission ? Transformer le Groupe Renault à grande échelle, innover et délivrer de la valeur digitale à travers ses produits. Renault Digital s’appuie sur des équipes expertes et pluridisciplinaires, qui participent au développement de projets stratégiques visant à transformer durablement l’industrie automobile et les mobilités de demain. L’Agile regroupe un ensemble de méthodes de travail inno…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Renault Digital",
+      "location": "Boulogne-Billancourt, Hauts-de-Seine",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste de Données H/F",
+      "description": "Dans le cadre d'un accroissement d'activité, l'Analyste de Données n'a pas de contact client, il analyse et manipule des données clients/produits/fournisseurs afin d'en tirer des résultats et proposer des solutions d'amélioration : * Collecter et télécharger les fichiers et données (clients, produits, fournisseurs), * Analyser les données pour identifier des tendances et des opportunités d'amélioration, * Fournir des rapports détaillés et des visualisations claires des données, * Collaborer ave…",
+      "salary_min": 37000,
+      "salary_max": 40000,
+      "company": "Page Personnel",
+      "location": "Croissy-Beaubourg, Champs-sur-Marne",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Alternance- Data Analyst Données de Santé",
+      "description": "Description de l'emploi Contexte : AstraZeneca est un groupe biopharmaceutique international guidé par la science, axé sur la recherche, le développement, la production et la commercialisation de médicaments de prescription. Notre activité se concentre dans des domaines thérapeutiques majeurs : maladies cardiovasculaires et métaboliques, respiratoire, oncologie, neurosciences, maladies inflammatoires et auto-immunes, infectiologie et vaccins. Nous intervenons dans plus de 100 pays et nos médica…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "AstraZeneca",
+      "location": "Hauts-de-Seine, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste de données",
+      "description": "Rejoignez l’aventure de notre service communication chez Piscines Waterair, entreprise française, familiale et leader européen de la piscine en kit depuis plus de 50 ans. Si vous acceptez de plonger dans le bain, vous découvrirez les fondamentaux du Groupe : satisfaction client, performance économique, bien-être des salariés et développement durable. Et on ne s’arrête pas là : statut de Société à Mission, synonyme d’engagements forts en termes d’objectifs sociaux et environnementaux. Votre futu…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "GROUPE WATERAIR",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Apprenti(e) Système embarqués et Data Analyste Données Opérationnelles F/H (Apprentissage/Alternance)",
+      "description": "Poste : La Direction Digital User Oriented Solutions de Dassault Aviation développe des produits et services numériques innovants pour permettre la meilleure Experience Utilisateur dans l'utilisation des avions Dassault par nos pilotes, personnels navigants et passagers. L'utilisation opérationnelle de l'avion, de son système d'arme, et des produits numériques permettant la préparation et la restitution de mission génèrent autant d'informations qui peuvent permettre d'apporter une aide à l'éval…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "DASSAULT AVIATION",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste Données Techniques - Défense - Versailles H/F",
+      "description": "Dans le cadre du développement de nos activités dans le domaine de la défense, nous recherchons un(e) analyste de données techniques (2D/3D) H/F. Vos principales missions consisteront à : - Le traitement des problèmes informatiques liés aux données numériques (modèles 3D, plans 2D, références, nomenclatures), sur différents outils métiers. - Le diagnostic, la résolution et le suivi de ces problématiques, avec reporting rigoureux. - L'interaction avec les utilisateurs métier pour comprendre les …",
+      "salary_min": 25000,
+      "salary_max": 35000,
+      "company": "ECM",
+      "location": "Yvelines, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste données techniques - Défense - Versailles H/F",
+      "description": "Dans le cadre du développement de nos activités dans le domaine de la défense, nous recherchons un(e) analyste de données techniques (2D/3D) H/F. Vos principales missions consisteront à : - Le traitement des problèmes informatiques liés aux données numériques (modèles 3D, plans 2D, références, nomenclatures), sur différents outils métiers. - Le diagnostic, la résolution et le suivi de ces problématiques, avec reporting rigoureux. - L'interaction avec les utilisateurs métier pour comprendre les …",
+      "salary_min": 25000,
+      "salary_max": 35000,
+      "company": "ECM ",
+      "location": "Yvelines, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Apprenti Data Analyste Données Operationnelles H/F",
+      "description": "L'utilisation opérationnelle de l'avion, de son système d'arme, et des produits numériques permettant la préparation et la restitution de mission génèrent autant d'informations qui peuvent permettre d'apporter une aide à l'évaluation de la performance des missions opérationnelles ou d'entraînement ou l'évaluation des compétences des équipages et leur progression dans leur cursus pédagogique. Dans ce cadre, vous venez renforcer l'équipe pour assurer les missions suivantes : - Participation à la …",
+      "salary_min": 486,
+      "salary_max": 1802,
+      "company": "Dassault Aviation",
+      "location": "Mérignac, Bordeaux",
+      "source": "Adzuna"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "job_title": "Especialista en inteligencia de negocios",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 53,
+  "salary_stats": {
+    "count": 10,
+    "min": 45000,
+    "max": 105000,
+    "mean": 71500,
+    "median": 65000.0,
+    "std_dev": 20006.943239230168
+  },
+  "top_technologies": {
+    "SQL": 2,
+    "R": 1,
+    "Power BI": 1,
+    "AWS": 1,
+    "Python": 1,
+    "Tableau": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "IT Application Analyst als Business Intelligence Spezialist (m/w/d)",
+      "description": "Geberit ist ein internationales Industrieunternehmen «mit Herz und Seele». Als IT-fokussierter Arbeitgeber setzen wir auf State-of-the-Art Technologien. Unsere Mitarbeitenden schätzen die Kollegialität und die Zusammenarbeit in den Teams. Wir suchen neue Teammitglieder, Menschen mit Persönlichkeit, die unsere Werte teilen und gemeinsam mit uns die Zukunft gestalten wollen. Diese Stelle wird entweder an unserem Standort in Jona (CH) oder Pfullendorf (DE) besetzt. HAUPTAUFGABEN​ Weiterentwicklung…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Geberit",
+      "location": "Pfullendorf, Sigmaringen (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Spezialist (gn)",
+      "description": "\"We Bring Structure To Your Data\" – mit dem Leitsatz begann die Reise in die Data-Driven World. Die Bitac wurde im Jahre 2014 gegründet und hat sich auf Business Intelligence Lösungen im Microsoft Umfeld spezialisiert. Mit unserem Team unterstützen wir namhafte Unternehmen in unterschiedlichsten Branchen. Uns liegt es dementsprechend am Herzen, dass unsere Kunden stets zufrieden sind mit der entwickelten Lösung. Die zwischenmenschliche Komponente wird bei uns GROßGESCHRIEBEN, sodass unsere Koll…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Bitac GmbH",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Spezialist (m/w/d)",
+      "description": "Du willst Dein Fachwissen in einem neuen Arbeitsumfeld einbringen? Dann bist Du hier genau richtig! Wir sind mehr als nur Recruiter:innen – wir sind Dein persönlicher Karriereberater. Unser Fokus: Dein nächster beruflicher Schritt, in dem Du Dich wirklich wohlfühlst. Für unseren Kunden, ein großes Unternehmen der Verteidigungs- und Luftfahrtbranche in Kiel, suchen wir Dich als Business Intelligence Spezialist (m/w/d) in Arbeitnehmerüberlassung. Business Intelligence Spezialist (m/w/d) in Kiel 5…",
+      "salary_min": 55000,
+      "salary_max": 60000,
+      "company": "persona service AG & Co. KG • Niederlassung: Mülheim",
+      "location": "Gaarden-Ost, Kiel",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Spezialist (m/w/d)",
+      "description": "Wir suchen Dich als Business Intelligence Spezialist (m/w/d) Kiel - Vollzeit Du willst nicht einfach irgendeinen Job in Kiel – sondern einen, der zu Dir passt und Dich wirklich weiterbringt? Willkommen bei der SCOPE Engineering GmbH, einem Unternehmen der INTEC Holding GmbH. Wir sind ein Ingenieurdienstleister mit einem breiten Leistungsspektrum – von langfristigen Projektlösungen bis zur direkten Vermittlung von Fachkräften. Die Arbeitnehmerüberlassung ist dabei nur ein Teil unseres Portfolios…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SCOPE Engineering GmbH",
+      "location": "Altstadt, Kiel",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Spezialist (m/w/d)",
+      "description": "Business Intelligence Spezialist (m/w/d) Herzlich willkommen bei ORAYLIS - Gestalte mit uns die Welt der Daten Du schaust in deinen Kalender: Gleich beginnt die wöchentliche Besprechung mit deinem Projekt-Team. Du checkst kurz deine To-Do-Liste, um deinen Kollegen ein Update zu geben: Die Integration von Daten in das Data Warehouse ist erledigt, die Implementierung der Datenmodelle wurde überprüft und gesichert. Die im letzten Kundentermin aufgenommene neue Anforderung hast du analysiert und ei…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Oraylis",
+      "location": "Osterath, Meerbusch",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Intelligence Spezialist (m/w/d) in Kiel",
+      "description": "Du willst Dein Fachwissen in einem neuen Arbeitsumfeld einbringen? Dann bist Du hier genau richtig! Wir sind mehr als nur Recruiter:innen – wir sind Dein persönlicher Karriereberater. Unser Fokus: Dein nächster beruflicher Schritt, in dem Du Dich wirklich wohlfühlst. Für unseren Kunden, ein großes Unternehmen der Verteidigungs- und Luftfahrtbranche in Kiel, suchen wir Dich als Business Intelligence Spezialist (m/w/d) in Arbeitnehmerüberlassung. Business Intelligence Spezialist (m/w/d) in Kiel 5…",
+      "salary_min": 55000,
+      "salary_max": 60000,
+      "company": "persona service AG & Co. KG • Niederlassung: Mülheim",
+      "location": "Bothkamp, Plön (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Berater als Spezialist Business Intelligence (m/w/d)",
+      "description": "Dein Team Nach deinem Start bei ISR lernst du peu à peu was es heißt, Kunden zu beraten und die beste Lösung für sie zu finden. Du lernst von erfahrenen Entwickler:innen und Berater:innen und wendest dein neu erlerntes Wissen direkt in echten Kundenprojekten an. Was du dafür benötigst? Eine eigenverantwortliche und strukturierte Arbeitsweise und jede Menge Lernbereitschaft. Was du erwarten kannst? Ein sympathisches Team, das gern zusammenarbeitet und bei dem Humor nie zu kurz kommt. Was dich er…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ISR Information Products AG",
+      "location": "Braunschweig, Niedersachsen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Berater als Spezialist Business Intelligence (m/w/d)",
+      "description": "Dein Team Nach deinem Start bei ISR lernst du peu à peu was es heißt, Kunden zu beraten und die beste Lösung für sie zu finden. Du lernst von erfahrenen Entwickler:innen und Berater:innen und wendest dein neu erlerntes Wissen direkt in echten Kundenprojekten an. Was du dafür benötigst? Eine eigenverantwortliche und strukturierte Arbeitsweise und jede Menge Lernbereitschaft. Was du erwarten kannst? Ein sympathisches Team, das gern zusammenarbeitet und bei dem Humor nie zu kurz kommt. Was dich er…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ISR Information Products AG",
+      "location": "Frankfurt am Main, Hessen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Deine Aufgaben als Business Intelligence Spezialist (m/w/d)",
+      "description": "Wir suchen Dich als Business Intelligence Spezialist (m/w/d) Kiel - Vollzeit Du willst nicht einfach irgendeinen Job in Kiel – sondern einen, der zu Dir passt und Dich wirklich weiterbringt? Willkommen bei der SCOPE Engineering GmbH, einem Unternehmen der INTEC Holding GmbH. Wir sind ein Ingenieurdienstleister mit einem breiten Leistungsspektrum – von langfristigen Projektlösungen bis zur direkten Vermittlung von Fachkräften. Die Arbeitnehmerüberlassung ist dabei nur ein Teil unseres Portfolios…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SCOPE Engineering",
+      "location": "Altstadt, Kiel",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Berater als Spezialist Business Intelligence (m/w/d)",
+      "description": "Dein Team Dein Team besteht aus sympathischen Entwickler:innen und Berater:innen, die sehr nah an der Technik arbeiten. Unser Ziel ist es, Analytics-Lösungen zu bauen, die den Kunden jederzeit Zugriff auf verlässliche Informationen geben, sodass sie damit die Geschäftsergebnisse messen, überwachen und beeinflussen können. Kurzum: Wir bauen die entscheidenden Systeme für unsere Kunden. Was wir von dir erwarten: Eine eigenverantwortliche und strukturierte Arbeitsweise und Begeisterung für Technik…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ISR Information Products AG",
+      "location": "Köln, Nordrhein-Westfalen",
+      "source": "Adzuna"
+    }
+  ]
+}

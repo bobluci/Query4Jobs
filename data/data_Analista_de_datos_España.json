@@ -1,0 +1,125 @@
+{
+  "job_title": "Analista de datos",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 52,
+  "salary_stats": {
+    "count": 48,
+    "min": 16500,
+    "max": 90000,
+    "mean": 74750,
+    "median": 70000.0,
+    "std_dev": 17874.562931719476
+  },
+  "top_technologies": {
+    "SQL": 8,
+    "Excel": 6,
+    "Python": 4,
+    "Power BI": 4,
+    "R": 3,
+    "Azure": 1
+  },
+  "experience_stats": {
+    "count": 2,
+    "min": 2,
+    "max": 2,
+    "mean": 2,
+    "median": 2.0,
+    "distribution": {
+      "2": 2
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Analista de datos",
+      "description": "Sotec selecciona un Analista de Datos en modalidad hibrida en Madrid o Málaga para importante empresa. Requisitos: Perfil muy orientado a trabajar con Datos. Python es el lenguaje predominante, pero se puede valorar otros conocimientos (R, PowerBI, etc). Fuertes habilidades analíticas y de resolución de problemas. Es obligatorio tener conocimientos de Python. Se valorará la competencia en otras herramientas relacionadas con datos. Sólido dominio de SQL y sus variantes en bases de datos populare…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SOTEC CONSULTING",
+      "location": "Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "Desde Novaquality Continuamos creciendo Actualmente estamos ampliando nuestro equipo de Analista de datos para trabajar en uno de nuestros principales proyectos con cliente: Funciones: -Mejora de los procesos de consultas y diseño de datos. -Visualización y generación de Dashboard. -Interlocución con usuarios. ¿Qué buscamos? -Perfil técnico. -Experiencia demostrable de al menos 3 años con SQL. -Conocimientos en herramientas de BI como: Power BI, Qlikview o Bigquery. ¿Qué ofrecemos? - Contrataci…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NovaQuality Consulting",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "En NTT Data somos más que una empresa somos una comunidad de mentes creativas y diversas, impulsadas por la innovación y el respecto. Nos dedicamos a ofrecer soluciones tecnológicas de vanguardia, estrategias de negocio visionarias y al desarrollo y mantenimiento de aplicaciones que definen el futuro.  Buscamos a profesionales con experiencia de más de 4 años en Ingestas de datos, con el objetivo de diseñar, desarrollar y mantener los procesos que traen datos desde las posibles fuentes hacia el…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA Europe & Latam",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "¿Quiénes somos? Neotalent Conclusion es una de las mayores especialistas del mercado ibérico en captación y gestión de talento informático y de ingeniería. Como parte del grupo neerlandés Conclusion, que se compone por un ecosistema de 25 empresas y 3.600 empleados, nos centramos en aumentar la capacidad tecnológica de nuestros clientes y acelerar la transformación digital de los mismos. En Neotalent Conclusion, somos especialistas del talento. Atraemos a los mejores profesionales y los combina…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Neotalent Conclusion",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos / PowerBI",
+      "description": " Data Analyst Power BI | Proyectos de IA y análisis de datos end-to-end ¿Te apasiona transformar datos en decisiones y buscas un entorno donde crecer con libertad y propósito? En Datu(a) te ofrecemos un reto real: ayudar a reinventar las compañías del futuro a través del poder del dato. Somos especialistas en desplegar soluciones de análisis e inteligencia artificial que generan impacto tangible. Aquí podrás trabajar en proyectos end-to-end que segmentan, predicen y optimizan, siempre con el fo…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Datua IA",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Datos con inglés",
+      "description": "¿Estás buscando dar un nuevo paso en tu carrera? ¿Te consideras una persona proactiva capaz de liderar cambios en tu entorno? ¿Te interesa adentrarte en el mundo de la consultoría y trabajar para clientes en el ámbito nacional e internacional? NTT DATA BPO, es una sociedad perteneciente al grupo NTT DATA, la cual presta servicios de externalización de procesos de negocio. Somos la sexta compañía de servicios IT del mundo lo que nos permite dar soluciones de negocio, estrategia, desarrollo y man…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA",
+      "location": "España",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "En Galileus Global Hotel Maintenance buscamos un / a Analista de Datos para unirse a nuestro equipo y ayudarnos a transformar grandes volúmenes de datos en información clave para la toma de decisiones. Esta posición es clave para optimizar nuestros procesos, mejorar nuestros servicios de mantenimiento inteligente y contribuir a la innovación tecnológica en el sector hotelero y de instalaciones. Analizar, limpiar y transformar grandes volúmenes de datos provenientes de nuestras plataformas Desar…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "GALILEUS, Global Hotel Maintenance",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista De Datos",
+      "description": "Sotec selecciona un Analista de Datos en modalidad hibrida en Madrid o Málaga para importante empresa.Requisitos : Perfil muy orientado a trabajar con Datos. Python es el lenguaje predominante, pero se puede valorar otros conocimientos (R, PowerBI, etc).Fuertes habilidades analíticas y de resolución de problemas.Es obligatorio tener conocimientos de Python.Se valorará la competencia en otras herramientas relacionadas con datos.Sólido dominio de SQL y sus variantes en bases de datos populares.Ca…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "Sotec Consulting",
+      "location": "Barcelona, Cataluña",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "NTT DATA somos todas las personas que la formamos. Un equipo de más de 139.000 profesionales, tan diverso como diversos son los 50 países en los que estamos presentes y los diferentes sectores en los que desarrollamos nuestra actividad. ¿Nuestra misión? Ofrecer soluciones estratégicas, de negocio y tecnológicas, así como el desarrollo y mantenimiento de aplicaciones, siendo un referente en consultoría. Todo gracias a la colaboración entre equipos, la calidad humana de nuestra gente y a que no n…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "NTT DATA Europe & Latam",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de datos",
+      "description": "Modalidad : Jornada completa | Contrato indefinido Sobre el proyecto En Brainy Commerce ayudamos a empresas a aprovechar todo el potencial de los grandes marketplaces como Amazon, Mercado Libre, Wallmart, Alibaba (Aliexpress, Miravia) y ahora también Tik Tok Shop, impulsando sus ventas locales e internacionales. Tenemos en marcha una herramienta digital que da visibilidad sobre el rendimiento, la publicidad y el mercado, integrando datos de múltiples fuentes en tiempo real. Como analista de dat…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "Brainy Commerce",
+      "location": "Madrid, Comunidad de Madrid",
+      "source": "Adzuna"
+    }
+  ]
+}

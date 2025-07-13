@@ -1,0 +1,117 @@
+{
+  "job_title": "Analista actuarial",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 33,
+  "salary_stats": {
+    "count": 3,
+    "min": 20000.0,
+    "max": 105000.0,
+    "mean": 66666.66666666667,
+    "median": 75000.0,
+    "std_dev": 43108.390521258545
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Aktuarieller Consultant Lebensversicherung (w/m/d)",
+      "description": "Die HBA-Consulting AG ist eine Unternehmensberatung für große Unternehmen der Lebensversicherungsbranche, kennt die gesamten Prozessketten der Kunden und deren IT-Abbildungen. HBA-Consultants sind oftmals weltoffene IT-affine Mathematiker und sehen die Optimierung der IT-Unterstützung als ihr Ziel. Aufgaben Das erwartet Dich bei HBA: Komplettes Wissen über die aktuariellen Aufgaben in einem Lebensversicherungsunternehmen von den Produkten über die Prozessmodellierung bis zur IT-Umsetzung Rechen…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "HBA-Consulting AG",
+      "location": "Idstein, Rheingau-Taunus-Kreis",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Junior Consultant (w/m/d)",
+      "description": "Das bringst Du schon mit erfolgreich abgeschlossenes Studium der (Wirtschafts-) Mathematik, der (Wirtschafts-) Informatik, Betriebswirtschaftslehre oder vergleichbare Qualifikation. den Wunsch, Dich kontinuierlich weiterzubilden, z.B. zum/zur Aktuar*in (DAV) Business Analyst : Interesse an den Geschäftsprozessen von Versicherern und an deren optimierter IT-Umsetzung in Verwaltungssystemen Interesse an interdisziplinären Tätigkeiten an der Schnittstelle zwischen unterschiedlichen Bereichen. Actu…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "HBA-Consulting AG",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Underwriter Property (w/m/d)",
+      "description": "Seit über 100 Jahren stehen wir weltweit für unsere Expertise zur Absicherung komplexer Risiken. In diesem partnerschaftlichen Sinne unterstützen wir unsere Kunden dabei, einer ungewissen Zukunft vertrauensvoll entgegenzublicken. In Deutschland ist die AIG seit 70 Jahren aktiv und steht den Versicherten seitdem mit lokalen Teams versierter Experten an vier Standorten jederzeit zur Seite. Bei uns werden Sie nicht nur Teil eines ambitionierten Teams bei einem der weltweit führenden Versicherungsu…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "AIG Europe",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Information Security Analyst (W2 candidates) Locals preferred",
+      "description": "(W2 candidates) Locals preferred \r\n The Security Engineering Lead is expected to be technically proficient in the supervised discipline and provide a modest degree of direct technical support where required. \r\n Specific functions will include Staff supervision, Leadership...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Raag Solutions",
+      "location": "Dover, DE",
+      "source": "Jooble"
+    },
+    {
+      "title": "Data Operations Analyst",
+      "description": "&nbsp;...them into data and delivering them to the different private market participants.\r\nIn this context, we are looking to hire a Data Ops <b>Analyst </b>to work in the Service Operations team that provides implementation services, document acquisition services, and managed data...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BINITNS",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "IT Business Analyst - Oracle Fusion HCM",
+      "description": "&nbsp;...Phone Plans, & Shopping), Tuition Reimbursement and multiple exciting career development programs!\r\n \r\n Impact:  The  IT Business <b>Analyst </b>- Oracle Fusion HCM  will serve as a subject matter expert (SME), partnering closely with business stakeholders to transform functional...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ExcelliSearch, Inc.",
+      "location": "Millsboro, DE",
+      "source": "Jooble"
+    },
+    {
+      "title": "IT Business Analyst",
+      "description": "&nbsp;...Job Details: \r\n Our client is seeking a sharp, tech-savvy Business <b>Analyst </b>to support software development and system improvement initiatives. In this role, you’ll work alongside technical teams and stakeholders to define business needs, translate them into actionable...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Liberty Personnel Services, Inc.",
+      "location": "Dover, DE",
+      "source": "Jooble"
+    },
+    {
+      "title": "IT Business Analyst - Oracle Cloud ERP",
+      "description": " Provide product expertise and product understanding for & Oracle Cloud ERP System. SME in Financials modules such as AP, AR, GL, Projects & Fixed Assets. Provides first line resolution/analysis assistance as subject matter expert (SME) for responsibilities of system health...",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "On Demand Technical",
+      "location": "Georgetown, DE",
+      "source": "Jooble"
+    },
+    {
+      "title": "2026 Operations Analyst Program - Summer Analyst (AZ, DE, OH, TX)",
+      "description": "&nbsp;...individuals with diverse backgrounds that are excited to learn and identify process opportunities (e.g., automation). \r\n \r\n As a Summer <b>Analyst </b>in the Operations Analyst Program, you will start our 9-week program with comprehensive training to introduce you to our firm, our...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "JPMorgan Chase & Co.",
+      "location": "Newark, DE",
+      "source": "Jooble"
+    },
+    {
+      "title": "Vendor Management Analyst II - Collections Litigation",
+      "description": "&nbsp;...Job Description \r\n Elevate your career with us as a Vendor Management <b>Analyst,</b> where your efforts will shape the future of Chase Card Recovery. Join a dynamic team that values integrity, respect, and innovation, offering you opportunities for growth and development....&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "JPMorgan Chase & Co.",
+      "location": "Wilmington, DE",
+      "source": "Jooble"
+    }
+  ]
+}

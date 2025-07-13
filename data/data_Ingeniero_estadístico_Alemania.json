@@ -1,0 +1,73 @@
+{
+  "job_title": "Ingeniero estadístico",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 5,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Senior Projektmanager AI Strategy (m/w/d)",
+      "description": "Aufgaben Profil Wir bieten Ort: 50933 Köln | Vertragsart: Vollzeit, unbefristet | Job-ID: 911079 Was wir zusammen vorhaben: Als Geschäftsbereich Analytics der REWE Group sind wir Teil des Vorstandsressorts Digital & Technology, mit dem wir alle strategischen, analytischen und geschäftsunterstützenden Funktionen innerhalb von Handel Deutschland unter einem Dach zusammenführen. Der Geschäftsbereich verfolgt das Ziel, Advanced Analytics sowie Artificial Intelligence als Fähigkeit und Werttreiber i…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "REWE Group",
+      "location": "Köln, Nordrhein-Westfalen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Projektmanager AI Strategy (m/w/d)",
+      "description": "Ort: 50933 Köln | Vertragsart: Vollzeit, unbefristet | Job-ID: 911079 Was wir zusammen vorhaben: Als Geschäftsbereich Analytics der REWE Group sind wir Teil des Vorstandsressorts Digital & Technology, mit dem wir alle strategischen, analytischen und geschäftsunterstützenden Funktionen innerhalb von Handel Deutschland unter einem Dach zusammenführen. Der Geschäftsbereich verfolgt das Ziel, Advanced Analytics sowie Artificial Intelligence als Fähigkeit und Werttreiber in allen wesentlichen Geschä…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "REWE Group",
+      "location": "Köln, Nordrhein-Westfalen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Projektmanager AI Strategy (m/w/d)",
+      "description": "Ort: 50933 Köln | Vertragsart: Vollzeit, unbefristet | Job-ID: 911079 Was wir zusammen vorhaben: Als Geschäftsbereich Analytics der REWE Group sind wir Teil des Vorstandsressorts Digital & Technology, mit dem wir alle strategischen, analytischen und geschäftsunterstützenden Funktionen innerhalb von Handel Deutschland unter einem Dach zusammenführen. Der Geschäftsbereich verfolgt das Ziel, Advanced Analytics sowie Artificial Intelligence als Fähigkeit und Werttreiber in allen wesentlichen Geschä…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "REWE Group",
+      "location": "Braunsfeld, Köln",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Teamleiter Operational Quality (m/w/d)",
+      "description": "Teamleiter Operational Quality (m/w/d) Verschiedene Auszeichnungen und Zertifikate von namhaften Institutionen, dazu gehören zum Beispiel Great Place to Work, Audit Beruf und Familie, sowie der Deutsche Qualitätspreis, belegen unsere Arbeitsplatz- und Dienstleistungsqualität. Wir suchen Sie! - &nbsp;Ab sofort, in Vollzeit für ein namenhaftes Unternehmen aus der in 94327 Bogen zur Direktvermittlung. Ihre Aufgaben: Fachliche und Disziplinarische Verantwortung für das Team Operational Quality Frei…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "I. K. Hofmann",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Stellenangebot Senior Sales & Business Development Manager (gn)",
+      "description": "Über Uns Saubere Energie für alle zugänglich und nutzbar machen - das ist die Vision von ison Als innovatives Coporate Startup des Ökostrom-Pioniers LichtBlick entwickeln und betreiben wir eine Flexibilitätsplatform in einem digitalen Ökosystem, welches sämtliche Akteure des Energiemarktes miteinander vernetzt und die Energieressourcen im Haus steuert und optimiert. Mit einem Team aus Energy, Product, Data und Tech Expert*innen arbeiten wir mit viel Leidenschaft, um einen Teil zur größten Herau…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "LichtBlick SE Intranet",
+      "location": "Hammerbrook, Hamburg",
+      "source": "Adzuna"
+    }
+  ]
+}

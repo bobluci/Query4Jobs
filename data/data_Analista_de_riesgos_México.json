@@ -1,0 +1,122 @@
+{
+  "job_title": "Analista de riesgos",
+  "country": "México",
+  "currency_symbol": "$",
+  "currency_code": "MXN",
+  "total_jobs": 73,
+  "salary_stats": {
+    "count": 54,
+    "min": 96000,
+    "max": 444000,
+    "mean": 223933.33333333334,
+    "median": 192000.0,
+    "std_dev": 105016.50544126071
+  },
+  "top_technologies": {
+    "Excel": 5,
+    "SQL": 2,
+    "SAS": 2,
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Analista de riesgos",
+      "description": "Acerca de la empresa NTT DATA es una empresa líder en el sector de tecnología y consultoría, comprometida con la innovación y el desarrollo de soluciones creativas para sus clientes. Actualmente, nos encontramos en la búsqueda de un Analista de Riesgos para unirse a nuestro equipo de talentosos profesionales. Ubicación: CDMX indispensable Requisitos del puesto 3 años en Programación y manejo de datos en lenguaje SAS y SQL 3 años en conocimientos y experiencia en riesgo de crédito, regulación ba…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA Europe & Latam",
+      "location": "Ciudad de México, México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de riesgo de crédito",
+      "description": "Analista de riesgo de crédito Estamos buscando un profesional con experiencia en análisis de riesgo de crédito para unirse a nuestro equipo en una posición de tiempo completo. En esta posición, serás responsable de evaluar la solvencia de los clientes potenciales y de gestionar los riesgos asociados con los préstamos y financiamientos. Tu capacidad para analizar datos financieros y tu habilidad para identificar patrones de riesgo serán clave para el éxito en este rol. Necesitamos algui…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Caja Morelia Valladolid",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Riesgos León Gto.",
+      "description": "OFRECEMOS 13,000 mensuales brutos Pagos quincenales Prestaciones de Ley Horario de lunes a viernes de ACTIVIDADES Elaboración de administración de riesgos. Vigilar, limitar, controlar, informar e relevar los riesgos a los que se puede presentar la entidad. Validar el cálculo de requerimientos de capitalización de riesgos. Formular la calificación de la cartera de créditos Cerciorar los niveles de liquidez en relación a las operaciones pasivas de corto plazo. implementar programas de audi…",
+      "salary_min": 156000,
+      "salary_max": 156000,
+      "company": "Importante empresa del sector financiero",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Riesgos de Crédito",
+      "description": "Sobre NTT DATA En NTT DATA somos más que una empresa de tecnología: somos un equipo global de más de 190,000 profesionales con presencia en 50 países. Colaboramos en sectores clave como telecomunicaciones, servicios financieros, industria, energía, sector público y salud, aportando soluciones innovadoras que impulsan la transformación digital. Nuestra misión es ofrecer soluciones tecnológicas, estratégicas y de negocio, abarcando desde la consultoría hasta el desarrollo y mantenimiento de aplic…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NTT DATA Europe & Latam",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de riesgos de mercado",
+      "description": "Analista de riesgos de mercado - Financiero. (Ciudad de México, Cuauhtémoc) ¿Quieres desarrollar tu carrera profesional? BBVA es una empresa global con más de 160 años de historia que opera en más de 25 países en los que damos servicio a más de 80 millones de clientes. Somos más de 121.000 profesionales que trabajamos en equipos multidisciplinares y de perfiles tan diversos como financieros, expertos jurídicos, científicos de datos, desarrolladores, ingenieros o diseñadores. ¿Qué estamos buscan…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BBVA en México",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de riesgo de mercado",
+      "description": "A global energy client is looking for \"Product Risk Analyst\" based in Mexico City. General Objective: Looking for an engaged candidate with a solid interest in commodity risk management to become part of the Product Risk team in Mexico office. Motivated to advance their knowledge and skills in the area of risk management. Requierements: Bachelor's degree in Finance, Accounting, Business, Computer Science or other related field is required (professional certification such as the CFA or FRM IS A …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "LHH",
+      "location": "Ciudad de México, México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Riesgos crediticios empresariales ingles avanzado",
+      "description": "Licenciatura concluida INGLES AVANZADO Comprobable Experiencia 1 año como Analista de Riesgo crediticio Empresarial No bancario Identificar con Cuentas por Cobrar el comportamiento de pago de los clientes Realizar perfiles de prospectosclientes para identificar características relevantes como su actividad principal y su estructura corporativa, entre otros. Realizar análisis de eficiencia operativa, rentabilidad, liquidez y solvencia de prospectosclientes con la finalidad de estimar el riesgo…",
+      "salary_min": 420000,
+      "salary_max": 420000,
+      "company": "Up talent office S.A. DE C.V.",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista Estudios de Riesgo y Vulnerabilidad",
+      "description": "Estamos en búsqueda de Analista de Estudios de Riesgo y Vulnerabilidad Objetivo Diseñar, implementar y supervisar estrategias de análisis de riesgo Safety y Security, con el fin de prevenir incidentes, minimizar vulnerabilidades y fortalecer la seguridad operativa de la organización. Responsabilidades principales Elaboración de Análisis de Riesgo Safety y Security. Desarrollo de estudios de vulnerabilidad. Creación y actualización de Manuales Operativos. Coordinación y operación del C…",
+      "salary_min": 180000,
+      "salary_max": 180000,
+      "company": "Corporativo Canino SA de CV",
+      "location": "México",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de Prevención de Riesgos Viales",
+      "description": "PAQUETEXPRESS Empresa Nacional líder en el ramo de logística con mayor cobertura del país y de mayor crecimiento en el sector, se encuentra en búsqueda del mejor talento. Te invita a formar parte de nuestro gran equipo de trabajo como Analista de Prevención de Riesgos Viales OFRECEMOS contrato directo con la empresa 15 días de aguinaldo adicional Prima vacacional superior a la de Ley Fondo de ahorro Caja de ahorro Gastos funerarios Fonacot PTU reparto de utilidades. Servicio dental Capaci…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Paquetexpress",
+      "location": "Ahome, Sinaloa",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analista de riesgos",
+      "description": "Management Information Systems Presencial 100 CDMX Ser responsable de la generación, automatización y análisis de información clave que respalde la toma de decisiones estratégicas comerciales y operativas. Su función es traducir datos complejos en reportes e insights accionables para áreas como Comercial, Alianzas, Producto, Marketing, Finanzas y Atención al Cliente, con el objetivo de optimizar el portafolio, evaluar iniciativas de inversión y monitorear la salud del negocio. Requisit…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Importante empresa del sector",
+      "location": "México",
+      "source": "Adzuna"
+    }
+  ]
+}

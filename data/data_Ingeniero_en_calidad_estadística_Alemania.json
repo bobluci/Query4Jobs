@@ -1,0 +1,37 @@
+{
+  "job_title": "Ingeniero en calidad estadística",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 1,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Advanced Quality Engineer (m/w/d)",
+      "description": "&nbsp;...aktiv bei qualitätsbezogenen Aspekten ihrer Produkte und Projekte zu unterstützen \r\n Anforderungen    \r\n ASQ-zertifizierter <b>Qualitätsingenieur </b>oder zertifizierter Zuverlässigkeitsingenieur \r\n Qualifikation für interne Audits (ISO 9001) erforderlich \r\n Erfahrung im Bereich...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Eddyfi Technologies",
+      "location": "Delaware City, DE",
+      "source": "Jooble"
+    }
+  ]
+}

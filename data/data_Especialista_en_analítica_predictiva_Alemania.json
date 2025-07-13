@@ -1,0 +1,123 @@
+{
+  "job_title": "Especialista en analítica predictiva",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 30,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "SQL": 1,
+    "Tableau": 1,
+    "SAS": 1,
+    "Excel": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Associate - Analytics",
+      "description": "&nbsp;...BNP Paribas Securities Corp. \r\n Job Title: Associate - <b>Analytics </b>\r\n Location: 787 Seventh Avenue, New York, NY 10019\r\n Duties: Execute consulting and evaluation of next-generation trading/analytical tools. Perform market structure analysis and quantitative techniques....&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BNP Paribas",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Licensed Professional Counselor (Virtual)",
+      "description": "&nbsp;...insurance plans through access to our nationwide insurance network. \r\n-  Dependable payments:  Build stability in your practice with <b>predictable </b>bi-weekly payments you can count on. \r\n-  Built-in EHR features  : Manage your practice in one place with real-time scheduling,...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Headway",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Licensed Psychiatrist",
+      "description": "&nbsp;...as little as 30 days. \r\n Increased earnings: Secure competitive rates with top insurance plans through our nationwide network. \r\n <b>Predictable </b>bi-weekly payments: Receive reliable payouts directly from Headway. \r\n Built-in EHR tools: Access real-time scheduling, secure...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Headway",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Physical Therapist (Journey Travel) - PT",
+      "description": "&nbsp;...synthesis information and interprets examination findings in order to establish a diagnosis, identify impairments, determine the <b>predicted </b>level of improvement and the time required to achieve it, identify precautions/contraindications and design and plan of care. Develops...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Powerback Rehabilitation",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Speech Therapist (Journey Travel) - SLP",
+      "description": "&nbsp;...synthesis information and interprets examination findings in order to establish a diagnosis, identify impairments, determine the <b>predicted </b>level of improvement and the time required to achieve it, identify precautions/contraindications and design and plan of care. Develops...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Powerback Rehabilitation",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Schools - BCBA",
+      "description": "&nbsp;...current best practices in behavior analysis \r\n Location: \r\n~ Camden Wyoming, Delaware \r\n\r\n Responsibilities: \r\n Provide behavior <b>analytic </b>services to students with ASD and multiple disabilities \r\n Conduct assessments and develop individualized behavior intervention plans...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ProCare Therapy",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Job #1245 - Clinical Social Worker - Delaware",
+      "description": "&nbsp;...insurance \r\n Vision insurance \r\n Company-paid life insurance \r\n Company-paid disability insurance \r\n Extensive training opportunity \r\n <b>Predictable </b>work schedule \r\n If you would like to learn more about other opportunities we offer, please call our office: (***) ***-**** or...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Impact Recruiting Solution",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Client Analytics Manager",
+      "description": "&nbsp;...Job Description \r\n Job Description  Client <b>Analytics </b>Manager \r\n Growing Medical Billing company looking for a highly motivated, critical thinking individual with effective communication skills. The Client Analytics Manager role is a highly visible and client facing position...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "MBMS Medical Billing and Management Services",
+      "location": "Newark, DE",
+      "source": "Jooble"
+    },
+    {
+      "title": "Job #1145 - RN Health Care Facility Surveyor - Delaware",
+      "description": "&nbsp;...insurance \r\n Vision insurance \r\n Company-paid life insurance \r\n Company-paid disability insurance \r\n Extensive training opportunity \r\n <b>Predictable </b>work schedule \r\n Responsibilities  of the  RN Health Care Facility Surveyor  : \r\n The position is 100% remote with up to 75%...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Impact Recruiting Solution",
+      "location": "Delaware State",
+      "source": "Jooble"
+    },
+    {
+      "title": "Marketing Manager Database Analytics",
+      "description": "&nbsp;...Description \r\n Job Description  Description:  Job Summary: \r\n Reporting to the Vice President of Marketing, the Marketing Manager for Data <b>Analytics </b>is responsible for developing the marketing database and conducting research and analysis that delivers insights to improve...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "NIXON MEDICAL",
+      "location": "New Castle, DE",
+      "source": "Jooble"
+    }
+  ]
+}

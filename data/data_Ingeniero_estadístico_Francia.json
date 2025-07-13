@@ -1,0 +1,117 @@
+{
+  "job_title": "Ingeniero estadístico",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 22,
+  "salary_stats": {
+    "count": 2,
+    "min": 29000,
+    "max": 29000,
+    "mean": 29000,
+    "median": 29000.0,
+    "std_dev": 0.0
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Ingénieur statisticien (H/F)",
+      "description": "Date de clôture de réception de candidatures : Qui sommes nous ? L'unité HISSEO assure la coordination des dispositifs d'observations halieutiques nationaux mis en œuvre au travers du Système d'Informations Halieutiques (SIH, http://sih.ifremer.fr). Elle a pour mission le développement et la mise en œuvre de méthodes et protocoles pour l'acquisition de données halieutiques portant sur les ressources, les usages et les écosystèmes halieutiques, l'organisation des dispositifs de collecte, la maît…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Ifremer",
+      "location": "Brest-Plouzané, Brest",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Statisticien H/F",
+      "description": "Date de clôture de réception de candidatures : Qui sommes nous ? L'unité HISSEO assure la coordination des dispositifs d'observations halieutiques nationaux mis en oeuvre au travers du Système d'Informations Halieutiques (SIH, http://sih.ifremer.fr). Elle a pour mission le développement et la mise en oeuvre de méthodes et protocoles pour l'acquisition de données halieutiques portant sur les ressources, les usages et les écosystèmes halieutiques, l'organisation des dispositifs de collecte, la ma…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Ifremer",
+      "location": "Brest-Plouzané, Brest",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Statisticien pour la Recherche clinique et translationnelle H/F",
+      "description": "Informations générales Entité de rattachement L'Institut Curie est une fondation reconnue d'utilité publique associant le plus grand centre de recherche français en cancérologie et deux établissements hospitaliers de pointe situés à Paris et à St Cloud. Pionnier dans de nombreux traitements, cet ensemble hospitalier est référent pour les cancers du sein, les tumeurs pédiatriques et les tumeurs de l'œil. Il assure la diffusion d'innovations médicales et scientifiques aux niveaux national et inte…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Institut Curie",
+      "location": "Saint-Cloud, Boulogne-Billancourt",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur·e Statisticien·ne H/F",
+      "description": "En lien avec les équipes en charge des études sur l'évaluation des variétés et des semences vous contribuerez aux activités du pôle, en prenant en charge des tâches et projets opérationnels variés (expression de besoins, apport de solutions techniques, programmations, documentations, tests, etc.). Vous serez chargé-e de : - Choisir et appliquer les méthodes statistiques les plus pertinentes aux données et aux questions posées ; - Contribuer aux travaux de méthodologie statistique ; - Transposer…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "INRAE",
+      "location": "Angers-Nord, Angers",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur·e Statisticien·ne H/F",
+      "description": "L'ingénieur(e) d'études aura pour mission de contribuer à la structuration des bases de données du projet ODYCE. De nouvelles données de marqueurs biologiques seront générées au sein des deux cohortes EDEN et Elfe et nécessiteront une étape d'apurement puis une étape d'analyse descriptive. L'ingénieur d'études pourra alors entreprendre les analyses d'association entre ces marqueurs et les variables d'évaluation du neuro-développement de l'enfant. Placé sous l'autorité d'une directrice de recher…",
+      "salary_min": 29000,
+      "salary_max": 29000,
+      "company": "Institut National de la Santé et de la Recherche Médicale ",
+      "location": "Villejuif, L'Haÿ-les-Roses",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur-e statisticien-ne pour EXPEDIT au laboratoire ANTICIPE",
+      "description": "Informations générales Organisme de rattachement Université de Caen Basse-Normandie Référence 2025-1984990 Date de début de diffusion 09/07/2025 Date de parution 09/07/2025 Localisation Caen Intitulé long de l'offre Ingénieur-e statisticien-ne pour EXPEDIT au laboratoire ANTICIPE Date limite de candidature 17/08/2025 Employeur Université Caen Normandie Versant Fonction Publique de l'Etat Catégorie Catégorie A (cadre) Nature de l'emploi Emploi ouvert uniquement aux contractuels Domaine / Métier …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Choisir le Service Public",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "13/01/2025 - PRATICIEN HOSPITALIER EN INFORMATION MEDICALE A L'UCAIM DIM - H/F (Groupe hospitalier Bordeaux)",
+      "description": "Descriptif du poste : L'Unité de Coordination et d'Analyse de l'Information Médicale Département d'Information Médicale (UCAIM-DIM) est rattachée au Pôle de Santé Publique, pôle transversal réunissant des compétences diverses s'exerçant en priorité par une approche collective, notamment dans ses actions de prévention et de surveillance des risques sanitaires, dans le traitement des données médicales hospitalières et dans la recherche clinique. Ses activités couvrent également les soins aux pati…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Biostatisticien / Ingénieur de recherche - Envirotypage (H/F)",
+      "description": "Informations générales Entité de rattachement Limagrain Europe est un pur semencier guidé par de solides racines agricoles. Via sa marque internationale, LG, la société crée des solutions innovantes basées sur une offre multi-espèces commercialisée par 20 filiales et vente. LG, marque présente dans plus de 50 pays, est un des leaders européens en semences de maïs, blé, orge, colza et tournesol. Limagrain Europe, contribue chaque jour au progrès de l'Agriculture, en développant des solutions gén…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Limagrain",
+      "location": "Pont-du-Château, Clermont-Ferrand",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Responsable du Pôle Biométrie et du Système Qualité de la Plateforme Radico H/F",
+      "description": "Mission principale : Au sein de la plateforme RaDico, vous coordonnerez et superviserez les activités liées à la gestion, au contrôle qualité et à l'analyse des données issues de cohorte de patients, en lien étroit avec la directrice de la plateforme et les pôles Recherche Clinique et Système d'Information de RaDiCo et France Cohortes. Vous dirigerez une équipe composée à la fois de data managers et d'ingénieurs bio-statisticiens en charge de : - La conception, la mise en production et la mise …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Institut National de la Santé et de la Recherche Médicale ",
+      "location": "Ivry-sur-Seine, Créteil",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Chargé d'Analyses Etudes Consommateurs H/F",
+      "description": "SAM fournit des solutions sur mesure et des recommandations actionnables permettant de rendre les produits et les marques de nos clients mémorables. SAM est un excellent lieu de travail En rejoignant SAM, vous travaillerez avec une équipe compétente, créative et sympathique. Vous développerez vos compétences, avec le soutien de nos experts et de nos managers, tout au long de votre carrière. Votre travail, vos opinions et vos idées contribueront également à l'avenir des études sensorielles et co…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Eurofins",
+      "location": "Aix en Provence Sud-Ouest, Aix-en-Provence",
+      "source": "Adzuna"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "job_title": "Ingeniero de machine learning",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 56,
+  "salary_stats": {
+    "count": 16,
+    "min": 486,
+    "max": 65000,
+    "mean": 30855.5,
+    "median": 41000.0,
+    "std_dev": 23926.23847856853
+  },
+  "top_technologies": {
+    "Python": 4,
+    "R": 2,
+    "Git": 1,
+    "AWS": 1,
+    "Power BI": 1,
+    "Spark": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Stage – 6 mois Ingénieur Machine Learning IT (Audit) H/F",
+      "description": "BGL BNP Paribas est une des plus grandes banques du Grand-Duché de Luxembourg et fait partie du Groupe BNP Paribas. Elle propose à ses clients particuliers, professionnels, entreprises et de banque privée une gamme particulièrement large de produits financiers et de solutions de bancassurance. En 2020, BGL BNP Paribas a été désignée « Best Bank in Luxembourg » pour la 5e année consécutive par Euromoney. Dans le cadre de nos activités, nous recherchons, pour un stage un/une : Ingénieur Machine L…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BNP Paribas",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Stage 6 mois - Ingénieur Machine Learning IT (Audit) H/F",
+      "description": "BGL BNP Paribas est une des plus grandes banques du Grand-Duché de Luxembourg et fait partie du Groupe BNP Paribas. Elle propose à ses clients particuliers, professionnels, entreprises et de banque privée une gamme particulièrement large de produits financiers et de solutions de bancassurance. En 2020, BGL BNP Paribas a été désignée « Best Bank in Luxembourg » pour la 5e année consécutive par Euromoney. Dans le cadre de nos activités, nous recherchons, pour un stage un/une : Ingénieur Machine L…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BNP Paribas",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Stage – 6 mois - Ingénieur Machine Learning IT (Change) H/F",
+      "description": "BGL BNP Paribas est une des plus grandes banques du Grand-Duché de Luxembourg et fait partie du Groupe BNP Paribas. Elle propose à ses clients particuliers, professionnels, entreprises et de banque privée une gamme particulièrement large de produits financiers et de solutions de bancassurance. En 2020, BGL BNP Paribas a été désignée « Best Bank in Luxembourg » pour la 5e année consécutive par Euromoney. Dans le cadre de nos activités, nous recherchons, pour un stage un/une : Ingénieur Machine L…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BNP Paribas",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingenieur machine learning H/F",
+      "description": "Le poste de Ingenieur machine learning H/F En tant qu'ingénieur en machine learning au sein du Crédit Mutuel Arkea, vous serez responsable de la mise en oeuvre et de la maintenance des modèles de machine learning utilisés pour optimiser divers aspects des opérations de l'entreprise. Vous travaillerez en étroite collaboration avec les équipes techniques et opérationnelles pour concevoir des solutions innovantes basées sur les données. En qualité d'Ingénieur machine learning (H/F), voici les miss…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CREDIT MUTUEL ARKEA",
+      "location": "Brest-Plouzané, Brest",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingenieur machine learning H/F",
+      "description": "Le poste de Ingenieur machine learning H/F En tant qu'ingénieur en machine learning au sein du Crédit Mutuel Arkea, vous serez responsable de la mise en oeuvre et de la maintenance des modèles de machine learning utilisés pour optimiser divers aspects des opérations de l'entreprise. Vous travaillerez en étroite collaboration avec les équipes techniques et opérationnelles pour concevoir des solutions innovantes basées sur les données. En qualité d'Ingénieur machine learning (H/F), voici les miss…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CREDIT MUTUEL ARKEA",
+      "location": "Brest-L'Hermitage-Gouesnou, Brest",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingenieur machine learning H/F",
+      "description": "Le poste de Ingenieur machine learning H/F En tant qu'ingénieur en machine learning au sein du Crédit Mutuel Arkea, vous serez responsable de la mise en oeuvre et de la maintenance des modèles de machine learning utilisés pour optimiser divers aspects des opérations de l'entreprise. Vous travaillerez en étroite collaboration avec les équipes techniques et opérationnelles pour concevoir des solutions innovantes basées sur les données. En qualité d'Ingénieur machine learning (H/F), voici les miss…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CREDIT MUTUEL ARKEA",
+      "location": "Le-Relecq-Kerhuon, Brest",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingenieur machine learning H/F",
+      "description": "Le poste de Ingenieur machine learning H/F En tant qu'ingénieur en machine learning au sein du Crédit Mutuel Arkea, vous serez responsable de la mise en oeuvre et de la maintenance des modèles de machine learning utilisés pour optimiser divers aspects des opérations de l'entreprise. Vous travaillerez en étroite collaboration avec les équipes techniques et opérationnelles pour concevoir des solutions innovantes basées sur les données. En qualité d'Ingénieur machine learning (H/F), voici les miss…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "CREDIT MUTUEL ARKEA",
+      "location": "Daoulas, Brest",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Machine Learning H/F",
+      "description": "NOUS CONNAITRE ! La Direction IT and Opération Services (IOS) a pour objectif de doter CACIB de la meilleure Plateforme IT et Opérations pour répondre aux besoins de maintenir et renforcer la qualité des services rendus à CACIB et de se préparer aux enjeux de croissance et de transformation digitale de CACIB dans les années futures. Rejoignez la Direction IOS / Global IT (GIT) de CA-CIB, responsable de la conception, du développement, de la maintenance des applications et des systèmes de la Ban…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Crédit Agricole CIB",
+      "location": "Montrouge, Antony",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Machine Learning F/H",
+      "description": "En tant qu’ingénieur Machine Learning, vous participerez à la conception et au développement de solutions basées sur le machine learning en exploitant les données acquises par nos drones. Vous rejoindrez le pôle Cloud nouvellement créé et contribuerez entre autres au développement de notre plateforme Delair Cloud. Vos missions principales seront les suivantes : Construire et gérer des ensembles de données annotées à partir des données acquises par nos drones Entraîner des modèles de machine lea…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "DELAIR",
+      "location": "Marseille, Bouches-du-Rhône",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Machine Learning H/F",
+      "description": "Delair Delair, leader mondial du drone professionnel, fournit des données basées sur l’imagerie aérienne pour aider les industriels dans leur processus de décision. Spécialiste de la fabrication de drones et du traitement des données collectées, Delair met à disposition des professionnels des solutions complètes depuis l’acquisition de données jusqu’à leur analyse opérationnelle. En intégrant Delair, vous participerez bien plus qu’à la commercialisation de drones industriels dans le monde entie…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Delair",
+      "location": "Allauch, Marseille",
+      "source": "Adzuna"
+    }
+  ]
+}

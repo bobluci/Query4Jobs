@@ -1,0 +1,120 @@
+{
+  "job_title": "Analista de riesgos",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 72,
+  "salary_stats": {
+    "count": 26,
+    "min": 14,
+    "max": 70000,
+    "mean": 33808.769230769234,
+    "median": 35000.0,
+    "std_dev": 13790.062498212812
+  },
+  "top_technologies": {
+    "R": 2,
+    "Excel": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Data Analyst Risques H/F",
+      "description": "Que vous soyez expert ou manager, vous intégrez une banque à taille humaine qui encourage la responsabilisation et la prise d'initiative et qui accorde une place importante au développement et à l'accompagnement de ses collaborateurs. Poste et missions Pourquoi rejoindre la filière IT de la BRED ? La direction DATA recherche un Data analyste pour rejoindre l'équipe Risque, Finance et RSE. Vous rejoindrez l'équipe en charge de la déclinaison dans le SI local BRED des projets Risques de Crédit de…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BRED Banque Populaire",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste Risque de Marché",
+      "description": "Quelques mots sur l’Empowering Ecosystem Nous sommes un cabinet de conseil multi-spécialiste. C’est dans le secteur financier que nous avons développé depuis 2009, notre agilité et nos compétences, autour de nos 3 expertises phares : Conseil Métier Finance, Data & Transformation digitale. Ici, l’empowerment est au cœur du quotidien de chacun et nous engageons notre collectif, sur une trajectoire de performance responsable, humaine et économique. Pour intégrer notre client grand compte, nous rec…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Canopee",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste Risque de Credit H/F",
+      "description": "Au sein de la Banque Delubac & Cie, vous rejoignez la Direction Risque de Crédit en charge d'identifier, d'évaluer et de gérer les risques liés aux activités crédit de la banque. La Direction veille à ce que la banque prenne des décisions éclairées en matière de prêts, tout en assurant la solidité financière à long terme en limitant les pertes potentielles dues à des défauts de paiement. En tant qu'Analyste Risque de Crédit vous serez rattaché au Directeur du département. En tant qu'Analyste Ri…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Banque Delubac et Cie",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Analyst Risques de Crédit H/F",
+      "description": "Nous recherchons un Business Analyst Risques de Crédit pour intégrer la tribu FRR (Finance, Risques & Recouvrement) de la DSI et intervenir au sein de la squad en charge des applications relevant de la collecte des données (garanties, crédits, engagements, tiers, etc.), du calcul des paramètres Balois, du RWA et de l'envoi des CRR (Comptes-Rendus Risques) à Crédit Agricole S.A. (CA-SA). En tant que Business Analyst, vos missions principales seront : · d'intervenir en accompagnement des métiers …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "LCL - Fonctions Centrales",
+      "location": "Villejuif, L'Haÿ-les-Roses",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Analyst Risque de Crédit",
+      "description": "POSTE EN CDI UNIQUEMENT Transformez le futur du risque de crédit avec Sibylone !  Sibylone, acteur majeur de l’exploitation des données, recrute un Business Analyst Risque de Crédit pour accompagner ses clients dans l'optimisation de la gestion du risque via la valorisation et la transformation des données. Si vous avez un esprit analytique et une passion pour l’innovation, rejoignez-nous ! Qui sommes-nous ? SIBYLONE, société de conseil spécialisée dans les systèmes d’information de synthèse et…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Sibylone",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Analyste risque de contrepartie",
+      "description": "Qui sommes-nous ? Ellipse Digital, implanté en France, est une filiale d’Ellipse Group et apporte, entre autres son expertise technologique à Ellipse Projects. Ellipse Projects est un acteur clé dans le financement, la conception et la réalisation de grand projets d’infrastructure. Forte d'une expertise multisectorielle dans les domaines de la santé, du numérique et du bâtiment connecté, l'entreprise réalise des projets clé en main dans les pays émergents et excelle également dans la fourniture…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Ellipse Digital",
+      "location": "Montrouge, Antony",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Business Analyst Risque de Marché",
+      "description": "Softeam filiale du groupe Docaposte r echerche son prochain consultant pour intervenir chez nos clients Grands Comptes dans le secteur Banque / Finance . ✨Labellisé Happy @t work ✨depuis 2018 Softeam offre à ses futurs collaborateurs : · Un accompagnement de proximité · Des opportunités variées de développement de carrière · Un épanouissement professionnel au travers de formations/certifications, de partage de connaissances Vous pensez être la pièce manquante à notre puzzle? Postulez dès mainte…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SOFTEAM",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste Risque Opérationnel H/F",
+      "description": "Ergalis Banque Assurance, filiale du Groupe Actual, recherche un Analyste Risque Opérationnel H/F, pour un de ses clients dans le secteur banque-assurance à Nanterre en intérim. Vos Missions : - Effectuer les contrôles sur le domaine 'Outsourcing' selon la méthodologie du Contrôle Permanent - Maintenir l'exhaustivité et la qualité des données d'arrangements d'outsourcing dans l'outil de consolidation 'Risk360' - Effectuer des relances et demandes d'information auprès de nos contacts dans les en…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ERGALIS",
+      "location": "Nanterre, Hauts-de-Seine",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Analyste risques transverses H/F (CDI)",
+      "description": "Poste : Poste et missions La Direction des Risques et Conformité recherche un/une Analyste des Risques transverses pour rejoindre notre équipe pluridisciplinaire au sein du Département des Risques Transverses. Dans un environnement réglementaire en constante évolution, ce poste joue un rôle clé dans la protection de nos activités et de nos clients face aux crises et événements imprévus. En tant qu’analyste Risques transverses, vous contribuerez notamment à garantir la sécurité de notre système …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Caisse d'Epargne Auvergne Limousin",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data analyst risques H/F (CDI)",
+      "description": "Poste : Poste et missions Pourquoi rejoindre la filière IT de la BRED ? La direction DATA recherche un Data analyste pour rejoindre l’équipe Risque, Finance et RSE. Vous rejoindrez l’équipe en charge de la déclinaison dans le SI local BRED des projets Risques de Crédit de l’organe central du groupe BPCE Vous jouerez un rôle clé dans la structuration et la gestion de projets, en collaboration étroite avec les équipes métiers pour définir et affiner les besoins. Vous participerez activement à la …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "BRED Banque Populaire",
+      "location": "France",
+      "source": "Adzuna"
+    }
+  ]
+}

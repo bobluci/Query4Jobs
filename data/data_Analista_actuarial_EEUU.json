@@ -1,0 +1,120 @@
+{
+  "job_title": "Analista actuarial",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 100,
+    "min": 62898.18,
+    "max": 755280,
+    "mean": 107678.5216,
+    "median": 90945.16,
+    "std_dev": 69855.83481636949
+  },
+  "top_technologies": {
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 1,
+    "min": 4,
+    "max": 4,
+    "mean": 4,
+    "median": 4,
+    "distribution": {
+      "4": 1
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Senior Actuarial Analyst - Hybrid",
+      "description": "Looking for the peace of mind that comes from working with a well-established company? P&C client is in search of senior analysts to perform studies & recommend changes to ratemaking. The ideal candidates will possess 3 years of actuarial experience, strong communication skills and the ability to drive results. Candidates should be able to understand complex business problems & generate solutions. Personal lines experience is preferred but open to commercial casualty or property. Familiarity wi…",
+      "salary_min": 128071.69,
+      "salary_max": 128071.69,
+      "company": "DW Simpson",
+      "location": "Chevy Chase, Montgomery County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Actuarial Analyst - Predictive Modeling - REMOTE",
+      "description": "If you love complex models, this is the role for you! A P&C company is looking for an student actuary with 2 years of experience to be their next Senior Actuarial Analyst - Predictive Modeling. This role will develop predictive models for homeowners, auto, and umbrella lines. You will also have the chance to collaborate with other internal teams & to present findings directly to stakeholders. The ideal candidate would be comfortable working with large data sets, possess strong technical skills,…",
+      "salary_min": 162511.9,
+      "salary_max": 162511.9,
+      "company": "DW Simpson",
+      "location": "Hayes Valley, San Francisco",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Actuarial Analyst I",
+      "description": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity As a dedicated Actuarial Analyst I, you …",
+      "salary_min": 131111.58,
+      "salary_max": 131111.58,
+      "company": "USAA",
+      "location": "Colorado Springs, El Paso County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Actuarial Analyst I (Hiring Immediately)",
+      "description": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity As a dedicated Actuarial Analyst I, you …",
+      "salary_min": 123683.95,
+      "salary_max": 123683.95,
+      "company": "USAA",
+      "location": "Stratmoor Hills, El Paso County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Principal Actuarial Analyst (Hiring Immediately)",
+      "description": "Why USAA? At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the 1 choice for the military community and their families. Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful. The Opportunity As a dedicated Credentialed Actuary Lead…",
+      "salary_min": 157182.72,
+      "salary_max": 157182.72,
+      "company": "USAA",
+      "location": "Stratmoor Hills, El Paso County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Actuarial Analyst",
+      "description": "What part will you play? If you're looking for a place where you can make a meaningful difference, you've found it. The work we do at Markel gives people the confidence to move forward and seize opportunities, and you'll find your fit amongst our global community of optimists and problem-solvers. We're always pushing each other to go further because we believe that when we realize our potential, we can help others reach theirs. Join us and play your part in something special! The primary purpos…",
+      "salary_min": 90006.97,
+      "salary_max": 90006.97,
+      "company": "Markel",
+      "location": "Eola, DuPage County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Actuarial Analyst",
+      "description": "What part will you play? If you're looking for a place where you can make a meaningful difference, you've found it. The work we do at Markel gives people the confidence to move forward and seize opportunities, and you'll find your fit amongst our global community of optimists and problem-solvers. We're always pushing each other to go further because we believe that when we realize our potential, we can help others reach theirs. Join us and play your part in something special! The primary purpos…",
+      "salary_min": 90458.83,
+      "salary_max": 90458.83,
+      "company": "Markel",
+      "location": "Bloomingdale, DuPage County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Actuarial Analyst",
+      "description": "What part will you play? If you're looking for a place where you can make a meaningful difference, you've found it. The work we do at Markel gives people the confidence to move forward and seize opportunities, and you'll find your fit amongst our global community of optimists and problem-solvers. We're always pushing each other to go further because we believe that when we realize our potential, we can help others reach theirs. Join us and play your part in something special! The primary purpos…",
+      "salary_min": 91088.79,
+      "salary_max": 91088.79,
+      "company": "Markel",
+      "location": "The Loop, Chicago",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Actuarial Analyst",
+      "description": "What part will you play? If you're looking for a place where you can make a meaningful difference, you've found it. The work we do at Markel gives people the confidence to move forward and seize opportunities, and you'll find your fit amongst our global community of optimists and problem-solvers. We're always pushing each other to go further because we believe that when we realize our potential, we can help others reach theirs. Join us and play your part in something special! The primary purpos…",
+      "salary_min": 90801.53,
+      "salary_max": 90801.53,
+      "company": "Markel",
+      "location": "Naperville, DuPage County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Sr. Actuarial Analyst",
+      "description": "What part will you play? If you're looking for a place where you can make a meaningful difference, you've found it. The work we do at Markel gives people the confidence to move forward and seize opportunities, and you'll find your fit amongst our global community of optimists and problem-solvers. We're always pushing each other to go further because we believe that when we realize our potential, we can help others reach theirs. Join us and play your part in something special! The primary purpos…",
+      "salary_min": 96515.32,
+      "salary_max": 96515.32,
+      "company": "Markel",
+      "location": "Chicago Ridge, Cook County",
+      "source": "Adzuna"
+    }
+  ]
+}

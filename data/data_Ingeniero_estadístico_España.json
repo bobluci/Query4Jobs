@@ -1,0 +1,37 @@
+{
+  "job_title": "Ingeniero estadístico",
+  "country": "España",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 1,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {},
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Especialista en Calidad de Datos",
+      "description": "SegurCaixa Adeslas es la compañía No Vida líder en España en seguros de salud, integrada en el Grupo Mutua Madrileña y participada por CaixaBank. En los últimos años se ha convertido en una entidad de referencia gracias a la implantación de un modelo de negocio basado en el crecimiento sostenido y rentable, que sitúa al cliente en el centro de la estrategia. A través de su acuerdo de bancaseguros con CaixaBank, SegurCaixa Adeslas comercializa sus productos en la mayor red bancaria de España. Ad…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SegurCaixa Adeslas",
+      "location": "España",
+      "source": "Adzuna"
+    }
+  ]
+}

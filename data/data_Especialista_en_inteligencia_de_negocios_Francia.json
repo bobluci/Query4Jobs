@@ -1,0 +1,121 @@
+{
+  "job_title": "Especialista en inteligencia de negocios",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 14,
+  "salary_stats": {
+    "count": 6,
+    "min": 35000,
+    "max": 60000,
+    "mean": 47500,
+    "median": 47500.0,
+    "std_dev": 12144.957801491119
+  },
+  "top_technologies": {
+    "Azure": 2,
+    "SQL": 1,
+    "Tableau": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Senior Business Intelligence Specialist",
+      "description": "Spektrum have a wide range of exciting opportunities in several global locations. We are always looking to add great new talent to our team and look forward to hearing from you. Background: eu-LISA is the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) manages large-scale IT systems to support the implementation of asylum, border management and migration policies in the European Union (EU). The Agency is also …",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Spektrum",
+      "location": "Strasbourg, Strasbourg-Ville",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Esports Business Intelligence Specialist H/F",
+      "description": "As the Esports Business Intelligence Specialist, you will play a crucial role in driving data-driven decisions across Ubisoft's esports and competitive gaming ecosystem. You will leverage your expertise to develop and optimize analytics tools and dashboards that deliver valuable insights into performance, audience engagement, and monetization strategies. This role requires a strong understanding of the esports landscape combined with advanced skills in data analysis, architecture, and BI tools.…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Ubisoft2",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Formation Marketing Stratégique - Master of Science",
+      "description": "Exploitez la puissance de la data pour élaborer des stratégies marketing efficaces et obtenir des résultats mesurables Ce programme hautement flexible, personnalisable et pratique propose un mélange unique de connaissances théoriques et d’applications concrètes. Idéal pour les professionnels débutants comme expérimentés, il vous prépare à relever des défis marketing complexes et élaborer des stratégies percutantes qui produisent des résultats concrets. En rejoignant ce programme, vous apprendre…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "EDHEC Business School – Online Programmes",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Commercial Junior BI H/F (CDI)",
+      "description": "Poste : Notre client, éditeur de logiciels français indépendant, spécialiste de la Business Intelligence depuis 2004, recherche un Ingénieur commercial junior H/F (secteur Business intelligence) afin de renforcer son équipe commerciale Rattaché(e) à l'équipe Sales, vous interviendrez en amont du cycle de vente et jouerez un rôle central dans l'acquisition de nouveaux clients. Vos responsabilités seront les suivantes : Prospection et Détection d'opportunités - Identifier et qualifier des prospec…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "LHH",
+      "location": "France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Ingénieur Commercial Junior Bi H/F",
+      "description": "Votre mission Notre client, éditeur de logiciels français indépendant, spécialiste de la Business Intelligence depuis 2004, recherche un Ingénieur commercial junior H/F (secteur Business intelligence) afin de renforcer son équipe commerciale Rattaché(e) à l'équipe Sales, vous interviendrez en amont du cycle de vente et jouerez un rôle central dans l'acquisition de nouveaux clients. Vos responsabilités seront les suivantes : Prospection et Détection d'opportunités - Identifier et qualifier des p…",
+      "salary_min": 40000,
+      "salary_max": 60000,
+      "company": "LHH Recruitment Solutions",
+      "location": "Ivry-sur-Seine, Créteil",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Consultant(e) data F/H",
+      "description": "Vous effectuez des missions à forte valeur ajoutée en conception et réalisation sur des projets data stratégiques pour nos clients. Au sein d’une équipe mixte, solidaire et pluridisciplinaire (Chef de projet, Architecte, Ingénieur, Data analyst, etc.), selon vos compétences et vos appétences vous participerez ou prendrez le lead sur : Le cadrage projet Le management du projet L’assistance à maîtrise d’ouvrage, recueil de besoin L’accompagnement sur les réalisations (Microsoft Azure, PowerBI, Fa…",
+      "salary_min": 35000,
+      "salary_max": 55000,
+      "company": "Datatorii",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer F/H",
+      "description": "Vous effectuez des missions à forte valeur ajoutée en conception et réalisation sur des projets data stratégiques pour nos clients. Au sein d’une équipe mixte, solidaire et pluridisciplinaire (Chef de projet, Architecte, Ingénieur, Data analyst, etc.), selon vos compétences et vos appétences vous participerez ou prendrez le lead sur : La réalisation de projets basés sur : - Microsoft Azure : Azure Data factory, SQL Database, Synapse - Microsoft Fabric : Pipeline, dataflow, lakehouse, warehouse …",
+      "salary_min": 35000,
+      "salary_max": 60000,
+      "company": "Datatorii",
+      "location": "Paris, Ile-de-France",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Retail Sales Manager Bordeaux",
+      "description": "&nbsp;...clients (notamment cuisinistes et architectes d’intérieur), <b>en </b>assurant la vente et la promotion des produits Cosentino. L'acquisition...&nbsp;&nbsp;...mutuels. \r\n. Assister et fournir un service après-vente. \r\n<b>Business Intelligence </b>\r\n. Préparer des plans d'action pour identifier des cibles sp...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Cosentino",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "description": "&nbsp;...other tools (e.g. Tableau, Looker) are also valued \r\n~ Solid communication skills, with the ability to align technical output with <b>business </b>needs \r\n~ Demonstrated ability to work collaboratively in cross-functional teams and contribute to end-to-end data projects \r\n~...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Coders Connect",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Software Engineer - Integration",
+      "description": "&nbsp;...Contentsquare is the all-in-one experience <b>intelligence </b>platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers’ whole online journey....&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Heap",
+      "location": "France",
+      "source": "Jooble"
+    }
+  ]
+}

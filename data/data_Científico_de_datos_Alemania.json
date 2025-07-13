@@ -1,0 +1,123 @@
+{
+  "job_title": "Científico de datos",
+  "country": "Alemania",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 27,
+  "salary_stats": {
+    "count": 6,
+    "min": 55000,
+    "max": 100000,
+    "mean": 79166.66666666667,
+    "median": 80000.0,
+    "std_dev": 16857.24374465371
+  },
+  "top_technologies": {
+    "Hadoop": 3,
+    "Spark": 3,
+    "R": 1,
+    "Python": 1,
+    "SQL": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Praktikum im Bereich Konzeption Künstliche Intelligenz in Stuttgart",
+      "description": "Praktikum im Bereich Konzeption Künstliche Intelligenz Datum: 29.09.2023 Standort: Waiblingen, BW, DE, 71336 Unternehmen: STIHL Das ist die Aufgabe Exploration von KI-Methoden zur Entwicklung innovativer Funktionen in unseren Produkten Identifizierung von Möglichkeiten zur Optimierung von Entwicklungen und Entwicklungsprozessen mithilfe von KI-Technologien Prototyping, Testen und Validieren von KI-Ansätzen und -Algorithmen Zusammenarbeit mit einem interdisziplinären Team von Ingenieuren, Datenw…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ANDREAS STIHL AG & Co. KG",
+      "location": "Schorndorf, Rems-Murr-Kreis",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Praktikum im Bereich Konzeption Künstliche Intelligenz in Stuttgart",
+      "description": "Praktikum im Bereich Konzeption Künstliche Intelligenz Datum: 29.09.2023 Standort: Waiblingen, BW, DE, 71336 Unternehmen: STIHL Das ist die Aufgabe Exploration von KI-Methoden zur Entwicklung innovativer Funktionen in unseren Produkten Identifizierung von Möglichkeiten zur Optimierung von Entwicklungen und Entwicklungsprozessen mithilfe von KI-Technologien Prototyping, Testen und Validieren von KI-Ansätzen und -Algorithmen Zusammenarbeit mit einem interdisziplinären Team von Ingenieuren, Datenw…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ANDREAS STIHL AG & Co. KG",
+      "location": "Tübingen, Tübingen (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Praktikum im Bereich Konzeption Künstliche Intelligenz in Stuttgart",
+      "description": "Praktikum im Bereich Konzeption Künstliche Intelligenz Datum: 29.09.2023 Standort: Waiblingen, BW, DE, 71336 Unternehmen: STIHL Das ist die Aufgabe Exploration von KI-Methoden zur Entwicklung innovativer Funktionen in unseren Produkten Identifizierung von Möglichkeiten zur Optimierung von Entwicklungen und Entwicklungsprozessen mithilfe von KI-Technologien Prototyping, Testen und Validieren von KI-Ansätzen und -Algorithmen Zusammenarbeit mit einem interdisziplinären Team von Ingenieuren, Datenw…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ANDREAS STIHL AG & Co. KG",
+      "location": "Pforzheim, Baden-Württemberg",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Praktikum im Bereich Konzeption Künstliche Intelligenz in Stuttgart",
+      "description": "Praktikum im Bereich Konzeption Künstliche Intelligenz Datum: 29.09.2023 Standort: Waiblingen, BW, DE, 71336 Unternehmen: STIHL Das ist die Aufgabe Exploration von KI-Methoden zur Entwicklung innovativer Funktionen in unseren Produkten Identifizierung von Möglichkeiten zur Optimierung von Entwicklungen und Entwicklungsprozessen mithilfe von KI-Technologien Prototyping, Testen und Validieren von KI-Ansätzen und -Algorithmen Zusammenarbeit mit einem interdisziplinären Team von Ingenieuren, Datenw…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ANDREAS STIHL AG & Co. KG",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Praktikum im Bereich Konzeption Künstliche Intelligenz in Stuttgart",
+      "description": "Praktikum im Bereich Konzeption Künstliche Intelligenz Datum: 29.09.2023 Standort: Waiblingen, BW, DE, 71336 Unternehmen: STIHL Das ist die Aufgabe Exploration von KI-Methoden zur Entwicklung innovativer Funktionen in unseren Produkten Identifizierung von Möglichkeiten zur Optimierung von Entwicklungen und Entwicklungsprozessen mithilfe von KI-Technologien Prototyping, Testen und Validieren von KI-Ansätzen und -Algorithmen Zusammenarbeit mit einem interdisziplinären Team von Ingenieuren, Datenw…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ANDREAS STIHL AG & Co. KG",
+      "location": "Bietigheim-Bissingen, Ludwigsburg (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Praktikum im Bereich Konzeption Künstliche Intelligenz",
+      "description": "Praktikum im Bereich Konzeption Künstliche Intelligenz Datum: 29.09.2023 Standort: Waiblingen, BW, DE, 71336 Unternehmen: STIHL Das ist die Aufgabe Exploration von KI-Methoden zur Entwicklung innovativer Funktionen in unseren Produkten Identifizierung von Möglichkeiten zur Optimierung von Entwicklungen und Entwicklungsprozessen mithilfe von KI-Technologien Prototyping, Testen und Validieren von KI-Ansätzen und -Algorithmen Zusammenarbeit mit einem interdisziplinären Team von Ingenieuren, Datenw…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "ANDREAS STIHL AG & Co. KG",
+      "location": "Bittenfeld, Waiblingen",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Data Engineer Suchst du deinen Traumjob als Programmierer:in und bist EU Staatsbürger:in? Unternehmen in ganz Europa suchen mit OfferZen nach erfahrenen Data Engineers Unternehmen suchen auf der Entwickler-fokussierten Jobplattform OfferZen nach Data Engineers, die sie bei der Umwandlung von Rohdaten in nützliche Datensysteme unterstützen. Anforderungen: Mindestens 3 Jahre relevante Erfahrung Praktische Erfahrung im Umgang mit großen Datenmengen Erfahrung mit Big-Data-Tools: Hadoop, Spark, Kafk…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "OfferZen",
+      "location": "Berlin, Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "AI Engineer (m/w/d)",
+      "description": "Wir von LogaRec begleiten dich auf dem Weg zu deiner neuen Herausforderung! Seit unserer Gründung sind wir darauf spezialisiert für jeden unserer Kandidaten (also auch für dich ) den richtigen Arbeitgeber zu finden und dir die bestmöglichen Karrieremöglichkeiten, wie auch spannende Projekte zu eröffnen. Wir begleiten dich vom ersten Gespräch, über die Vorbereitung auf dein Interview bei unserem Kunden, wie auch bei der Gehaltsverhandlung und der Annahme deines Arbeitsvertrages. Aufgaben Gestalt…",
+      "salary_min": 55000,
+      "salary_max": 100000,
+      "company": "LogaRec GmbH",
+      "location": "Deutschland",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Data Engineer",
+      "description": "Data Engineer Suchst du deinen Traumjob als Programmierer:in und bist EU Staatsbürger:in? Unternehmen in ganz Europa suchen mit OfferZen nach erfahrenen Data Engineers Unternehmen suchen auf der Entwickler-fokussierten Jobplattform OfferZen nach Data Engineers, die sie bei der Umwandlung von Rohdaten in nützliche Datensysteme unterstützen. Anforderungen: Mindestens 3 Jahre relevante Erfahrung Praktische Erfahrung im Umgang mit großen Datenmengen Erfahrung mit Big-Data-Tools: Hadoop, Spark, Kafk…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "OfferZen",
+      "location": "München, München (Kreis)",
+      "source": "Adzuna"
+    },
+    {
+      "title": "IT Projektmanager (gn)",
+      "description": "Einleitung Derzeit suchen wir für unseren Mandanten - ein mittelständisches Tech Unternehmen aus Hamburg - einen IT Projektmanager (gn) . Du hast die Möglichkeit hybrid zu arbeiten (40-60% remote) sowie am schönen und modernen Standort in Hamburg . Regelmäßige Meetings mit den Peers und Teams vor Ort sind vorgesehen. Deine Aufgaben Anwendung von Design-Thinking-Prinzipien zum systematischen Verstehen und Analysieren von Kundenbedürfnissen Kontinuierliche Validierung des aktuellen Entwicklungsst…",
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "company": "workidentity GmbH",
+      "location": "Hammerbrook, Hamburg",
+      "source": "Adzuna"
+    }
+  ]
+}

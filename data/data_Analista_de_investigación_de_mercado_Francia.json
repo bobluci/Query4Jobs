@@ -1,0 +1,120 @@
+{
+  "job_title": "Analista de investigación de mercado",
+  "country": "Francia",
+  "currency_symbol": "€",
+  "currency_code": "EUR",
+  "total_jobs": 24,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "R": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "Ingénieur Commercial - H/F",
+      "description": "Vous avez une affinité avec les matières premières et la finance ? Vous aspirez à avoir un impact direct dans l'une des entreprises leaders des marchés environnementaux ? Vous souhaitez commencer votre carrière dans un environnement dynamique et en constante évolution ? Postulez dès maintenant et rejoignez notre équipe dans nos bureaux à Paris  À propos d'OTC Flow OTC Flow est un courtier spécialisé dans les marchés européens et locaux de l'énergie renouvelable. Notre mission est de fournir aux…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "OTC Flow",
+      "location": "La Défense, Courbevoie",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Junior Business Developer - H/F",
+      "description": "Vous avez une affinité avec les matières premières et la finance? Vous aspirez à avoir un impact direct dans l'une des entreprises leaders des marchés environnementaux ? Vous souhaitez commencer votre carrière dans un environnement dynamique et en constante évolution ? Postulez dès maintenant et rejoignez notre équipe au sein de nos bureaux à Paris  À propos d'OTC Flow OTC Flow est un courtier spécialisé dans les marchés européens et locaux de l'énergie renouvelable. Notre mission est de fourni…",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "OTC Flow",
+      "location": "La Défense, Courbevoie",
+      "source": "Adzuna"
+    },
+    {
+      "title": "stagiaire service technique études",
+      "description": "&nbsp;...Leviat est un leader mondial dans les technologies <b>de </b>connexion, de fixation, de levage et d'ancrage pour l'industrie de la construction...&nbsp;&nbsp;...d’ingénieurs, votre mission principale sera de participer aux <b>études </b>sur des solutions techniques intégrées dans la structure béton du...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Leviat",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Technicien de maintenance H/F",
+      "description": "&nbsp;...Poste:  Technicien <b>de </b>maintenance H/F \r\n\r\nDate de début: Immédiate\r\nType de contrat: CDI...&nbsp;&nbsp;..., qualifications et formation \r\n- <b>Études </b>techniques ou expérience pratique en rapport...&nbsp;&nbsp;...plus populaire. \r\n Rejoignez le leader du <b>marché</b> et faites partie du premier fournisseur de...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Responsable de Domaine D365 - Supply Chain F/H",
+      "description": "&nbsp;...salariés et 25 sites en France) est une filiale du groupe CRH, leader mondial des matériaux <b>de </b>construction. STRADAL conçoit, fabrique, livre des solutions en béton pour les <b>marchés </b>de l’Eau, de L’Energie et les Infrastructures Urbaines. \r\n\r\n STRADAL  est une structure...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Stradal",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Chargé de mission Commercial & Marketing",
+      "description": "&nbsp;...Cardinal Health est un groupe international <b>de </b>premier plan dans les dispositifs médicaux et les services pour le monde de la santé....&nbsp;&nbsp;...Thermométrie et SCD pour renouvellement du parc ou gérer une fin de <b>marché</b>. \r\n Traitement des appels entrants et sortants \r\n Gestion des...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Cardinal Health",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Office Manager / Assistant de Direction H/F",
+      "description": "&nbsp;...the rental residential real estate business. To learn more, visit  . \r\n\r\n\r\n JOB DESCRIPTION SUMMARY \r\n L'Office Manager / Assistant <b>de </b>Direction H/F apporte son soutien à l’équipe du bureau de Paris. Il/elle est plus particulièrement en charge de la gestion opérationnelle...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Greystar",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "description": "&nbsp;...Fluency in English (professional working level required)\r\n\r\n\r\n Coders Connect is partnering with Sanofi to hire multiple   Data <b>Analysts </b>   for their growing   R&D Accelerator    unit in Paris. These are hybrid roles working on impactful, data-driven products that support...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Coders Connect",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Dessinateur Projeteur F/H",
+      "description": "&nbsp;...du groupe CRH, leader mondial des matériaux <b>de </b>construction. STRADAL conçoit, fabrique, livre des solutions en béton pour les <b>marchés </b>de l’Eau, de L’Energie et les...&nbsp;&nbsp;...activités \r\n Prendre en compte des affaires en <b>étude </b>d’avant-projet, d’exécution ou de développement...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Stradal",
+      "location": "France",
+      "source": "Jooble"
+    },
+    {
+      "title": "Chargé(e) de projet web (stage) F/H",
+      "description": "&nbsp;...Qui est Teva Laboratoires?\r\n En France- Teva Santé se situe au 5ème rang des groupes pharmaceutiques pour le nombre <b>de </b>médicaments dispensés. Grâce à sa double expertise de médicaments génériques et de spécialités, Teva santé met ses médicaments à la disposition des patients...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Teva Pharmaceutical Industries Ltd.",
+      "location": "France",
+      "source": "Jooble"
+    }
+  ]
+}

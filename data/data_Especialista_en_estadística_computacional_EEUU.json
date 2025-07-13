@@ -1,0 +1,122 @@
+{
+  "job_title": "Especialista en estadística computacional",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 30,
+  "salary_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "std_dev": 0,
+    "message": "No hay datos salariales disponibles"
+  },
+  "top_technologies": {
+    "SAS": 5,
+    "R": 3,
+    "Excel": 1
+  },
+  "experience_stats": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "mean": 0,
+    "median": 0,
+    "distribution": {},
+    "message": "No hay datos de experiencia disponibles"
+  },
+  "jobs_sample": [
+    {
+      "title": "HIM Vital Statistics Specialist Temp 40D",
+      "description": "Job Summary: The HIM Vital <b>Statistics Specialist </b>completes and files birth and death certificates according to guidelines established by the...&nbsp;&nbsp;...knowledge of Medical Terminology, Word Processing and other <b>computer </b>applications. Knowledge/experience in health information...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Care New England",
+      "location": "Providence, RI",
+      "source": "Jooble"
+    },
+    {
+      "title": "Statistician",
+      "description": "&nbsp;...a fast-paced, innovative environment, you will apply advanced <b>statistical </b>techniques, machine learning models, and AI-driven methodologies...&nbsp;&nbsp;...**\n+ Bachelor's degree in Data Science, Statistics, <b>Computer </b>Science, Mathematics, or related field; Master's degree preferred...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "IQVIA",
+      "location": "United States",
+      "source": "Jooble"
+    },
+    {
+      "title": "Statistician II - Anticipated Vacancy",
+      "description": "&nbsp;...is required.\r\n\r\nSkills or knowledge required:\r\n~Knowledge of <b>statistical </b>methods.\r\n~Knowledge of research methods, practices, and techniques...&nbsp;&nbsp;...in written or graphic form.\r\n~Ability to use standardized <b>computer </b>programs and equipment, specifically Excel and other Microsoft...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "",
+      "location": "Augusta, ME",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Statistician - Semel Institute",
+      "description": "&nbsp;...responsibility of database construction, data management and <b>statistical </b>analysis. You'll collaborate with staff or faculty on data management...&nbsp;&nbsp;...Pay Range: $\nQualifications\n+ Bachelor's degree in Statistics/<b>Computer </b>Science/Bioinformatics/Data Specification/ Data Science/...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "UCLA Health",
+      "location": "Los Angeles, CA",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Statistician",
+      "description": "&nbsp;...Improvement project.\r\n\r\nResponsibilities include:\r\n\r\nUtilizes <b>statistical </b>tools and methods to assess the behavior of quality performance...&nbsp;&nbsp;...to support business decision making.\r\nWorks with large scale <b>computing </b>frameworks, data analysis systems and modeling environments....&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "SimulStat's client",
+      "location": "Remote",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Statistician - NV",
+      "description": "&nbsp;...marketability of pharmaceutical and/or biological products.\n+ Uses sound <b>statistical </b>methodology to conduct studies relating to the life cycle of...&nbsp;&nbsp;...mobile. The employee is also required to interact with a <b>computer,</b> and communicate with peers and co-workers. Contact your...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Medtronic",
+      "location": "Irvine, CA",
+      "source": "Jooble"
+    },
+    {
+      "title": "Compliance Statistician",
+      "description": "&nbsp;...development of company standards and efficient processes for <b>statistical </b>activities \r\n Provides statistical data analysis matched to purpose...&nbsp;&nbsp;...Carries out statistical data analysis and statistical <b>computing </b>using sophisticated software tools \r\n Conducts research to understand...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "",
+      "location": "Rosemead, CA",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Statistical Data Analyst",
+      "description": "**Job Description:**\nThe Senior level <b>Statistical </b>Data Analyst position is focused on generating impactful solutions for Research at Intermountain...&nbsp;&nbsp;...field such as statistics, mathematics, information systems, <b>computer </b>science, finance, business management, or economics and four...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Intermountain Health",
+      "location": "Phoenix, AZ",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Biostatistician",
+      "description": "&nbsp;...decide on appropriate study design and <b>statistical </b>methodology\n- Responsible for comprehensive...&nbsp;&nbsp;...analyses are needed\n- Responsible for <b>computer </b>programs that are accurate, efficient...&nbsp;&nbsp;....g., programmers and technical support <b>specialists)</b>.\n+ Indicate the reporting...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Abbott",
+      "location": "Alameda, CA",
+      "source": "Jooble"
+    },
+    {
+      "title": "Senior Biostatistician",
+      "description": "&nbsp;...humanity. Learn more at \n**Job Function:**\nData Analytics & <b>Computational </b>Sciences\n**Job Sub** **Function:**\nBiostatistics\n**Job Category...&nbsp;&nbsp;...The Senior Biostatistician will be responsible for designing <b>statistical </b>analysis plans for clinical studies; performing statistical...&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company": "Johnson and Johnson",
+      "location": "Irvine, CA",
+      "source": "Jooble"
+    }
+  ]
+}

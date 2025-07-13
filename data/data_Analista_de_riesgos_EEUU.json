@@ -1,0 +1,121 @@
+{
+  "job_title": "Analista de riesgos",
+  "country": "EEUU",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "total_jobs": 80,
+  "salary_stats": {
+    "count": 102,
+    "min": 2506.0,
+    "max": 185558.31,
+    "mean": 93836.36137254901,
+    "median": 84947.34,
+    "std_dev": 34358.56887834032
+  },
+  "top_technologies": {
+    "Excel": 2,
+    "R": 2
+  },
+  "experience_stats": {
+    "count": 1,
+    "min": 5,
+    "max": 5,
+    "mean": 5,
+    "median": 5,
+    "distribution": {
+      "5": 1
+    }
+  },
+  "jobs_sample": [
+    {
+      "title": "Jr. Credit Risk Analyst",
+      "description": "Jr. Credit Risk Analyst Country: United States of America Your Journey Starts Here: Santander is a global leader and innovator in the financial services industry. We believe that our employees are our greatest asset. Our focus is on fostering an enriching journey that empowers you to explore diverse career opportunities while nurturing your personal growth. We are committed to creating an environment where continuous learning and development are prioritized, enabling you to thrive both professi…",
+      "salary_min": 67332.69,
+      "salary_max": 67332.69,
+      "company": "Santander Holdings USA Inc",
+      "location": "Brickell, Miami-Dade County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Jr. Credit Risk Analyst",
+      "description": "Jr. Credit Risk AnalystCountry: United States of America Your Journey Starts Here: Santander is a global leader and innovator in the financial services industry. We believe that our employees are our greatest asset. Our focus is on fostering an enriching journey that empowers you to explore diverse career opportunities while nurturing your personal growth. We are committed to creating an environment where continuous learning and development are prioritized, enabling you to thrive both professio…",
+      "salary_min": 65616.05,
+      "salary_max": 65616.05,
+      "company": "Santander Holdings USA Inc",
+      "location": "Brickell, Miami-Dade County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Model Risk Validation Analyst – Expert Judgement Models",
+      "description": "Senior Model Risk Validation Analyst – Expert Judgement Models Country: United States of America Your Journey Starts Here: Santander is a global leader and innovator in the financial services industry. We believe that our employees are our greatest asset. Our focus is on fostering an enriching journey that empowers you to explore diverse career opportunities while nurturing your personal growth. We are committed to creating an environment where continuous learning and development are prioritize…",
+      "salary_min": 179309.48,
+      "salary_max": 179309.48,
+      "company": "Santander Holdings USA Inc",
+      "location": "East Boston, Suffolk County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Senior Model Risk Validation Analyst - Expert Judgement Models",
+      "description": "Senior Model Risk Validation Analyst – Expert Judgement ModelsCountry: United States of America Your Journey Starts Here: Santander is a global leader and innovator in the financial services industry. We believe that our employees are our greatest asset. Our focus is on fostering an enriching journey that empowers you to explore diverse career opportunities while nurturing your personal growth. We are committed to creating an environment where continuous learning and development are prioritized…",
+      "salary_min": 185558.31,
+      "salary_max": 185558.31,
+      "company": "Santander Holdings USA Inc",
+      "location": "South Boston, Suffolk County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Risk Analyst,",
+      "description": "Job Summary: The Sr. Risk Analyst Contractor role supports Enterprise Risk Management across various programs and projects. The analyst will conduct risk assessments, maintain risk policies and procedures, and collaborate with different teams to ensure compliance and effective risk management practices. Location: Washington, N/A, Washington, United States, Responsibilities: - Participate in Enterprise Risk efforts across business areas and vendor engagements. - Update risk information within th…",
+      "salary_min": 94892.94,
+      "salary_max": 94892.94,
+      "company": "vTech Solution",
+      "location": "Washington, Washington, D.C.",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Risk Analyst",
+      "description": "Unlock your potential with Quantum ePay® - a payment processing firm that helps organizations lower their costs, earn more money, and improve their business operations. We offer truly innovative payment processing solutions and an ever-expanding line of products to boost productivity, enabling our clients to operate efficiently and effectively in confidence. With a focus on providing exceptional service to our customers, we value integrity, teamwork, passion and delivering reliable service. Our…",
+      "salary_min": 60000,
+      "salary_max": 60000,
+      "company": "Quantum Electronic Payments",
+      "location": "Anaheim Hills, Orange County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Risk Analyst",
+      "description": "Why join this team Serve as a key contributor in the implementation and ongoing maintenance of the ERM Framework to ensure alignment with the Credit Union's strategic objectives and regulatory requirements. Support various ERM processes and programs including Governance forums, issues management, model governance, and maintaining ERM-related documentation. Provide audit and exam support as needed. Analyze key risk indicators (KRIs), risk assessment results and other relevant risk data to prepar…",
+      "salary_min": 84873.97,
+      "salary_max": 84873.97,
+      "company": "United Nations Federal Credit Union",
+      "location": "New York, US",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Risk Analyst",
+      "description": "SourcePro Search is conducting a search for a talented and knowledgeable Risk Analyst with expertise in Internal Audit and/or External Auditors IT Audit. Ideally, you should have at least 2 years of experience in IT Risk Assessment and/or IT Audits, with a preference for SOX ITGC experience. What You'll Do: The ideal candidate will primarily focus on risk identification, mitigation and reporting associated with the development and operation of the exchange trading systems, support infrastructur…",
+      "salary_min": 123959.8,
+      "salary_max": 123959.8,
+      "company": "SourcePro Search",
+      "location": "Trenton, Mercer County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Risk Analyst",
+      "description": "Los Angeles, CA | On-site | Risk & Data Pay Range: $65,000-$75,000 Per Year. The exact starting compensation to be offered will be determined at the time of selecting for hire and will be dependent on a wide range of factors, including but not limited to geographic location, skill set, experience, education, credentials and licensure when applicable. About Knight Insurance Group Knight Insurance Group is a privately-owned property & casualty Insurance company with total assets of over $1.7 bill…",
+      "salary_min": 65000,
+      "salary_max": 75000,
+      "company": "Hankey Group External",
+      "location": "Sanford, Los Angeles County",
+      "source": "Adzuna"
+    },
+    {
+      "title": "Risk Analyst",
+      "description": "COMPANY OVERVIEW Moss is a national privately held construction firm providing innovative solutions resulting in award-winning projects. With regional offices across the United States, Moss focuses on construction management, solar EPC, and design-build. The company’s diverse portfolio encompasses a wide range of sectors, including luxury high-rise residential, landmark mixed-use developments, hospitality, K-12 and higher education, justice, solar energy and battery storage, and sports. Moss is…",
+      "salary_min": 101232.5,
+      "salary_max": 101232.5,
+      "company": "Moss",
+      "location": "Fort Lauderdale, Broward County",
+      "source": "Adzuna"
+    }
+  ]
+}
