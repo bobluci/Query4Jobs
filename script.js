@@ -282,3 +282,30 @@ function createSourceChart(jobsSample) {
     },
   })
 }
+// Listado de empleos
+function displayJobsList(jobs, currencySymbol, currencyCode) {
+  const container = document.getElementById("jobsList")
+  container.innerHTML = ""
+
+  jobs.forEach((job) => {
+    const jobCard = document.createElement("div")
+    jobCard.className = "job-card"
+
+    let salaryText = ""
+    if (job.salary_min && job.salary_max) {
+      salaryText = `<div class="job-salary">${currencySymbol}${job.salary_min.toLocaleString()} - ${currencySymbol}${job.salary_max.toLocaleString()} ${currencyCode}</div>`
+    } else if (job.salary_min) {
+      salaryText = `<div class="job-salary">Desde ${currencySymbol}${job.salary_min.toLocaleString()} ${currencyCode}</div>`
+    }
+
+    jobCard.innerHTML = `
+            <h4>${job.title}</h4>
+            <div class="job-company">${job.company}</div>
+            <div class="job-location">📍 ${job.location}</div>
+            ${salaryText}
+            <span class="job-source">${job.source}</span>
+        `
+
+    container.appendChild(jobCard)
+  })
+}
