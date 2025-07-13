@@ -339,3 +339,19 @@ class JobDataCollector:
         }
         
         return analysis
+
+# Estadísticas salariales ---------------------------------------
+    def calculate_salary_stats(self, salaries):
+        """Calcular estadísticas salariales"""
+        if not salaries:
+            return {"count": 0, "min": 0, "max": 0, "mean": 0, "median": 0, "std_dev": 0, "message": "No hay datos salariales disponibles"}
+            
+        return {
+            "count": len(salaries),
+            "min": min(salaries),
+            "max": max(salaries),
+            "mean": statistics.mean(salaries),
+            "median": statistics.median(salaries),
+            "std_dev": statistics.stdev(salaries) if len(salaries) > 1 else 0
+        }
+    
