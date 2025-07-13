@@ -282,3 +282,142 @@ function createSourceChart(jobsSample) {
     },
   })
 }
+// Listado de empleos
+function displayJobsList(jobs, currencySymbol, currencyCode) {
+  const container = document.getElementById("jobsList")
+  container.innerHTML = ""
+
+  jobs.forEach((job) => {
+    const jobCard = document.createElement("div")
+    jobCard.className = "job-card"
+
+    let salaryText = ""
+    if (job.salary_min && job.salary_max) {
+      salaryText = `<div class="job-salary">${currencySymbol}${job.salary_min.toLocaleString()} - ${currencySymbol}${job.salary_max.toLocaleString()} ${currencyCode}</div>`
+    } else if (job.salary_min) {
+      salaryText = `<div class="job-salary">Desde ${currencySymbol}${job.salary_min.toLocaleString()} ${currencyCode}</div>`
+    }
+
+    jobCard.innerHTML = `
+            <h4>${job.title}</h4>
+            <div class="job-company">${job.company}</div>
+            <div class="job-location">📍 ${job.location}</div>
+            ${salaryText}
+            <span class="job-source">${job.source}</span>
+        `
+
+    container.appendChild(jobCard)
+  })
+}
+
+function showLoading() {
+  document.getElementById("loadingSection").style.display = "block"
+  document.getElementById("resultsSection").style.display = "none" // Ocultar resultados al cargar
+  document.getElementById("errorSection").style.display = "none" // Ocultar errores al cargar
+}
+
+function hideLoading() {
+  document.getElementById("loadingSection").style.display = "none"
+}
+
+function showResults() {
+  document.getElementById("resultsSection").style.display = "block"
+}
+
+function hideResults() {
+  document.getElementById("resultsSection").style.display = "none"
+}
+
+function showError(message) {
+  document.getElementById("errorText").textContent = message
+  document.getElementById("errorSection").style.display = "block"
+  document.getElementById("loadingSection").style.display = "none" // Ocultar carga al mostrar error
+  document.getElementById("resultsSection").style.display = "none" // Ocultar resultados al mostrar error
+}
+
+function hideError() {
+  document.getElementById("errorSection").style.display = "none"
+}
+
+// Función para ocultar error (llamada desde HTML)
+window.hideError = hideError
+
+// Función de debugging
+window.debugSearch = () => {
+  console.log("Función de búsqueda ejecutándose...")
+  const jobPosition = document.getElementById("jobPosition").value
+  const country = document.getElementById("country").value
+  console.log("Puesto:", jobPosition, "País:", country)
+}
+// --- Funciones para cursos de Coursera ---
+async function loadCourseraCourses() {
+  try {
+    const response = await fetch("data/coursera_courses.json")
+    let coursesData
+    if (response.ok) {
+      coursesData = await response.json()
+    } else {
+      console.warn(
+        "No se pudo cargar data/coursera_courses.json. Asegúrate de haber ejecutado 'python data_collector.py' y de estar sirviendo la aplicación con un servidor web local.",
+      )
+      // Si no se puede cargar, se mostrará un mensaje de "No se encontraron cursos"
+      coursesData = { Python: [], SQL: [], R: [] } // Objeto vacío para evitar errores en displayCourseraCourses
+    }
+    displayCourseraCourses(coursesData)
+  } catch (error) {
+    console.error("Error al cargar los cursos de Coursera:", error)
+    showError(
+      `Error al cargar los cursos de Coursera. Esto puede deberse a la política de seguridad del navegador (CORS) al abrir el archivo directamente.
+      Por favor, asegúrate de:
+      1. Haber ejecutado 'python data_collector.py' para generar los archivos JSON.
+      2. Estar ejecutando la aplicación a través de un servidor web local (ej. http://localhost:8000), no directamente desde el archivo.
+      (Detalles técnicos en la consola del navegador)`,
+    )
+    displayCourseraCourses({ Python: [], SQL: [], R: [] }) // Objeto vacío para evitar errores
+  }
+}
+// Visualización de cursos de Coursera
+function displayCourseraCourses(coursesData) {
+  const pythonContainer = document.getElementById("pythonCourses")
+  const sqlContainer = document.getElementById("sqlCourses")
+  const rContainer = document.getElementById("rCourses")
+
+  // Limpiar contenedores antes de añadir nuevos cursos
+  pythonContainer.innerHTML = ""
+  sqlContainer.innerHTML = ""
+  rContainer.innerHTML = ""
+
+  if (coursesData.Python && coursesData.Python.length > 0) {
+    coursesData.Python.forEach((course) => {
+      pythonContainer.appendChild(createCourseCard(course))
+    })
+  } else {
+    pythonContainer.innerHTML = "<p>No se encontraron cursos de Python.</p>"
+  }
+
+  if (coursesData.SQL && coursesData.SQL.length > 0) {
+    coursesData.SQL.forEach((course) => {
+      sqlContainer.appendChild(createCourseCard(course))
+    })
+  } else {
+    sqlContainer.innerHTML = "<p>No se encontraron cursos de SQL.</p>"
+  }
+
+  if (coursesData.R && coursesData.R.length > 0) {
+    coursesData.R.forEach((course) => {
+      rContainer.appendChild(createCourseCard(course))
+    })
+  } else {
+    rContainer.innerHTML = "<p>No se encontraron cursos de R.</p>"
+  }
+}
+
+function createCourseCard(course) {
+  const card = document.createElement("div")
+  card.className = "course-card"
+  card.innerHTML = `
+        <h4><a href="${course.link}" target="_blank" rel="noopener noreferrer">${course.title}</a></h4>
+        <p>${course.snippet || "No hay descripción disponible."}</p>
+    `
+  return card
+}
