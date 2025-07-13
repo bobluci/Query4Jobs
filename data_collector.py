@@ -389,3 +389,48 @@ class JobDataCollector:
         else:
             print(f"⚠️ No se pudo generar el reporte para {job_title_es} en {country}")
             return None
+# Generación de reporte de cursos Coursera --------------------------------
+    def generate_coursera_report(self):
+        """Generar reporte de cursos de Coursera para palabras clave específicas"""
+        all_coursera_courses = {}
+        for keyword in self.coursera_keywords:
+            courses = self.search_coursera_courses(keyword)
+            all_coursera_courses[keyword] = courses
+            time.sleep(1) # Pausa entre llamadas a la API para evitar bloqueos
+            
+        # Guardar en archivo JSON dentro del directorio de salida
+        filename = os.path.join(self.data_output_dir, "coursera_courses.json")
+        try:
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(all_coursera_courses, f, ensure_ascii=False, indent=2)
+            print(f"✅ Reporte de cursos de Coursera guardado en: {filename}")
+            return all_coursera_courses
+        except Exception as e:
+            print(f"❌ Error al guardar el reporte de cursos de Coursera en {filename}: {e}")
+            return None
+def main():
+    """Función principal para ejecutar el recolector de datos"""
+    collector = JobDataCollector()
+    
+    print("=== Query4Jobs - Recolector de Datos ===")
+    print("\nPuestos disponibles:")
+    for i, job in enumerate(collector.job_positions, 1):
+        print(f"{i}. {job}")
+    
+    print("\nPaíses disponibles:")
+    for i, country in enumerate(collector.countries.keys(), 1):
+        print(f"{i}. {country}")
+    
+    print("\n--- Generando reportes de empleos para todos los puestos y países ---")
+    for job_pos in collector.job_positions:
+        for country_name in collector.countries.keys():
+            collector.generate_report(job_pos, country_name)
+            time.sleep(2) # Pausa para evitar saturar las APIs y para mejor visualización en consola
+    # Generar reporte de cursos de Coursera
+    print("\n--- Generando reporte de cursos de Coursera ---")
+    collector.generate_coursera_report()
+    
+    print("\n=== Proceso de recolección de datos finalizado ===")
+
+if __name__ == "__main__":
+    main()
