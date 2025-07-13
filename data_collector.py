@@ -397,4 +397,14 @@ class JobDataCollector:
             courses = self.search_coursera_courses(keyword)
             all_coursera_courses[keyword] = courses
             time.sleep(1) # Pausa entre llamadas a la API para evitar bloqueos
-
+            
+        # Guardar en archivo JSON dentro del directorio de salida
+        filename = os.path.join(self.data_output_dir, "coursera_courses.json")
+        try:
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(all_coursera_courses, f, ensure_ascii=False, indent=2)
+            print(f"✅ Reporte de cursos de Coursera guardado en: {filename}")
+            return all_coursera_courses
+        except Exception as e:
+            print(f"❌ Error al guardar el reporte de cursos de Coursera en {filename}: {e}")
+            return None
