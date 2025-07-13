@@ -426,3 +426,11 @@ def main():
         for country_name in collector.countries.keys():
             collector.generate_report(job_pos, country_name)
             time.sleep(2) # Pausa para evitar saturar las APIs y para mejor visualización en consola
+    # Generar reporte de cursos de Coursera
+    print("\n--- Generando reporte de cursos de Coursera ---")
+    collector.generate_coursera_report()
+    
+    print("\n=== Proceso de recolección de datos finalizado ===")
+
+if __name__ == "__main__":
+    main()
