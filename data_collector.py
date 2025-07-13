@@ -248,3 +248,52 @@ class JobDataCollector:
                     continue
                     
         return None
+# Análisis de datos de empleo ADZUNA------------------------------------
+    def analyze_job_data(self, job_title_es, country):
+        """Analizar datos de trabajo para un puesto y país específico"""
+        print(f"Analizando: {job_title_es} en {country}")
+        
+        country_codes = self.countries.get(country, {})
+        target_lang = self.language_map.get(country, "es")
+        currency_info = self.currency_map.get(country, {"symbol": "$", "code": "USD"})
+
+        if not country_codes:
+            print(f"País no soportado: {country}")
+            return None
+            
+        translated_job_title = self._translate_job_title(job_title_es, target_lang)
+        print(f"Buscando '{translated_job_title}' en {country} ({target_lang})")
+
+        all_jobs = []
+        salaries = []
+        technologies = []
+        experience_years = []
+        
+        # Buscar en Adzuna
+        adzuna_data = self.search_adzuna_jobs(translated_job_title, country_codes["adzuna"])
+        if adzuna_data and "results" in adzuna_data:
+            for job in adzuna_data["results"]:
+                job_info = {
+                    "title": job.get("title", ""),
+                    "description": job.get("description", ""),
+                    "salary_min": job.get("salary_min"),
+                    "salary_max": job.get("salary_max"),
+                    "company": job.get("company", {}).get("display_name", ""),
+                    "location": job.get("location", {}).get("display_name", ""),
+                    "source": "Adzuna"
+                }
+                all_jobs.append(job_info)
+                
+                if job_info["salary_min"]:
+                    salaries.append(job_info["salary_min"])
+                if job_info["salary_max"]:
+                    salaries.append(job_info["salary_max"])
+                    
+                full_text = f"{job_info['title']} {job_info['description']}"
+                technologies.extend(self.extract_technologies_from_text(full_text))
+                
+                exp = self.extract_experience_from_text(full_text)
+                if exp:
+                    experience_years.append(exp)
+        
+        time.sleep(1)
